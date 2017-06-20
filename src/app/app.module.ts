@@ -7,7 +7,8 @@ import { AppNavigationBarComponent } from './UI/navbar/app.navbar.component';
 import { AppCenterComponent } from './UI/center/app.center.component';
 import { AppSidebarComponent } from './UI/sidebar/app.sidebar.component';
 import { AppFooterComponent } from './UI/footer/app.footer.component';
-import { AutRequestFormComponent } from './AUT/aut.form.component';
+import { AutRequestFormComponent } from './AUTRequest/aut.form.component';
+import { AUTService } from './AUTService/aut-service';
 
 
 @NgModule({
@@ -23,7 +24,9 @@ import { AutRequestFormComponent } from './AUT/aut.form.component';
     BrowserModule,
     FormsModule
   ],
-  providers: [],
+  providers: [
+    AUTService
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

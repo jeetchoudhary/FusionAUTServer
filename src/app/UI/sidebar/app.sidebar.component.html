@@ -1,6 +1,7 @@
+
 <div class="col-md-3 col-lg-2 sidebar-offcanvas" id="sidebar" role="navigation">
-  <ul class="nav flex-column pl-1">
-    <li class="nav-item"><a class="nav-link" href="#">Overview</a></li>
-    <li class="nav-item"><a class="nav-link" href="#">Reports</a></li>
+  <p style="min-width: 150px;font-size: larger;font-weight: 800;color: blue;margin-left: 10px;">Request History</p>
+  <ul *ngFor="let request of autRequestList" class="nav flex-column pl-1">
+    <li class="nav-item"><a class="nav-link" href="#" data-toggle="tooltip" data-placement="right" title="{{request.viewLabel}}" >{{request.projectList}}</a></li>
   </ul>
 </div>

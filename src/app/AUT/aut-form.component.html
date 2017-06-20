@@ -1,0 +1,33 @@
+<div class="container">
+    <form (ngSubmit)="onSubmit(autRequestForm.value)" #autRequestForm="ngForm">
+        <div class="form-group">
+            <label for="projectList">Project Name</label>
+            <input required type="text" class="form-control" id="projectList" required [(ngModel)]="model.projectList" name="projectList">
+        </div>
+        <div class="form-group">
+            <label for="databasaseHost">Database Host</label>
+            <input type="text" class="form-control" id="databasaseHost" [(ngModel)]="model.databasaseHost" name="databasaseHost">
+        </div>
+        <div class="form-group">
+            <label for="databasePort">Database Port</label>
+            <input type="text" class="form-control" id="databasePort" [(ngModel)]="model.databasePort" name="databasePort">
+        </div>
+        <div class="form-group">
+            <label for="databaseUser">Database User</label>
+            <input type="text" class="form-control" id="databaseUser" [(ngModel)]="model.databaseUser" name="databaseUser">
+        </div>
+        <div class="form-group">
+            <label for="databasePass">Database Password</label>
+            <input type="text" class="form-control" id="databasePass" [(ngModel)]="model.databasePass" name="databasePass">
+        </div>
+        <div class="form-group">
+            <label for="requestorEmail">Requestor Email</label>
+            <input required type="text" class="form-control" id="requestorEmail" [(ngModel)]="model.requestorEmail" name="requestorEmail">
+        </div>
+         <div class="form-group">
+        <div class="col-xs-12">
+            <button type="submit" [disabled]="!autRequestForm.valid" class="btn btn-default" style="float: right;" >Submit</button>
+        </div>
+    </div>
+    </form>
+</div>

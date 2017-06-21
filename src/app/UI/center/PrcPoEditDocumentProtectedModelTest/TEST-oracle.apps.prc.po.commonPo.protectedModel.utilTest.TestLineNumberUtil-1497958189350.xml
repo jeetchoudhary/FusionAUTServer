@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestLineNumberUtil" timestamp="2017-06-20T11:29:49" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="8" failures="0" errors="0" time="1.531" runId="0">
+  <properties />
+  <testcase name="testGetMaxLineNum[test Get Maximum LineNumber]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestLineNumberUtil" id="0" time="0.226" />
+  <testcase name="testGetMinLineNumber[test Get Minimum LineNumber]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestLineNumberUtil" id="0" time="0.018" />
+  <testcase name="testGetLineId[test Get LineId]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestLineNumberUtil" id="0" time="0.0090" />
+  <testcase name="testFindMaxLineNumber[test Find Max LineNumber]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestLineNumberUtil" id="0" time="0.011" />
+  <testcase name="calcMaxLineNumForModified[calculate Max LineNum For Modified]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestLineNumberUtil" id="0" time="0.012" />
+  <testcase name="testCalcMaxLineNumForAll[test Calculate Max LineNum For All]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestLineNumberUtil" id="0" time="0.0090" />
+  <testcase name="testResetMaxLineParametersOnDelete[reset Max Line Parameters On LineNum Change]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestLineNumberUtil" id="0" time="0.0020" />
+  <testcase name="testResetMaxLineParametersOnLineNumChange[reset Max Line Parameters On LineNum Change]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestLineNumberUtil" id="0" time="0.0020" />
+</testsuite>

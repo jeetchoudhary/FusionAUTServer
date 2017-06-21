@@ -1,0 +1,190 @@
+<system-out><![CDATA[Insert: PO_HEADERS_ALL From XML File: TestPoMassUpdateRequester_PO_HEADERS_ALL.xml
+Insert: PO_HEADERS_DRAFT_ALL From XML File: TestPoMassUpdateRequester_PO_HEADERS_DRAFT_ALL.xml
+Insert: PO_DISTRIBUTIONS_ALL From XML File: TestPoMassUpdateRequester_PO_DISTRIBUTIONS_ALL.xml
+Insert: PO_DISTRIBUTIONS_DRAFT_ALL From XML File: TestPoMassUpdateRequester_PO_DISTRIBUTIONS_DRAFT_ALL.xml
+Insert: PO_DISTRIBUTIONS_ARCHIVE_ALL From XML File: TestPoMassUpdateRequester_PO_DISTRIBUTIONS_ARCHIVE_ALL.xml
+Insert: PO_VERSIONS From XML File: TestPoMassUpdateRequester_PO_VERSIONS.xml
+Insert: PO_LINE_LOCATIONS_ALL From XML File: TestPoMassUpdateRequester_PO_LINE_LOCATIONS_ALL.xml
+Insert: PO_ACTION_HISTORY From XML File: TestPoMassUpdateRequester_PO_ACTION_HISTORY.xml
+Insert: PO_LINES_DRAFT_ALL From XML File: TestPoMassUpdateRequester_PO_LINES_DRAFT_ALL.xml
+Insert: PO_LINES_ALL From XML File: TestPoMassUpdateRequester_PO_LINES_ALL.xml
+The TestMethodOwner annotation for this test method is missing: massUpdateRequester.
+
+The TestClassOwner annotation for this test is missing.
+
+**********************************************
+Starting test case: 1. Update Requester from 9999 to 8888 in incomplete Doc - 120000000009999
+
+
+
+    Assert Passed! - HashMap: ReturnValue
+    Assert Passed! - PoDistributionsAllVO 1.1. Deliver to Person Id changed in Transaction
+    Assert Passed! - PoDistributionsDraftAllVO 1.2. Deliver to Person Id changed in Draft
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: 1. Update Requester from 9999 to 8888 in incomplete Doc - 120000000009999
+**********************************************
+**********************************************
+Starting test case: 2. Change initiator for Pending Change Order from 7777 to 6666 for Doc - 120000000009998
+
+
+
+    Assert Passed! - HashMap: ReturnValue
+    Assert Passed! - PoHeadersAllVO 2.2. Update Change Order Initiator for document 120000000009998 -No changes in Header
+    Assert Passed! - PoVersionsVO 2.1. Update Change Order Initiator for document 120000000009998
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: 2. Change initiator for Pending Change Order from 7777 to 6666 for Doc - 120000000009998
+**********************************************
+**********************************************
+Starting test case: 3. Update Requester from 5555 to 4444 on Approved Documents without Pending Change Order
+[SEVERE] [handlerException] An error occurred while writing to the diagnostic log file because of this reason: Apps ODLHandler config setting not found! Check logging.xml and related config settings. (FND-10103)
+[SEVERE] [DcmProcessHelper] callBpelApprovalProcess: EXCEPTION Failed to publish Event
+[SEVERE] [DcmProcessHelper] callBpelApprovalProcess: eventName PurchaseOrder
+[SEVERE] [DcmProcessHelper] callBpelApprovalProcess: eventNamespace http://xmlns.oracle.com/apps/prc/po/approval/PrcPoApprovalComposite/PurchaseOrder
+[SEVERE] [DcmProcessHelper] java.lang.NullPointerException
+[SEVERE] [DcmProcessHelper] oracle.apps.prc.po.commonPo.protectedModel.helper.DcmProcessHelper.publishEvent(DcmProcessHelper.java:305)
+[SEVERE] [DcmProcessHelper] oracle.apps.prc.po.commonPo.protectedModel.helper.DcmProcessHelper.publishPurchaseOrderEvent(DcmProcessHelper.java:76)
+[SEVERE] [DcmProcessHelper] oracle.apps.prc.po.commonPo.protectedModel.helper.PoMassUpdateRequester.updateRequesterOnApprovedDocuments(PoMassUpdateRequester.java:765)
+[SEVERE] [DcmProcessHelper] oracle.apps.prc.po.commonPo.protectedModel.helper.PoMassUpdateRequester.massUpdateRequester(PoMassUpdateRequester.java:211)
+[SEVERE] [DcmProcessHelper] oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoMassUpdateRequester.massUpdateRequester(TestPoMassUpdateRequester.java:106)
+[SEVERE] [DcmProcessHelper] sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[SEVERE] [DcmProcessHelper] sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+[SEVERE] [DcmProcessHelper] sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+[SEVERE] [DcmProcessHelper] java.lang.reflect.Method.invoke(Method.java:597)
+[SEVERE] [DcmProcessHelper] org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:45)
+[SEVERE] [DcmProcessHelper] org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+[SEVERE] [DcmProcessHelper] org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:42)
+[SEVERE] [DcmProcessHelper] org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+[SEVERE] [DcmProcessHelper] org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:263)
+[SEVERE] [DcmProcessHelper] org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:68)
+[SEVERE] [DcmProcessHelper] org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:47)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner$3.run(ParentRunner.java:231)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:60)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner.runChildren(ParentRunner.java:229)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner.access$000(ParentRunner.java:50)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:222)
+[SEVERE] [DcmProcessHelper] org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+[SEVERE] [DcmProcessHelper] org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:30)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner.run(ParentRunner.java:300)
+[SEVERE] [DcmProcessHelper] org.junit.runners.Suite.runChild(Suite.java:128)
+[SEVERE] [DcmProcessHelper] org.junit.runners.Suite.runChild(Suite.java:24)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner$3.run(ParentRunner.java:231)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:60)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner.runChildren(ParentRunner.java:229)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner.access$000(ParentRunner.java:50)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:222)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner.run(ParentRunner.java:300)
+[SEVERE] [DcmProcessHelper] oracle.apps.fnd.appltest.unittest.junit.UTRunner$1.run(UTRunner.java:1267)
+[SEVERE] [DcmProcessHelper] org.junit.runner.JUnitCore.run(JUnitCore.java:136)
+[SEVERE] [DcmProcessHelper] oracle.apps.fnd.appltest.unittest.junit.UTRunner.runTest(UTRunner.java:1055)
+[SEVERE] [DcmProcessHelper] oracle.apps.fnd.appltest.unittest.junit.UTRunner.execute(UTRunner.java:1223)
+[SEVERE] [DcmProcessHelper] sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[SEVERE] [DcmProcessHelper] sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+[SEVERE] [DcmProcessHelper] sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+[SEVERE] [DcmProcessHelper] java.lang.reflect.Method.invoke(Method.java:597)
+[SEVERE] [DcmProcessHelper] oracle.apps.fnd.appltest.unittest.junit.entry.UTRunnerMain.main(UTRunnerMain.java:153)
+[SEVERE] [PoMassUpdateRequester] updateRequesterOnApprovedDocuments: BUS_EVENT FAILED - PurchaseOrder Event Faulted
+
+
+
+
+
+
+
+
+
+    Assert Passed! - PoDistributionsAllVO 3.1. Deliver to Person Id changed in Transaction
+    Assert Passed! - HashMap: ReturnValue
+    Assert Passed! - PoDistributionsDraftAllVO 3.2. Deliver to Person Id changed in Draft
+    Assert Passed! - PoHeadersAllVO 3.6. Verify Current version Id changed in Header for document 120000000009997
+    Assert Passed! - PoDistributionsArchiveAllVO 3.3. Archive this Update Requester for document 120000000009997
+    Assert Passed! - PoActionHistoryVO 3.7. Verify Parent action row created
+    Assert Passed! - PoDistributionsArchiveAllVO 3.4. Verify the deliver to person id unchanged in earlier Archived Row
+    Assert Passed! - PoActionHistoryVO 3.8. Verify Child action row created
+    Assert Passed! - PoVersionsVO 3.5. Verify a new row created for the Change Order
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: 3. Update Requester from 5555 to 4444 on Approved Documents without Pending Change Order
+**********************************************
+**********************************************
+Starting test case: 4. Update Requester from 3333 to 2222 on Approved Documents with Pending Change Order
+[SEVERE] [DcmProcessHelper] callBpelApprovalProcess: EXCEPTION Failed to publish Event
+[SEVERE] [DcmProcessHelper] callBpelApprovalProcess: eventName PurchaseOrder
+[SEVERE] [DcmProcessHelper] callBpelApprovalProcess: eventNamespace http://xmlns.oracle.com/apps/prc/po/approval/PrcPoApprovalComposite/PurchaseOrder
+[SEVERE] [DcmProcessHelper] java.lang.NullPointerException
+[SEVERE] [DcmProcessHelper] oracle.apps.prc.po.commonPo.protectedModel.helper.DcmProcessHelper.publishEvent(DcmProcessHelper.java:305)
+[SEVERE] [DcmProcessHelper] oracle.apps.prc.po.commonPo.protectedModel.helper.DcmProcessHelper.publishPurchaseOrderEvent(DcmProcessHelper.java:76)
+[SEVERE] [DcmProcessHelper] oracle.apps.prc.po.commonPo.protectedModel.helper.PoMassUpdateRequester.updateRequesterOnPendingChangeOrders(PoMassUpdateRequester.java:1369)
+[SEVERE] [DcmProcessHelper] oracle.apps.prc.po.commonPo.protectedModel.helper.PoMassUpdateRequester.massUpdateRequester(PoMassUpdateRequester.java:213)
+[SEVERE] [DcmProcessHelper] oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoMassUpdateRequester.massUpdateRequester(TestPoMassUpdateRequester.java:106)
+[SEVERE] [DcmProcessHelper] sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[SEVERE] [DcmProcessHelper] sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+[SEVERE] [DcmProcessHelper] sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+[SEVERE] [DcmProcessHelper] java.lang.reflect.Method.invoke(Method.java:597)
+[SEVERE] [DcmProcessHelper] org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:45)
+[SEVERE] [DcmProcessHelper] org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+[SEVERE] [DcmProcessHelper] org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:42)
+[SEVERE] [DcmProcessHelper] org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+[SEVERE] [DcmProcessHelper] org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:263)
+[SEVERE] [DcmProcessHelper] org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:68)
+[SEVERE] [DcmProcessHelper] org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:47)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner$3.run(ParentRunner.java:231)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:60)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner.runChildren(ParentRunner.java:229)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner.access$000(ParentRunner.java:50)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:222)
+[SEVERE] [DcmProcessHelper] org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+[SEVERE] [DcmProcessHelper] org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:30)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner.run(ParentRunner.java:300)
+[SEVERE] [DcmProcessHelper] org.junit.runners.Suite.runChild(Suite.java:128)
+[SEVERE] [DcmProcessHelper] org.junit.runners.Suite.runChild(Suite.java:24)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner$3.run(ParentRunner.java:231)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:60)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner.runChildren(ParentRunner.java:229)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner.access$000(ParentRunner.java:50)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:222)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner.run(ParentRunner.java:300)
+[SEVERE] [DcmProcessHelper] oracle.apps.fnd.appltest.unittest.junit.UTRunner$1.run(UTRunner.java:1267)
+[SEVERE] [DcmProcessHelper] org.junit.runner.JUnitCore.run(JUnitCore.java:136)
+[SEVERE] [DcmProcessHelper] oracle.apps.fnd.appltest.unittest.junit.UTRunner.runTest(UTRunner.java:1055)
+[SEVERE] [DcmProcessHelper] oracle.apps.fnd.appltest.unittest.junit.UTRunner.execute(UTRunner.java:1223)
+[SEVERE] [DcmProcessHelper] sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[SEVERE] [DcmProcessHelper] sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+[SEVERE] [DcmProcessHelper] sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+[SEVERE] [DcmProcessHelper] java.lang.reflect.Method.invoke(Method.java:597)
+[SEVERE] [DcmProcessHelper] oracle.apps.fnd.appltest.unittest.junit.entry.UTRunnerMain.main(UTRunnerMain.java:153)
+[SEVERE] [PoMassUpdateRequester] updateRequesterOnPendingChangeOrders: BUS_EVENT FAILED - PurchaseOrder Event Faulted
+
+
+
+
+
+
+
+
+
+    Assert Passed! - PoDistributionsAllVO 4.1. Deliver to Person Id changed in Transaction
+    Assert Passed! - HashMap: ReturnValue
+    Assert Passed! - PoDistributionsArchiveAllVO 4.4. Verify the deliver to person id unchanged in earlier Archived Row
+    Assert Passed! - PoActionHistoryVO 4.7. Verify Parent action row created
+    Assert Passed! - PoDistributionsArchiveAllVO 4.3. Archive this Update Requester for document 120000000009996
+    Assert Passed! - PoVersionsVO 4.5. Verify a new row created for the Change Order
+    Assert Passed! - PoActionHistoryVO 4.8. Verify Child action row created
+    Assert Passed! - PoHeadersAllVO 4.6. Verify Current version Id changed in Header for document 120000000009997
+    Assert Passed! - PoDistributionsDraftAllVO 4.2. Deliver to Person Id changed in Draft
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: 4. Update Requester from 3333 to 2222 on Approved Documents with Pending Change Order
+**********************************************
+]]></system-out>

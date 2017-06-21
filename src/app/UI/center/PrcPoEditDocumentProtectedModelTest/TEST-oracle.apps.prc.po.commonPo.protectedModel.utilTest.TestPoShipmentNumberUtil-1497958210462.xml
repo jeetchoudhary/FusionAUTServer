@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoShipmentNumberUtil" timestamp="2017-06-20T11:30:10" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="5" failures="0" errors="0" time="2.566" runId="0">
+  <properties />
+  <testcase name="testCalculateMaxShipmentNum[Test calculateMaxShipmentNum 1]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoShipmentNumberUtil" id="0" time="0.258" />
+  <testcase name="testCalculateMaxShipmentNum[Test calculateMaxShipmentNum 2]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoShipmentNumberUtil" id="0" time="0.011" />
+  <testcase name="testCalculateMaxShipmentNumInMemory[Test calculateMaxShipmentNumInMemory 1]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoShipmentNumberUtil" id="0" time="0.0040" />
+  <testcase name="testCalculateMaxShipmentNumInMemory[Test calculateMaxShipmentNumInMemory 2]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoShipmentNumberUtil" id="0" time="0.0040" />
+  <testcase name="testGetMinOpenSchedule[Test Get Min Open Schedule]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoShipmentNumberUtil" id="0" time="0.014" />
+</testsuite>

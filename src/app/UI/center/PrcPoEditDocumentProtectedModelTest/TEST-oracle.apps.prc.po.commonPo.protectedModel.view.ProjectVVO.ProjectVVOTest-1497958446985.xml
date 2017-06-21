@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.view.ProjectVVO.ProjectVVOTest" timestamp="2017-06-20T11:34:07" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="7" failures="0" errors="0" time="3.196" runId="0">
+  <properties />
+  <testcase name="entitiesNonUpdateable" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProjectVVO.ProjectVVOTest" id="0" time="0.163">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProjectVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="testVOAccess" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProjectVVO.ProjectVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProjectVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ProjectId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProjectVVO.ProjectVVOTest" id="0" time="1.053">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProjectVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Segment1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProjectVVO.ProjectVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProjectVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Name]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProjectVVO.ProjectVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProjectVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[OrgId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProjectVVO.ProjectVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProjectVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ObjectVersionNumber]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProjectVVO.ProjectVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProjectVVO" type="ADFVO" />
+  </testcase>
+</testsuite>

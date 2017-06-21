@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentActionsUtil" timestamp="2017-06-20T11:28:30" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="8" failures="0" errors="0" time="13.857" runId="0">
+  <properties />
+  <testcase name="testFreezeUnfreeze[Test freeze a PA header ID 120000015345162]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentActionsUtil" id="0" time="0.833" />
+  <testcase name="testFreezeUnfreeze[Test Unfreeze a CONTRACT with header ID 120000015345215]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentActionsUtil" id="0" time="0.118" />
+  <testcase name="testHoldReleaseHold[Test Hold of Blanket with header ID 120000015345162]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentActionsUtil" id="0" time="0.059" />
+  <testcase name="testHoldReleaseHold[Test Release Hold of Blanket with header ID 120000015345208]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentActionsUtil" id="0" time="0.014" />
+  <testcase name="testHoldReleaseHold[Test Release Hold of Purchase Order Schedule after it has been canceled with header ID 120000012000001]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentActionsUtil" id="0" time="0.3" />
+  <testcase name="testfirmUnfirm[Test Firm  schedule with shipment id ]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentActionsUtil" id="0" time="0.075" />
+  <testcase name="testfirmUnfirm[Test unFirm schedule with shipment id]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentActionsUtil" id="0" time="0.0060" />
+  <testcase name="testManualClose[Test Invoice Close for SPO with header ID 120000015345229]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentActionsUtil" id="0" time="6.655" />
+</testsuite>

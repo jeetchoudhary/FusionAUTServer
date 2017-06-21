@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.utilTest.PoNumberUtilTest" timestamp="2017-06-20T11:28:21" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="17" failures="0" errors="0" time="1.914" runId="0">
+  <properties />
+  <testcase name="documentNumberGeneration[PO: Vision Operations Legal entity]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.PoNumberUtilTest" id="0" time="0.018" />
+  <testcase name="documentNumberGeneration[PO: Vision Services Legal entity]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.PoNumberUtilTest" id="0" time="0.1" />
+  <testcase name="documentNumberGeneration[PO: Singapore Distribution Centre Legal entity]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.PoNumberUtilTest" id="0" time="0.058" />
+  <testcase name="documentNumberGeneration[PO: Vision Foods USA Ltd. Legal entity]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.PoNumberUtilTest" id="0" time="0.208" />
+  <testcase name="documentNumberGeneration[PO: Vision Foods Canada Ltd. Legal entity]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.PoNumberUtilTest" id="0" time="0.036" />
+  <testcase name="documentNumberGeneration[CPA: Vision Operations]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.PoNumberUtilTest" id="0" time="0.052" />
+  <testcase name="documentNumberGeneration[CPA: Vision Services]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.PoNumberUtilTest" id="0" time="0.06" />
+  <testcase name="documentNumberGeneration[CPA: Singapore Distribution]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.PoNumberUtilTest" id="0" time="0.0030" />
+  <testcase name="documentNumberGeneration[CPA: VF Cad Payables]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.PoNumberUtilTest" id="0" time="0.054" />
+  <testcase name="documentNumberGeneration[BPA: Vision Operations]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.PoNumberUtilTest" id="0" time="0.0020" />
+  <testcase name="documentNumberGeneration[BPA: Vision Services]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.PoNumberUtilTest" id="0" time="0.0010" />
+  <testcase name="documentNumberGeneration[BPA: Singapore Distribution]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.PoNumberUtilTest" id="0" time="0.0020" />
+  <testcase name="documentNumberGeneration[BPA: VF Cad Payables]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.PoNumberUtilTest" id="0" time="0.0020" />
+  <testcase name="documentNumberGeneration[PON: Vision Operations]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.PoNumberUtilTest" id="0" time="0.0040" />
+  <testcase name="documentNumberGeneration[PON: Vision Services]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.PoNumberUtilTest" id="0" time="0.0020" />
+  <testcase name="documentNumberGeneration[PON: Singapore Distribution]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.PoNumberUtilTest" id="0" time="0.0030" />
+  <testcase name="documentNumberGeneration[PON: VF Cad Payables]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.PoNumberUtilTest" id="0" time="0.0040" />
+</testsuite>

@@ -1,0 +1,3 @@
+Test Projects to be built and tested:
+/scratch/jjikumar/view_storage/jjikumar_REL_13_Test/fusionapps/prc/components/procurement/po/commonPo/protectedModelTest/PrcPoCommonPoProtectedModelTest.jpr
+Test Projects to be built and tested:

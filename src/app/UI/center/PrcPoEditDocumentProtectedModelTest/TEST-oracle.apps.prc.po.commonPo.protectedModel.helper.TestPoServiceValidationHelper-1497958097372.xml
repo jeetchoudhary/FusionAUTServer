@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceValidationHelper" timestamp="2017-06-20T11:28:17" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="20" failures="0" errors="0" time="4.04" runId="0">
+  <properties />
+  <testcase name="testValidateProcurementBu[1. Validating Procurement BU Id]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceValidationHelper" id="0" time="0.349" />
+  <testcase name="testValidateProcurementBuIsNotNull[1. Validating whether Procurement BU Id is null or not]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceValidationHelper" id="0" time="0.067" />
+  <testcase name="testIsLookupCodeValid[1. Validating Lookup code]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceValidationHelper" id="0" time="0.069" />
+  <testcase name="testIsLookupCodeValid[2. Validating Lookup code]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceValidationHelper" id="0" time="0.022" />
+  <testcase name="testDeriveLookupCode[1. Derive Lookup code]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceValidationHelper" id="0" time="0.0090" />
+  <testcase name="testDeriveLookupCode[2. Derive Lookup code]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceValidationHelper" id="0" time="0.0070" />
+  <testcase name="testConvertYesNo[1. Converting Yes or No]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceValidationHelper" id="0" time="0.0010" />
+  <testcase name="testConvertYesNo[2. Converting Yes or No from look up codes]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceValidationHelper" id="0" time="0.06" />
+  <testcase name="testConvertConfirmingOrder[1. Convert confirming order]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceValidationHelper" id="0" time="0.033" />
+  <testcase name="testValidateRequisitioningBu[1. Validating Requisition Bu]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceValidationHelper" id="0" time="0.183" />
+  <testcase name="testValidateRequisitioningBu[2. Validating Requisition Bu with different Bu Ids]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceValidationHelper" id="0" time="0.25" />
+  <testcase name="testConvertNegotiated[1. To validate and convert provided Negotiated flag]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceValidationHelper" id="0" time="0.03" />
+  <testcase name="testConvertAllowSubstituteReceipts[1. To validate and convert provided Allow Substitute Receipts flag.]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceValidationHelper" id="0" time="0.036" />
+  <testcase name="testConvertAccrueAtReceipt[1. To validate and convert provided Accrue At Receipt flag.]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceValidationHelper" id="0" time="0.032" />
+  <testcase name="testDeriveSourceAgreementPrcBuIdFromName[1. To derive Source Agreement Id from Bu Name]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceValidationHelper" id="0" time="0.038" />
+  <testcase name="testDeriveSourceAgreementIdFromNumber[1. To derive Source Agreement Id from Souce Agreement Number]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceValidationHelper" id="0" time="0.0090" />
+  <testcase name="testValidatePoChargeAccount[1. To validate PO Charge Account Id]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceValidationHelper" id="0" time="0.496" />
+  <testcase name="testValidateDestinationChargeAccount[1. To validate Destination Charge Account Id]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceValidationHelper" id="0" time="0.338" />
+  <testcase name="testConvertPayOnReceipt[1. To validate and convert provided Pay On Receipt flag.]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceValidationHelper" id="0" time="0.03" />
+  <testcase name="testGetCoStatus[1. To get Change Order Status.]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceValidationHelper" id="0" time="0.0020" />
+</testsuite>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoActionHistoryHelper" timestamp="2017-06-20T11:26:33" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="3" failures="0" errors="0" time="14.345" runId="0">
+  <properties />
+  <testcase name="recordActionHistory[1. Recording Action History with ActionCode as SUBMIT]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoActionHistoryHelper" id="0" time="0.973" />
+  <testcase name="recordActionHistory[2. Recording Action History with ActionCode as IMPLEMENT for External CO]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoActionHistoryHelper" id="0" time="0.076" />
+  <testcase name="recordActionHistoryWithExtraParams[1. Recording Action History with ActionCode as IMPLEMENT for Internal CO]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoActionHistoryHelper" id="0" time="0.07" />
+</testsuite>

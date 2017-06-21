@@ -1,0 +1,39 @@
+<system-out><![CDATA[false
+CHANDU START
+Testcase  start
+Deleting setup data..
+Delete: PO_HEADERS_ALL From XML File: CreateSPO_PO_HEADERS_ALL.xml
+Delete: PO_HEADERS_DRAFT_ALL From XML File: CreateSPO_PO_HEADERS_DRAFT_ALL.xml
+Delete: PO_LINES_ALL From XML File: CreateSPO_PO_LINES_ALL.xml
+Delete: PO_LINES_DRAFT_ALL From XML File: CreateSPO_PO_LINES_DRAFT_ALL.xml
+Delete: PO_LINE_LOCATIONS_ALL From XML File: CreateSPO_PO_LINE_LOCATIONS_ALL.xml
+Delete: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: CreateSPO_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Delete: PO_DISTRIBUTIONS_ALL From XML File: CreateSPO_PO_DISTRIBUTIONS_ALL.xml
+Delete: PO_DISTRIBUTIONS_DRAFT_ALL From XML File: CreateSPO_PO_DISTRIBUTIONS_DRAFT_ALL.xml
+Insert: PO_HEADERS_ALL From XML File: CreateSPO_PO_HEADERS_ALL.xml
+Insert: PO_HEADERS_DRAFT_ALL From XML File: CreateSPO_PO_HEADERS_DRAFT_ALL.xml
+Insert: PO_LINES_ALL From XML File: CreateSPO_PO_LINES_ALL.xml
+Insert: PO_LINES_DRAFT_ALL From XML File: CreateSPO_PO_LINES_DRAFT_ALL.xml
+Insert: PO_LINE_LOCATIONS_ALL From XML File: CreateSPO_PO_LINE_LOCATIONS_ALL.xml
+Insert: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: CreateSPO_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Insert: PO_DISTRIBUTIONS_ALL From XML File: CreateSPO_PO_DISTRIBUTIONS_ALL.xml
+Insert: PO_DISTRIBUTIONS_DRAFT_ALL From XML File: CreateSPO_PO_DISTRIBUTIONS_DRAFT_ALL.xml
+    Created New Document...
+    PoHeaderId ............: 440344
+    Segment1 ..............: 1004183
+    Status ................: INCOMPLETE
+Deleting setup data..
+Delete: PO_HEADERS_ALL From XML File: CreateSPO_PO_HEADERS_ALL.xml
+Delete: PO_HEADERS_DRAFT_ALL From XML File: CreateSPO_PO_HEADERS_DRAFT_ALL.xml
+Delete: PO_LINES_ALL From XML File: CreateSPO_PO_LINES_ALL.xml
+Delete: PO_LINES_DRAFT_ALL From XML File: CreateSPO_PO_LINES_DRAFT_ALL.xml
+Delete: PO_LINE_LOCATIONS_ALL From XML File: CreateSPO_PO_LINE_LOCATIONS_ALL.xml
+Delete: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: CreateSPO_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Delete: PO_DISTRIBUTIONS_ALL From XML File: CreateSPO_PO_DISTRIBUTIONS_ALL.xml
+Delete: PO_DISTRIBUTIONS_DRAFT_ALL From XML File: CreateSPO_PO_DISTRIBUTIONS_DRAFT_ALL.xml
+Returning created PO, poHeaderId: 440344
+Values for Required Acknowledgment and Acknowledge Within Days should be defaulted from supplier site\.
+Testcase  ENDED
+Testcase  start
+Values for Required Acknowledgment and Acknowledge Within Days should be empty if supplier site defaults are not defined\.
+]]></system-out>

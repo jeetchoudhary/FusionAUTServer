@@ -1,0 +1,118 @@
+<system-out><![CDATA[Delete: PO_HEADERS_ALL From XML File: TestPoSourceDocUtil_po_headers_all.xml
+Delete: PO_LINES_ALL From XML File: TestPoSourceDocUtil_po_lines_all.xml
+Delete: POR_REQUISITION_HEADERS_ALL From XML File: TestPoSourceDocUtil_req_headers_all.xml
+Delete: POR_REQUISITION_LINES_ALL From XML File: TestPoSourceDocUtil_req_lines_all.xml
+Delete: POR_REQ_DISTRIBUTIONS_ALL From XML File: TestPoSourceDocUtil_req_dists_all.xml
+Insert: PO_HEADERS_ALL From XML File: TestPoSourceDocUtil_po_headers_all.xml
+Insert: PO_LINES_ALL From XML File: TestPoSourceDocUtil_po_lines_all.xml
+Insert: POR_REQUISITION_HEADERS_ALL From XML File: TestPoSourceDocUtil_req_headers_all.xml
+Insert: POR_REQUISITION_LINES_ALL From XML File: TestPoSourceDocUtil_req_lines_all.xml
+Insert: POR_REQ_DISTRIBUTIONS_ALL From XML File: TestPoSourceDocUtil_req_dists_all.xml
+Deleting setup data..
+Delete: PO_HEADERS_ALL From XML File: CreateCPA_PO_HEADERS_ALL.xml
+Delete: PO_GA_ORG_ASSIGNMENTS From XML File: CreateCPA_PO_ORG_ASSIGN.xml
+Delete: PO_HEADERS_DRAFT_ALL From XML File: CreateCPA_PO_HEADERS_DRAFT_ALL.xml
+Delete: PO_GA_ORG_ASSIGN_DRAFT From XML File: CreateCPA_PO_ORG_ASSIGN_DRAFT.xml
+Delete: PO_NOTIFICATION_CONTROLS From XML File: CreateCPA_PO_NOTIFICATIONS_ALL.xml
+Delete: PO_NOTIFICATION_CTRL_DRAFT From XML File: CreateCPA_PO_NOTIFCATIONS_DRAFT_ALL.xml
+Delete: PO_VERSIONS From XML File: CreateCPA_PO_Versions.xml
+Insert: PO_HEADERS_ALL From XML File: CreateCPA_PO_HEADERS_ALL.xml
+Insert: PO_GA_ORG_ASSIGNMENTS From XML File: CreateCPA_PO_ORG_ASSIGN.xml
+Insert: PO_HEADERS_DRAFT_ALL From XML File: CreateCPA_PO_HEADERS_DRAFT_ALL.xml
+Insert: PO_GA_ORG_ASSIGN_DRAFT From XML File: CreateCPA_PO_ORG_ASSIGN_DRAFT.xml
+Insert: PO_NOTIFICATION_CONTROLS From XML File: CreateCPA_PO_NOTIFICATIONS_ALL.xml
+Insert: PO_NOTIFICATION_CTRL_DRAFT From XML File: CreateCPA_PO_NOTIFCATIONS_DRAFT_ALL.xml
+Insert: PO_VERSIONS From XML File: CreateCPA_PO_Versions.xml
+    Created New Document...
+    PoHeaderId ............: 440341
+    Segment1 ..............: 1002606
+    Status ................: PROCESSED
+Deleting setup data..
+Delete: PO_HEADERS_ALL From XML File: CreateCPA_PO_HEADERS_ALL.xml
+Delete: PO_GA_ORG_ASSIGNMENTS From XML File: CreateCPA_PO_ORG_ASSIGN.xml
+Delete: PO_HEADERS_DRAFT_ALL From XML File: CreateCPA_PO_HEADERS_DRAFT_ALL.xml
+Delete: PO_GA_ORG_ASSIGN_DRAFT From XML File: CreateCPA_PO_ORG_ASSIGN_DRAFT.xml
+Delete: PO_NOTIFICATION_CONTROLS From XML File: CreateCPA_PO_NOTIFICATIONS_ALL.xml
+Delete: PO_NOTIFICATION_CTRL_DRAFT From XML File: CreateCPA_PO_NOTIFCATIONS_DRAFT_ALL.xml
+Delete: PO_VERSIONS From XML File: CreateCPA_PO_Versions.xml
+Returning newly created CPA, poHeaderId: 440341
+Deleting setup data..
+Delete: PO_HEADERS_ALL From XML File: CreateBPA_PO_HEADERS_ALL.xml
+Delete: PO_HEADERS_DRAFT_ALL From XML File: CreateBPA_PO_HEADERS_DRAFT_ALL.xml
+Delete: PO_LINES_ALL From XML File: CreateBPA_PO_LINES_ALL.xml
+Delete: PO_LINES_DRAFT_ALL From XML File: CreateBPA_PO_LINES_DRAFT_ALL.xml
+Delete: PO_LINE_LOCATIONS_ALL From XML File: CreateBPA_PO_LINE_LOCATIONS_ALL.xml
+Delete: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: CreateBPA_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Delete: PO_GA_ORG_ASSIGNMENTS From XML File: CreateBPA_PO_ORG_ASSIGN.xml
+Delete: PO_GA_ORG_ASSIGN_DRAFT From XML File: CreateBPA_PO_ORG_ASSIGN_DRAFT.xml
+Delete: PO_NOTIFICATION_CONTROLS From XML File: CreateBPA_PO_NOTIFICATIONS_ALL.xml
+Delete: PO_NOTIFICATION_CTRL_DRAFT From XML File: CreateBPA_PO_NOTIFICATIONS_DRAFT_ALL.xml
+Delete: PO_ATTRIBUTE_VALUES From XML File: CreateBPA_PO_ATTRIBUTE_VALUES.xml
+Delete: PO_ATTRIBUTE_VALUES_DRAFT From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_DRAFT.xml
+Delete: PO_ATTRIBUTE_VALUES_TLP From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_TLP.xml
+Delete: PO_ATTRIBUTE_VALUES_TLP_DRAFT From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_TLP_DRAFT.xml
+Delete: PO_VERSIONS From XML File: CreateBPA_PO_VERSIONS.xml
+Insert: PO_HEADERS_ALL From XML File: CreateBPA_PO_HEADERS_ALL.xml
+Insert: PO_HEADERS_DRAFT_ALL From XML File: CreateBPA_PO_HEADERS_DRAFT_ALL.xml
+Insert: PO_LINES_ALL From XML File: CreateBPA_PO_LINES_ALL.xml
+Insert: PO_LINES_DRAFT_ALL From XML File: CreateBPA_PO_LINES_DRAFT_ALL.xml
+Insert: PO_LINE_LOCATIONS_ALL From XML File: CreateBPA_PO_LINE_LOCATIONS_ALL.xml
+Insert: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: CreateBPA_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Insert: PO_GA_ORG_ASSIGNMENTS From XML File: CreateBPA_PO_ORG_ASSIGN.xml
+Insert: PO_GA_ORG_ASSIGN_DRAFT From XML File: CreateBPA_PO_ORG_ASSIGN_DRAFT.xml
+Insert: PO_NOTIFICATION_CONTROLS From XML File: CreateBPA_PO_NOTIFICATIONS_ALL.xml
+Insert: PO_NOTIFICATION_CTRL_DRAFT From XML File: CreateBPA_PO_NOTIFICATIONS_DRAFT_ALL.xml
+Insert: PO_ATTRIBUTE_VALUES From XML File: CreateBPA_PO_ATTRIBUTE_VALUES.xml
+Insert: PO_ATTRIBUTE_VALUES_DRAFT From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_DRAFT.xml
+Insert: PO_ATTRIBUTE_VALUES_TLP From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_TLP.xml
+Insert: PO_ATTRIBUTE_VALUES_TLP_DRAFT From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_TLP_DRAFT.xml
+Insert: PO_VERSIONS From XML File: CreateBPA_PO_VERSIONS.xml
+    Created New Document...
+    PoHeaderId ............: 440342
+    Segment1 ..............: 1002607
+    Status ................: PROCESSED
+Deleting setup data..
+Delete: PO_HEADERS_ALL From XML File: CreateBPA_PO_HEADERS_ALL.xml
+Delete: PO_HEADERS_DRAFT_ALL From XML File: CreateBPA_PO_HEADERS_DRAFT_ALL.xml
+Delete: PO_LINES_ALL From XML File: CreateBPA_PO_LINES_ALL.xml
+Delete: PO_LINES_DRAFT_ALL From XML File: CreateBPA_PO_LINES_DRAFT_ALL.xml
+Delete: PO_LINE_LOCATIONS_ALL From XML File: CreateBPA_PO_LINE_LOCATIONS_ALL.xml
+Delete: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: CreateBPA_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Delete: PO_GA_ORG_ASSIGNMENTS From XML File: CreateBPA_PO_ORG_ASSIGN.xml
+Delete: PO_GA_ORG_ASSIGN_DRAFT From XML File: CreateBPA_PO_ORG_ASSIGN_DRAFT.xml
+Delete: PO_NOTIFICATION_CONTROLS From XML File: CreateBPA_PO_NOTIFICATIONS_ALL.xml
+Delete: PO_NOTIFICATION_CTRL_DRAFT From XML File: CreateBPA_PO_NOTIFICATIONS_DRAFT_ALL.xml
+Delete: PO_ATTRIBUTE_VALUES From XML File: CreateBPA_PO_ATTRIBUTE_VALUES.xml
+Delete: PO_ATTRIBUTE_VALUES_DRAFT From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_DRAFT.xml
+Delete: PO_ATTRIBUTE_VALUES_TLP From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_TLP.xml
+Delete: PO_ATTRIBUTE_VALUES_TLP_DRAFT From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_TLP_DRAFT.xml
+Delete: PO_VERSIONS From XML File: CreateBPA_PO_VERSIONS.xml
+Returning newly created BPA, poHeaderId: 440342
+Test Class Owner is: PO_AUTOUT_NOTIFY_IN@ORACLE.COM
+**********************************************
+Starting test case: Test Po Source Document Util
+
+    Assert Passed! - HashMap: testsrcdocutil_Passed
+    Test Case Passed! 
+
+End of test case: Test Po Source Document Util
+**********************************************
+**********************************************
+Starting test case: Test Get Matching Source Doc Line
+
+    Assert Passed! - HashMap: srcDocLineNum
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Test Get Matching Source Doc Line
+**********************************************
+**********************************************
+Starting test case: Test Get Matching Source Doc Line Additional
+
+    Assert Passed! - HashMap: testsrcdocutil_Passed
+    Test Case Passed! 
+
+End of test case: Test Get Matching Source Doc Line Additional
+**********************************************
+]]></system-out>

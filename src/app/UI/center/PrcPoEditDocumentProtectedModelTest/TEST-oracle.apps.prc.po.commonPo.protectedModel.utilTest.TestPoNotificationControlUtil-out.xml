@@ -1,0 +1,102 @@
+<system-out><![CDATA[Deleting setup data..
+Delete: PO_HEADERS_ALL From XML File: CreateBPA_PO_HEADERS_ALL.xml
+Delete: PO_HEADERS_DRAFT_ALL From XML File: CreateBPA_PO_HEADERS_DRAFT_ALL.xml
+Delete: PO_LINES_ALL From XML File: CreateBPA_PO_LINES_ALL.xml
+Delete: PO_LINES_DRAFT_ALL From XML File: CreateBPA_PO_LINES_DRAFT_ALL.xml
+Delete: PO_LINE_LOCATIONS_ALL From XML File: CreateBPA_PO_LINE_LOCATIONS_ALL.xml
+Delete: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: CreateBPA_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Delete: PO_GA_ORG_ASSIGNMENTS From XML File: CreateBPA_PO_ORG_ASSIGN.xml
+Delete: PO_GA_ORG_ASSIGN_DRAFT From XML File: CreateBPA_PO_ORG_ASSIGN_DRAFT.xml
+Delete: PO_NOTIFICATION_CONTROLS From XML File: CreateBPA_PO_NOTIFICATIONS_ALL.xml
+Delete: PO_NOTIFICATION_CTRL_DRAFT From XML File: CreateBPA_PO_NOTIFICATIONS_DRAFT_ALL.xml
+Delete: PO_ATTRIBUTE_VALUES From XML File: CreateBPA_PO_ATTRIBUTE_VALUES.xml
+Delete: PO_ATTRIBUTE_VALUES_DRAFT From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_DRAFT.xml
+Delete: PO_ATTRIBUTE_VALUES_TLP From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_TLP.xml
+Delete: PO_ATTRIBUTE_VALUES_TLP_DRAFT From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_TLP_DRAFT.xml
+Delete: PO_VERSIONS From XML File: CreateBPA_PO_VERSIONS.xml
+Insert: PO_HEADERS_ALL From XML File: CreateBPA_PO_HEADERS_ALL.xml
+Insert: PO_HEADERS_DRAFT_ALL From XML File: CreateBPA_PO_HEADERS_DRAFT_ALL.xml
+Insert: PO_LINES_ALL From XML File: CreateBPA_PO_LINES_ALL.xml
+Insert: PO_LINES_DRAFT_ALL From XML File: CreateBPA_PO_LINES_DRAFT_ALL.xml
+Insert: PO_LINE_LOCATIONS_ALL From XML File: CreateBPA_PO_LINE_LOCATIONS_ALL.xml
+Insert: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: CreateBPA_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Insert: PO_GA_ORG_ASSIGNMENTS From XML File: CreateBPA_PO_ORG_ASSIGN.xml
+Insert: PO_GA_ORG_ASSIGN_DRAFT From XML File: CreateBPA_PO_ORG_ASSIGN_DRAFT.xml
+Insert: PO_NOTIFICATION_CONTROLS From XML File: CreateBPA_PO_NOTIFICATIONS_ALL.xml
+Insert: PO_NOTIFICATION_CTRL_DRAFT From XML File: CreateBPA_PO_NOTIFICATIONS_DRAFT_ALL.xml
+Insert: PO_ATTRIBUTE_VALUES From XML File: CreateBPA_PO_ATTRIBUTE_VALUES.xml
+Insert: PO_ATTRIBUTE_VALUES_DRAFT From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_DRAFT.xml
+Insert: PO_ATTRIBUTE_VALUES_TLP From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_TLP.xml
+Insert: PO_ATTRIBUTE_VALUES_TLP_DRAFT From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_TLP_DRAFT.xml
+Insert: PO_VERSIONS From XML File: CreateBPA_PO_VERSIONS.xml
+    Created New Document...
+    PoHeaderId ............: 440339
+    Segment1 ..............: 1002604
+    Status ................: PROCESSED
+Deleting setup data..
+Delete: PO_HEADERS_ALL From XML File: CreateBPA_PO_HEADERS_ALL.xml
+Delete: PO_HEADERS_DRAFT_ALL From XML File: CreateBPA_PO_HEADERS_DRAFT_ALL.xml
+Delete: PO_LINES_ALL From XML File: CreateBPA_PO_LINES_ALL.xml
+Delete: PO_LINES_DRAFT_ALL From XML File: CreateBPA_PO_LINES_DRAFT_ALL.xml
+Delete: PO_LINE_LOCATIONS_ALL From XML File: CreateBPA_PO_LINE_LOCATIONS_ALL.xml
+Delete: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: CreateBPA_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Delete: PO_GA_ORG_ASSIGNMENTS From XML File: CreateBPA_PO_ORG_ASSIGN.xml
+Delete: PO_GA_ORG_ASSIGN_DRAFT From XML File: CreateBPA_PO_ORG_ASSIGN_DRAFT.xml
+Delete: PO_NOTIFICATION_CONTROLS From XML File: CreateBPA_PO_NOTIFICATIONS_ALL.xml
+Delete: PO_NOTIFICATION_CTRL_DRAFT From XML File: CreateBPA_PO_NOTIFICATIONS_DRAFT_ALL.xml
+Delete: PO_ATTRIBUTE_VALUES From XML File: CreateBPA_PO_ATTRIBUTE_VALUES.xml
+Delete: PO_ATTRIBUTE_VALUES_DRAFT From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_DRAFT.xml
+Delete: PO_ATTRIBUTE_VALUES_TLP From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_TLP.xml
+Delete: PO_ATTRIBUTE_VALUES_TLP_DRAFT From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_TLP_DRAFT.xml
+Delete: PO_VERSIONS From XML File: CreateBPA_PO_VERSIONS.xml
+Returning newly created BPA, poHeaderId: 440339
+Deleting setup data..
+Delete: PO_HEADERS_ALL From XML File: CreateCPA_PO_HEADERS_ALL.xml
+Delete: PO_GA_ORG_ASSIGNMENTS From XML File: CreateCPA_PO_ORG_ASSIGN.xml
+Delete: PO_HEADERS_DRAFT_ALL From XML File: CreateCPA_PO_HEADERS_DRAFT_ALL.xml
+Delete: PO_GA_ORG_ASSIGN_DRAFT From XML File: CreateCPA_PO_ORG_ASSIGN_DRAFT.xml
+Delete: PO_NOTIFICATION_CONTROLS From XML File: CreateCPA_PO_NOTIFICATIONS_ALL.xml
+Delete: PO_NOTIFICATION_CTRL_DRAFT From XML File: CreateCPA_PO_NOTIFCATIONS_DRAFT_ALL.xml
+Delete: PO_VERSIONS From XML File: CreateCPA_PO_Versions.xml
+Insert: PO_HEADERS_ALL From XML File: CreateCPA_PO_HEADERS_ALL.xml
+Insert: PO_GA_ORG_ASSIGNMENTS From XML File: CreateCPA_PO_ORG_ASSIGN.xml
+Insert: PO_HEADERS_DRAFT_ALL From XML File: CreateCPA_PO_HEADERS_DRAFT_ALL.xml
+Insert: PO_GA_ORG_ASSIGN_DRAFT From XML File: CreateCPA_PO_ORG_ASSIGN_DRAFT.xml
+Insert: PO_NOTIFICATION_CONTROLS From XML File: CreateCPA_PO_NOTIFICATIONS_ALL.xml
+Insert: PO_NOTIFICATION_CTRL_DRAFT From XML File: CreateCPA_PO_NOTIFCATIONS_DRAFT_ALL.xml
+Insert: PO_VERSIONS From XML File: CreateCPA_PO_Versions.xml
+    Created New Document...
+    PoHeaderId ............: 440340
+    Segment1 ..............: 1002605
+    Status ................: PROCESSED
+Deleting setup data..
+Delete: PO_HEADERS_ALL From XML File: CreateCPA_PO_HEADERS_ALL.xml
+Delete: PO_GA_ORG_ASSIGNMENTS From XML File: CreateCPA_PO_ORG_ASSIGN.xml
+Delete: PO_HEADERS_DRAFT_ALL From XML File: CreateCPA_PO_HEADERS_DRAFT_ALL.xml
+Delete: PO_GA_ORG_ASSIGN_DRAFT From XML File: CreateCPA_PO_ORG_ASSIGN_DRAFT.xml
+Delete: PO_NOTIFICATION_CONTROLS From XML File: CreateCPA_PO_NOTIFICATIONS_ALL.xml
+Delete: PO_NOTIFICATION_CTRL_DRAFT From XML File: CreateCPA_PO_NOTIFCATIONS_DRAFT_ALL.xml
+Delete: PO_VERSIONS From XML File: CreateCPA_PO_Versions.xml
+Returning newly created CPA, poHeaderId: 440340
+Test Class Owner is: PO_AUTOUT_NOTIFY_IN@ORACLE.COM
+**********************************************
+Starting test case: Test Blanket Header Expiration NotifControls
+
+    Assert Passed! - HashMap: retValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Test Blanket Header Expiration NotifControls
+**********************************************
+**********************************************
+Starting test case: Test Contract Header Expiration NotifControls
+
+    Assert Passed! - HashMap: retValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Test Contract Header Expiration NotifControls
+**********************************************
+]]></system-out>

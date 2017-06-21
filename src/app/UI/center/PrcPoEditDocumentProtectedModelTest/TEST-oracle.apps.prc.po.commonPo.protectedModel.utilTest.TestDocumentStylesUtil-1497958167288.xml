@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentStylesUtil" timestamp="2017-06-20T11:29:27" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="8" failures="0" errors="0" time="2.891" runId="0">
+  <properties />
+  <testcase name="testIsOspItemsEnabled[test Style Allows OSP 1]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentStylesUtil" id="0" time="0.359" />
+  <testcase name="testIsOspItemsEnabled[test Style Allows OSP 2]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentStylesUtil" id="0" time="0.0030" />
+  <testcase name="testIsCtoItemsEnabled[test Style Allows CTO 1]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentStylesUtil" id="0" time="0.0020" />
+  <testcase name="testIsCtoItemsEnabled[test Style Allows CTO 2]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentStylesUtil" id="0" time="0.0020" />
+  <testcase name="testIsConsignItemsEnabled[test Style Allows Consignment 1]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentStylesUtil" id="0" time="0.0010" />
+  <testcase name="testIsConsignItemsEnabled[test Style Allows Consignment 2]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentStylesUtil" id="0" time="0.0010" />
+  <testcase name="testGetLineTypesEnabledByStyle[test Get LineTypes Enabled By Style]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentStylesUtil" id="0" time="0.078" />
+  <testcase name="testGetNegotiationStyleName[test Get Negotiation StyleName]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentStylesUtil" id="0" time="0.16" />
+</testsuite>

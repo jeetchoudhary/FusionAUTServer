@@ -1,0 +1,115 @@
+<system-out><![CDATA[The TestClassOwner annotation for this test is missing.
+
+***** Validating connections.xml *****
+***** Context class is : oracle.adf.share.jndi.AdfInitialContext
+Naming provider :META-INF/connections.xml
+Naming provider resolved through URL : file:/scratch/jjikumar/view_storage/jjikumar_REL_13_Test/fusionapps/prc/components/procurement/.adf/META-INF/connections.xml
+Protocol is : file
+Processing entity def: oracle.apps.prc.po.commonPo.protectedModel.entity.PurchaseOrderDistributionEO
+Test Owner: Unassigned. An entity validator test for validator '_InternalMandatoryValidator_' is required. 
+
+Test Owner: Unassigned. An attribute validator test for validator 'ProgramAppName_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'SourceDistributionId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'DeliverToCustContactId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'JobDefinitionPackage_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'DeliverToCustLocationId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PjcUserDefAttribute1_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'WipRepetitiveScheduleId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute20_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PjcUserDefAttribute3_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'DeliverToCustId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PrcBuId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'DeliverToLocationId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute16_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PjcReservedAttribute4_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'VarianceAccountId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute3_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ReqDistributionId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ReqBuId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute9_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'GovernmentContext_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PjcUserDefAttribute4_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'FundsStatus_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'TaxAttributeUpdateCode_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'AwardId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PjcReservedAttribute2_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PjcReservedAttribute1_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ProgramName_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PoHeaderId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute10_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute6_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PjcUserDefAttribute5_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PjcReservedAttribute8_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'DeliverToPersonId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'KanbanCardId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute11_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PjcReservedAttribute7_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'AccruedFlag_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PjcUserDefAttribute8_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'LineLocationId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute13_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute18_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'OkeContractLineId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute17_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'EndItemUnitNumber_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute15_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute1_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'InvoiceAdjustmentFlag_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ReqLineReferenceNum_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PjcUserDefAttribute2_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'RequestId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PjcReservedAttribute3_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'AccrueOnReceiptFlag_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute5_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PjcReservedAttribute6_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PjcCapitalizableFlag_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'DestChargeAccountId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'BomResourceId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute2_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PoLineId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute7_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PjcReservedAttribute9_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PjcUserDefAttribute10_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'OkeContractDeliverableId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PjcContextCategory_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'SetOfBooksId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'DistIntendedUse_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PjcReservedAttribute5_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'DestinationContext_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute4_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PjcUserDefAttribute9_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'AttributeCategory_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PjcReservedAttribute10_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'DestinationOrganizationId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'DestinationSubinventory_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute12_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'JobDefinitionName_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'WipEntityId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'DestVarianceAccountId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PoDistributionId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'CodeCombinationId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute14_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'WipLineId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'DistributionType_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'TaxRecoveryOverrideFlag_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'OriginalDistributionId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'DestinationTypeCode_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ReqHeaderReferenceNum_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PjcUserDefAttribute7_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'InterfaceDistributionRef_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PreventEncumbranceFlag_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'AccrualAccountId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PjcBillableFlag_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute8_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PjcUserDefAttribute6_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute19_PrecisionScale_Val' is required. 
+
+getSimpleRow took milliseocnds:386
+getSimpleRow in seconds:0
+getSimpleRow took milliseocnds:1
+getSimpleRow in seconds:0
+getSimpleRow took milliseocnds:1
+getSimpleRow in seconds:0
+Storing created row for reuse.
+Data Driven Test block finished, clearing cached row for invokeVORowImplAttributeGetter
+]]></system-out>

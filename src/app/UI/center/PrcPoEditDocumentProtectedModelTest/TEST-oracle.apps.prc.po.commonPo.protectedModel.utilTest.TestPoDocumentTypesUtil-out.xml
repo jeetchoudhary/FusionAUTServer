@@ -1,0 +1,32 @@
+<system-out><![CDATA[Test Class Owner is: PO_AUTOUT_NOTIFY_IN@ORACLE.COM
+**********************************************
+Starting test case: Test Get BPA DocumentType DisplayName
+
+    Assert Passed! - HashMap: returnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Test Get BPA DocumentType DisplayName
+**********************************************
+**********************************************
+Starting test case: Test Get CPA DocumentType DisplayName
+
+    Assert Passed! - HashMap: returnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Test Get CPA DocumentType DisplayName
+**********************************************
+**********************************************
+Starting test case: Test Get Standard DocumentType DisplayName
+
+    Assert Passed! - HashMap: returnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Test Get Standard DocumentType DisplayName
+**********************************************
+]]></system-out>

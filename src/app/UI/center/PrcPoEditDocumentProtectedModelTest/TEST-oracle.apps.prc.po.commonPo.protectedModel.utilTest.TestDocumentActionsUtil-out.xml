@@ -1,0 +1,147 @@
+<system-out><![CDATA[Delete: PO_VERSIONS From XML File: TestDocumentActionsUtil_PO_VERSIONS.xml
+Delete: PO_ACTION_HISTORY From XML File: TestDocumentActionsUtil_PO_ACTION_HISTORY.xml
+Delete: PO_HEADERS_DRAFT_ALL From XML File: TestDocumentActionsUtil_PO_HEADERS_DRAFT_ALL.xml
+Delete: PO_HEADERS_ALL From XML File: TestDocumentActionsUtil_PO_HEADERS_ALL.xml
+Delete: PO_HEADERS_ARCHIVE_ALL From XML File: TestDocumentActionsUtil_PO_HEADERS_ARCHIVE_ALL.xml
+Delete: PO_LINES_DRAFT_ALL From XML File: TestDocumentActionsUtil_PO_LINES_DRAFT_ALL.xml
+Delete: PO_LINES_ALL From XML File: TestDocumentActionsUtil_PO_LINES_ALL.xml
+Delete: PO_LINES_ARCHIVE_ALL From XML File: TestDocumentActionsUtil_PO_LINES_ARCHIVE_ALL.xml
+Delete: PO_GA_ORG_ASSIGN_DRAFT From XML File: TestDocumentActionsUtil_PO_GA_ORG_ASSIGN_DRAFT.xml
+Delete: PO_GA_ORG_ASSIGNMENTS From XML File: TestDocumentActionsUtil_PO_GA_ORG_ASSIGNMENTS.xml
+Delete: PO_GA_ORG_ASSIGNMENTS_ARCHIVE From XML File: TestDocumentActionsUtil_PO_GA_ORG_ASSIGNMENTS_ARCHIVE.xml
+Delete: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: TestDocumentActionsUtil_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Delete: PO_LINE_LOCATIONS_ALL From XML File: TestDocumentActionsUtil_PO_LINE_LOCATIONS_ALL.xml
+Delete: PO_LINE_LOCATIONS_ARCHIVE_ALL From XML File: TestDocumentActionsUtil_PO_LINE_LOCATIONS_ARCHIVE_ALL.xml
+Delete: PO_DISTRIBUTIONS_DRAFT_ALL From XML File: TestDocumentActionsUtil_PO_DISTRIBUTIONS_DRAFT_ALL.xml
+Delete: PO_DISTRIBUTIONS_ALL From XML File: TestDocumentActionsUtil_PO_DISTRIBUTIONS_ALL.xml
+Delete: PO_DISTRIBUTIONS_ARCHIVE_ALL From XML File: TestDocumentActionsUtil_PO_DISTRIBUTIONS_ARCHIVE_ALL.xml
+Insert: PO_ACTION_HISTORY From XML File: TestDocumentActionsUtil_PO_ACTION_HISTORY.xml
+Insert: PO_VERSIONS From XML File: TestDocumentActionsUtil_PO_VERSIONS.xml
+Insert: PO_HEADERS_DRAFT_ALL From XML File: TestDocumentActionsUtil_PO_HEADERS_DRAFT_ALL.xml
+Insert: PO_HEADERS_ALL From XML File: TestDocumentActionsUtil_PO_HEADERS_ALL.xml
+Insert: PO_HEADERS_ARCHIVE_ALL From XML File: TestDocumentActionsUtil_PO_HEADERS_ARCHIVE_ALL.xml
+Insert: PO_LINES_DRAFT_ALL From XML File: TestDocumentActionsUtil_PO_LINES_DRAFT_ALL.xml
+Insert: PO_LINES_ALL From XML File: TestDocumentActionsUtil_PO_LINES_ALL.xml
+Insert: PO_LINES_ARCHIVE_ALL From XML File: TestDocumentActionsUtil_PO_LINES_ARCHIVE_ALL.xml
+Insert: PO_GA_ORG_ASSIGN_DRAFT From XML File: TestDocumentActionsUtil_PO_GA_ORG_ASSIGN_DRAFT.xml
+Insert: PO_GA_ORG_ASSIGNMENTS From XML File: TestDocumentActionsUtil_PO_GA_ORG_ASSIGNMENTS.xml
+Insert: PO_GA_ORG_ASSIGNMENTS_ARCHIVE From XML File: TestDocumentActionsUtil_PO_GA_ORG_ASSIGNMENTS_ARCHIVE.xml
+Insert: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: TestDocumentActionsUtil_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Insert: PO_LINE_LOCATIONS_ALL From XML File: TestDocumentActionsUtil_PO_LINE_LOCATIONS_ALL.xml
+Insert: PO_LINE_LOCATIONS_ARCHIVE_ALL From XML File: TestDocumentActionsUtil_PO_LINE_LOCATIONS_ARCHIVE_ALL.xml
+Insert: PO_DISTRIBUTIONS_DRAFT_ALL From XML File: TestDocumentActionsUtil_PO_DISTRIBUTIONS_DRAFT_ALL.xml
+Insert: PO_DISTRIBUTIONS_ALL From XML File: TestDocumentActionsUtil_PO_DISTRIBUTIONS_ALL.xml
+Insert: PO_DISTRIBUTIONS_ARCHIVE_ALL From XML File: TestDocumentActionsUtil_PO_DISTRIBUTIONS_ARCHIVE_ALL.xml
+Test Class Owner is: PO_AUTOUT_NOTIFY_IN@ORACLE.COM
+**********************************************
+Starting test case: Test freeze a PA header ID 120000015345162
+
+    Assert Passed! - PoHeadersAllVO SPO 1 Header
+    Test Case Passed! 
+
+End of test case: Test freeze a PA header ID 120000015345162
+**********************************************
+**********************************************
+Starting test case: Test Unfreeze a CONTRACT with header ID 120000015345215
+
+    Assert Passed! - PoHeadersAllVO SPO 1 Header
+    Test Case Passed! 
+
+End of test case: Test Unfreeze a CONTRACT with header ID 120000015345215
+**********************************************
+**********************************************
+Starting test case: Test Hold of Blanket with header ID 120000015345162
+
+    Assert Passed! - PoHeadersAllVO SPO 1 Header
+    Test Case Passed! 
+
+End of test case: Test Hold of Blanket with header ID 120000015345162
+**********************************************
+**********************************************
+Starting test case: Test Release Hold of Blanket with header ID 120000015345208
+
+    Assert Passed! - PoHeadersAllVO SPO 1 Header
+    Test Case Passed! 
+
+End of test case: Test Release Hold of Blanket with header ID 120000015345208
+**********************************************
+**********************************************
+Starting test case: Test Release Hold of Purchase Order Schedule after it has been canceled with header ID 120000012000001
+
+    Assert Passed! - PoLineLocationsAllVO SPO 1 Schedule
+    Test Case Passed! 
+
+End of test case: Test Release Hold of Purchase Order Schedule after it has been canceled with header ID 120000012000001
+**********************************************
+**********************************************
+Starting test case: Test Firm  schedule with shipment id 
+
+    Assert Passed! - PoLineLocationsAllVO SPO 1 Schedule
+    Test Case Passed! 
+
+End of test case: Test Firm  schedule with shipment id 
+**********************************************
+**********************************************
+Starting test case: Test unFirm schedule with shipment id
+
+    Assert Passed! - PoLineLocationsAllVO SPO 1 Schedule
+    Test Case Passed! 
+
+End of test case: Test unFirm schedule with shipment id
+**********************************************
+**********************************************
+Starting test case: Test Invoice Close for SPO with header ID 120000015345229
+[SEVERE] [handlerException] An error occurred while writing to the diagnostic log file because of this reason: Apps ODLHandler config setting not found! Check logging.xml and related config settings. (FND-10103)
+[SEVERE] [DcmProcessHelper] callBpelApprovalProcess: EXCEPTION Failed to publish Event
+[SEVERE] [DcmProcessHelper] callBpelApprovalProcess: eventName PurchaseOrder
+[SEVERE] [DcmProcessHelper] callBpelApprovalProcess: eventNamespace http://xmlns.oracle.com/apps/prc/po/approval/PrcPoApprovalComposite/PurchaseOrder
+[SEVERE] [DcmProcessHelper] java.lang.NullPointerException
+[SEVERE] [DcmProcessHelper] oracle.apps.prc.po.commonPo.protectedModel.helper.DcmProcessHelper.publishEvent(DcmProcessHelper.java:305)
+[SEVERE] [DcmProcessHelper] oracle.apps.prc.po.commonPo.protectedModel.helper.DcmProcessHelper.publishPurchaseOrderEvent(DcmProcessHelper.java:76)
+[SEVERE] [DcmProcessHelper] oracle.apps.prc.po.commonPo.protectedModel.util.DocumentActionsUtil.raiseDocumentActionEvents(DocumentActionsUtil.java:794)
+[SEVERE] [DcmProcessHelper] oracle.apps.prc.po.commonPo.protectedModel.util.DocumentActionsUtil.manualClose(DocumentActionsUtil.java:736)
+[SEVERE] [DcmProcessHelper] oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentActionsUtil.testManualClose(TestDocumentActionsUtil.java:332)
+[SEVERE] [DcmProcessHelper] sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[SEVERE] [DcmProcessHelper] sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+[SEVERE] [DcmProcessHelper] sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+[SEVERE] [DcmProcessHelper] java.lang.reflect.Method.invoke(Method.java:597)
+[SEVERE] [DcmProcessHelper] org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:45)
+[SEVERE] [DcmProcessHelper] org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+[SEVERE] [DcmProcessHelper] org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:42)
+[SEVERE] [DcmProcessHelper] org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+[SEVERE] [DcmProcessHelper] org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+[SEVERE] [DcmProcessHelper] org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:30)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:263)
+[SEVERE] [DcmProcessHelper] org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:68)
+[SEVERE] [DcmProcessHelper] org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:47)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner$3.run(ParentRunner.java:231)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:60)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner.runChildren(ParentRunner.java:229)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner.access$000(ParentRunner.java:50)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:222)
+[SEVERE] [DcmProcessHelper] org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+[SEVERE] [DcmProcessHelper] org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:30)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner.run(ParentRunner.java:300)
+[SEVERE] [DcmProcessHelper] org.junit.runners.Suite.runChild(Suite.java:128)
+[SEVERE] [DcmProcessHelper] org.junit.runners.Suite.runChild(Suite.java:24)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner$3.run(ParentRunner.java:231)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:60)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner.runChildren(ParentRunner.java:229)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner.access$000(ParentRunner.java:50)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:222)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner.run(ParentRunner.java:300)
+[SEVERE] [DcmProcessHelper] oracle.apps.fnd.appltest.unittest.junit.UTRunner$1.run(UTRunner.java:1267)
+[SEVERE] [DcmProcessHelper] org.junit.runner.JUnitCore.run(JUnitCore.java:136)
+[SEVERE] [DcmProcessHelper] oracle.apps.fnd.appltest.unittest.junit.UTRunner.runTest(UTRunner.java:1055)
+[SEVERE] [DcmProcessHelper] oracle.apps.fnd.appltest.unittest.junit.UTRunner.execute(UTRunner.java:1223)
+[SEVERE] [DcmProcessHelper] sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[SEVERE] [DcmProcessHelper] sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+[SEVERE] [DcmProcessHelper] sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+[SEVERE] [DcmProcessHelper] java.lang.reflect.Method.invoke(Method.java:597)
+[SEVERE] [DcmProcessHelper] oracle.apps.fnd.appltest.unittest.junit.entry.UTRunnerMain.main(UTRunnerMain.java:153)
+[SEVERE] [DocumentActionsUtil] raiseDocumentActionEvents: BUS_EVENT FAILED - PurchaseOrderClosed Event Faulted
+
+
+    Assert Passed! - PoHeadersAllVO SPO 1 Header
+    Assert Passed! - PoActionHistoryVO SPO 1 Header
+]]></system-out>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" timestamp="2017-06-20T11:33:55" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="68" failures="0" errors="0" time="2.679" runId="0">
+  <properties />
+  <testcase name="simpleCreateAndRemove" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.44">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="simpleUpdateAndRemove" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.119">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="voRowImplHasAttributeMetadata" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0030">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="testVOAccess" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[NotificationId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0020">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PoHeaderId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[StartDateActive]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[EndDateActive]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[NotificationAmount]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[NotificationConditionCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[NotificationQtyPercentage]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[LastUpdateDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[LastUpdateLogin]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[LastUpdatedBy]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CreatedBy]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CreationDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeCategory]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute10]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute11]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute12]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute13]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute14]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute15]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute2]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute3]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute4]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute5]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute6]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute7]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute8]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute9]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ObjectVersionNumber]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute18]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute20]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute19]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute17]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute16]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate10]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate2]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate3]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate4]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate5]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate6]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate7]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate8]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate9]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp10]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp2]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp3]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp4]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp5]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp6]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp7]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp8]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp9]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber10]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber2]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber3]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber4]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber5]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber6]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber7]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber8]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber9]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoNotificationControlsVO" type="ADFVO" />
+  </testcase>
+</testsuite>

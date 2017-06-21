@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoReqProcessingActionsUtil" timestamp="2017-06-20T11:30:06" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="8" failures="0" errors="0" time="1.125" runId="0">
+  <properties />
+  <testcase name="testReturnRequisitionLines[test Return Requisition Lines]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoReqProcessingActionsUtil" id="0" time="0.015" />
+  <testcase name="testReassignRequisitionLines[test Reassign Requisition Lines]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoReqProcessingActionsUtil" id="0" time="0.0" />
+  <testcase name="testCheckAndLockReqLines[test Check And Lock ReqLines]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoReqProcessingActionsUtil" id="0" time="0.0010" />
+  <testcase name="testGetDBReqLineObjectVerNum[test Get DB ReqLineObject VerNum]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoReqProcessingActionsUtil" id="0" time="0.0" />
+  <testcase name="testCheckIfRequisitionsAreModified[test Check If Requisitions Are Modified]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoReqProcessingActionsUtil" id="0" time="0.0010" />
+  <testcase name="testCheckIfRequisitionsAreLockedOrAlreadyProcessed[test Check If Requisitions Are Locked Or Already Processed]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoReqProcessingActionsUtil" id="0" time="0.0" />
+  <testcase name="testCheckIfRequisitionsAreLocked[test Check If Requisitions Are Locked]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoReqProcessingActionsUtil" id="0" time="0.0010" />
+  <testcase name="testEditAllowedForConsolidatedPo[test Edit Allowed For Consolidated Po]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoReqProcessingActionsUtil" id="0" time="0.0" />
+</testsuite>

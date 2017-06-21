@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceScheduleValidationHelper" timestamp="2017-06-20T11:28:06" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="22" failures="0" errors="0" time="11.348" runId="0">
+  <properties />
+  <testcase name="deriveShipToCustomerLocationId[Id Validation]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceScheduleValidationHelper" id="0" time="0.037" />
+  <testcase name="deriveShipToCustomerId[Id Validation]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceScheduleValidationHelper" id="0" time="0.031" />
+  <testcase name="deriveShipToCustomerContactId[Id Validation]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceScheduleValidationHelper" id="0" time="0.0040" />
+  <testcase name="testDeriveIntendedUseId[1. Derive Id with provided name null]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceScheduleValidationHelper" id="0" time="1.636" />
+  <testcase name="testDeriveIntendedUseId[2. Derive Id with provided id null]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceScheduleValidationHelper" id="0" time="0.54" />
+  <testcase name="testDeriveProductFiscalClassificationId[1. Derive Id with provided name null]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceScheduleValidationHelper" id="0" time="0.83" />
+  <testcase name="testDeriveProductCategoryCode[1. Derive ProductCategoryCode with provided name null]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceScheduleValidationHelper" id="0" time="0.387" />
+  <testcase name="testDeriveProductCategoryCode[2. Derive ProductCategoryCode with provided code null]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceScheduleValidationHelper" id="0" time="0.029" />
+  <testcase name="testDeriveTaxClassificationCode[1. Derive TaxClassificationCode with provided name null]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceScheduleValidationHelper" id="0" time="0.522" />
+  <testcase name="testDeriveTaxClassificationCode[2. Derive TaxClassificationCode with provided code null]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceScheduleValidationHelper" id="0" time="1.518" />
+  <testcase name="testDeriveProductTypeCode[1. Derive ProductTypeCode with provided name null]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceScheduleValidationHelper" id="0" time="0.062" />
+  <testcase name="testDeriveProductTypeCode[2. Derive ProductTypeCode with provided code null]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceScheduleValidationHelper" id="0" time="0.022" />
+  <testcase name="testDeriveShipToLocationId[1. Derive ShipToLocationId with provided name null]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceScheduleValidationHelper" id="0" time="1.739" />
+  <testcase name="testDeriveShipToLocationId[2. Derive ShipToLocationId with provided code null]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceScheduleValidationHelper" id="0" time="0.864" />
+  <testcase name="testDeriveShipToOrganizationId[1. Derive ShipToOrganizationId with provided name null]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceScheduleValidationHelper" id="0" time="0.432" />
+  <testcase name="testDeriveShippingMethodForSplit[1. Derive Shipping method]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceScheduleValidationHelper" id="0" time="0.036" />
+  <testcase name="testDeriveParentLinelocationId[1. Derive Parent LinelocationId]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceScheduleValidationHelper" id="0" time="0.044" />
+  <testcase name="testValidateParentLinelocationId[1. Validate Parent LinelocationId]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceScheduleValidationHelper" id="0" time="0.01" />
+  <testcase name="testHasScheduleMultipleDistributions[1. Validate multiple schedule distributions]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceScheduleValidationHelper" id="0" time="0.07" />
+  <testcase name="testGetDistributionIdForScheduleSplit[1. Get Distribution Id  for schedule split]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceScheduleValidationHelper" id="0" time="0.0060" />
+  <testcase name="testValidateFinalDischargeLocationId[1. Validate FinalDischarge LocationId]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceScheduleValidationHelper" id="0" time="0.252" />
+  <testcase name="testValidateFinalDischargeLocationCode[1. Validate FinalDischarge LocationCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoServiceScheduleValidationHelper" id="0" time="0.082" />
+</testsuite>

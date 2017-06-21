@@ -1,0 +1,23 @@
+<system-out><![CDATA[The TestClassOwner annotation for this test is missing.
+
+***** Validating connections.xml *****
+***** Context class is : oracle.adf.share.jndi.AdfInitialContext
+Naming provider :META-INF/connections.xml
+Naming provider resolved through URL : file:/scratch/jjikumar/view_storage/jjikumar_REL_13_Test/fusionapps/prc/components/procurement/.adf/META-INF/connections.xml
+Protocol is : file
+Test Owner: Unassigned. A test method named 'ByCarrierNameEqualityCondition' is required. 
+A test method named 'ByExactName' is required. 
+A test method named 'CarrierPVOCriteria' is required. 
+A test method named 'CarrierPVOCriteriaByActiveCarriers' is required. 
+A test method named 'CarrierPVOCriteriaByCarrierIdAndOrgId' is required. 
+A test method named 'CarrierPVOCriteriaById' is required. 
+A test method named 'CarrierPVOCriteriaByManifestingEnabledFlag' is required. 
+A test method named 'CarrierPVOCriteriaByName' is required. 
+A test method named 'CarrierPVOCriteriaByNameAndOrg' is required. 
+A test method named 'CarrierPVOCriteriaByNameId' is required. 
+A test method named 'CarrierPVOCriteriaByOrganizationId' is required. 
+A test method named 'getNoRowsVC' is required. 
+
+Storing queried row for reuse.
+Data Driven Test block finished, clearing cached row for invokeVORowImplAttributeGetter
+]]></system-out>

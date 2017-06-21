@@ -1,0 +1,19 @@
+<system-out><![CDATA[The TestClassOwner annotation for this test is missing.
+
+***** Validating connections.xml *****
+***** Context class is : oracle.adf.share.jndi.AdfInitialContext
+Naming provider :META-INF/connections.xml
+Naming provider resolved through URL : file:/scratch/jjikumar/view_storage/jjikumar_REL_13_Test/fusionapps/prc/components/procurement/.adf/META-INF/connections.xml
+Protocol is : file
+Test Owner: Unassigned. A test method named 'ByExactName' is required. 
+A test method named 'SearchByClassficationCodeAndEffectiveDates' is required. 
+A test method named 'SearchByClassifId' is required. 
+A test method named 'SearchByClassifName' is required. 
+A test method named 'SearchByClassificationCode' is required. 
+A test method named 'SearchByClassificationName' is required. 
+A test method named 'SearchByCountryCode' is required. 
+A test method named 'SearchByTaxClassificationCodeAndTaxClassificationName' is required. 
+
+Storing queried row for reuse.
+Data Driven Test block finished, clearing cached row for invokeVORowImplAttributeGetter
+]]></system-out>

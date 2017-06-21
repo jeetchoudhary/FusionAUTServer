@@ -1,0 +1,35 @@
+<system-out><![CDATA[PSR: Reading system property VOMaxFetchSize
+Delete: PO_VERSIONS From XML File: TestPoActionHistoryHelper_PO_VERSIONS.xml
+Delete: PO_VERSIONS From XML File: TestPoActionHistoryHelper_2_PO_VERSIONS.xml
+Insert: PO_VERSIONS From XML File: TestPoActionHistoryHelper_PO_VERSIONS.xml
+Insert: PO_VERSIONS From XML File: TestPoActionHistoryHelper_2_PO_VERSIONS.xml
+The TestMethodOwner annotation for this test method is missing: recordActionHistoryWithExtraParams.
+The TestMethodOwner annotation for this test method is missing: recordActionHistory.
+
+The TestClassOwner annotation for this test is missing.
+
+**********************************************
+Starting test case: 1. Recording Action History with ActionCode as SUBMIT
+
+    Assert Passed! - PoActionHistoryVO Record Action History
+    Test Case Passed! 
+
+End of test case: 1. Recording Action History with ActionCode as SUBMIT
+**********************************************
+**********************************************
+Starting test case: 2. Recording Action History with ActionCode as IMPLEMENT for External CO
+
+    Assert Passed! - PoActionHistoryVO Record Action History
+    Test Case Passed! 
+
+End of test case: 2. Recording Action History with ActionCode as IMPLEMENT for External CO
+**********************************************
+**********************************************
+Starting test case: 1. Recording Action History with ActionCode as IMPLEMENT for Internal CO
+
+    Assert Passed! - PoActionHistoryVO Record Action History
+    Test Case Passed! 
+
+End of test case: 1. Recording Action History with ActionCode as IMPLEMENT for Internal CO
+**********************************************
+]]></system-out>

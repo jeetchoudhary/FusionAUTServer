@@ -1,6 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule, APP_INITIALIZER, OnInit } from '@angular/core';
 import { FormsModule } from '@angular/forms';
+import { HttpModule } from '@angular/http';
 
 
 import { AppComponent } from './UI/main/app.component';
@@ -10,9 +11,10 @@ import { AppSidebarComponent } from './UI/sidebar/app.sidebar.component';
 import { AppFooterComponent } from './UI/footer/app.footer.component';
 import { AutRequestFormComponent } from './AUTRequest/aut.form.component';
 import { AUTService } from './AUTService/aut-service';
+import { routing } from './app.routing';
 
 export function ConfigLoader(configService: AUTService) {
-    return () => configService.getListOfAllRequests();
+  return () => configService.getListOfAllRequests();
 }
 
 @NgModule({
@@ -26,7 +28,9 @@ export function ConfigLoader(configService: AUTService) {
   ],
   imports: [
     BrowserModule,
-    FormsModule
+    FormsModule,
+    HttpModule,
+    routing
   ],
   providers: [
     AUTService,
@@ -34,9 +38,9 @@ export function ConfigLoader(configService: AUTService) {
   ],
   bootstrap: [AppComponent]
 })
-export class AppModule  implements OnInit {
-  constructor(private autService: AUTService ) {}
+export class AppModule implements OnInit {
+  constructor(private autService: AUTService) { }
   ngOnInit() {
-     this.autService.getListOfAllRequests();
+    this.autService.getListOfAllRequests();
   }
 }

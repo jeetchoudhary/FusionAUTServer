@@ -1,0 +1,54 @@
+<system-out><![CDATA[Delete: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: TestPoShipmentNumberUtil_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Delete: PO_LINES_DRAFT_ALL From XML File: TestPoShipmentNumberUtil_PO_LINES_DRAFT_ALL.xml
+Delete: PO_HEADERS_DRAFT_ALL From XML File: TestPoShipmentNumberUtil_PO_HEADERS_DRAFT_ALL.xml
+Insert: PO_HEADERS_DRAFT_ALL From XML File: TestPoShipmentNumberUtil_PO_HEADERS_DRAFT_ALL.xml
+Insert: PO_LINES_DRAFT_ALL From XML File: TestPoShipmentNumberUtil_PO_LINES_DRAFT_ALL.xml
+Insert: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: TestPoShipmentNumberUtil_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Test Class Owner is: PO_AUTOUT_NOTIFY_IN@ORACLE.COM
+**********************************************
+Starting test case: Test calculateMaxShipmentNum 1
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Test calculateMaxShipmentNum 1
+**********************************************
+**********************************************
+Starting test case: Test calculateMaxShipmentNum 2
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Test calculateMaxShipmentNum 2
+**********************************************
+**********************************************
+Starting test case: Test calculateMaxShipmentNumInMemory 1
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Test calculateMaxShipmentNumInMemory 1
+**********************************************
+**********************************************
+Starting test case: Test calculateMaxShipmentNumInMemory 2
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Test calculateMaxShipmentNumInMemory 2
+**********************************************
+**********************************************
+Starting test case: Test Get Min Open Schedule
+    Test Case Passed! 
+
+End of test case: Test Get Min Open Schedule
+**********************************************
+]]></system-out>

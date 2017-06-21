@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoNotificationControlUtil" timestamp="2017-06-20T11:29:58" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="2" failures="0" errors="0" time="4.633" runId="0">
+  <properties />
+  <testcase name="testDoesHeaderHaveExpirationNotifControls[Test Blanket Header Expiration NotifControls]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoNotificationControlUtil" id="0" time="0.038" />
+  <testcase name="testDoesHeaderHaveExpirationNotifControls[Test Contract Header Expiration NotifControls]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoNotificationControlUtil" id="0" time="0.01" />
+</testsuite>

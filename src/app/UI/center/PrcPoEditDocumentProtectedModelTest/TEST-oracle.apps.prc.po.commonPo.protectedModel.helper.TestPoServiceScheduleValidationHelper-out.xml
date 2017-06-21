@@ -1,0 +1,241 @@
+<system-out><![CDATA[Delete: PO_HEADERS_DRAFT_ALL From XML File: TestPoServiceScheduleValidationHelper_PO_HEADERS_DRAFT_ALL.xml
+Delete: PO_LINES_DRAFT_ALL From XML File: TestPoServiceScheduleValidationHelper_PO_LINES_DRAFT_ALL.xml
+Delete: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: TestPoServiceScheduleValidationHelper_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Delete: PO_LINE_LOCATIONS_ALL From XML File: TestPoServiceScheduleValidationHelper_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Delete: PO_DISTRIBUTIONS_ALL From XML File: TestPoServiceScheduleValidationHelper_PO_DISTRIBUTIONS_ALL.xml
+Insert: PO_HEADERS_DRAFT_ALL From XML File: TestPoServiceScheduleValidationHelper_PO_HEADERS_DRAFT_ALL.xml
+Insert: PO_LINES_DRAFT_ALL From XML File: TestPoServiceScheduleValidationHelper_PO_LINES_DRAFT_ALL.xml
+Insert: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: TestPoServiceScheduleValidationHelper_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Insert: PO_LINE_LOCATIONS_ALL From XML File: TestPoServiceScheduleValidationHelper_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Insert: PO_DISTRIBUTIONS_ALL From XML File: TestPoServiceScheduleValidationHelper_PO_DISTRIBUTIONS_ALL.xml
+The TestMethodOwner annotation for this test method is missing: deriveShipToCustomerLocationId.
+The TestMethodOwner annotation for this test method is missing: testDeriveShipToOrganizationId.
+The TestMethodOwner annotation for this test method is missing: testValidateParentLinelocationId.
+The TestMethodOwner annotation for this test method is missing: testDeriveTaxClassificationCode.
+The TestMethodOwner annotation for this test method is missing: testDeriveIntendedUseId.
+The TestMethodOwner annotation for this test method is missing: testDeriveProductTypeCode.
+The TestMethodOwner annotation for this test method is missing: testHasScheduleMultipleDistributions.
+The TestMethodOwner annotation for this test method is missing: testDeriveProductFiscalClassificationId.
+The TestMethodOwner annotation for this test method is missing: testValidateFinalDischargeLocationId.
+The TestMethodOwner annotation for this test method is missing: testDeriveParentLinelocationId.
+The TestMethodOwner annotation for this test method is missing: testDeriveShippingMethodForSplit.
+The TestMethodOwner annotation for this test method is missing: testValidateFinalDischargeLocationCode.
+The TestMethodOwner annotation for this test method is missing: testGetDistributionIdForScheduleSplit.
+The TestMethodOwner annotation for this test method is missing: deriveShipToCustomerId.
+The TestMethodOwner annotation for this test method is missing: testDeriveShipToLocationId.
+The TestMethodOwner annotation for this test method is missing: testDeriveProductCategoryCode.
+The TestMethodOwner annotation for this test method is missing: deriveShipToCustomerContactId.
+
+The TestClassOwner annotation for this test is missing.
+
+**********************************************
+Starting test case: Id Validation
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Id Validation
+**********************************************
+**********************************************
+Starting test case: Id Validation
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Id Validation
+**********************************************
+**********************************************
+Starting test case: Id Validation
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Id Validation
+**********************************************
+**********************************************
+Starting test case: 1. Derive Id with provided name null
+Asserts Passed for the testcase : 1. Derive Id with provided name null
+End of test case: 1. Derive Id with provided name null
+**********************************************
+**********************************************
+Starting test case: 2. Derive Id with provided id null
+Asserts Passed for the testcase : 2. Derive Id with provided id null
+End of test case: 2. Derive Id with provided id null
+**********************************************
+**********************************************
+Starting test case: 1. Derive Id with provided name null
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: 1. Derive Id with provided name null
+**********************************************
+**********************************************
+Starting test case: 1. Derive ProductCategoryCode with provided name null
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: 1. Derive ProductCategoryCode with provided name null
+**********************************************
+**********************************************
+Starting test case: 2. Derive ProductCategoryCode with provided code null
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: 2. Derive ProductCategoryCode with provided code null
+**********************************************
+**********************************************
+Starting test case: 1. Derive TaxClassificationCode with provided name null
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: 1. Derive TaxClassificationCode with provided name null
+**********************************************
+**********************************************
+Starting test case: 2. Derive TaxClassificationCode with provided code null
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: 2. Derive TaxClassificationCode with provided code null
+**********************************************
+**********************************************
+Starting test case: 1. Derive ProductTypeCode with provided name null
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: 1. Derive ProductTypeCode with provided name null
+**********************************************
+**********************************************
+Starting test case: 2. Derive ProductTypeCode with provided code null
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: 2. Derive ProductTypeCode with provided code null
+**********************************************
+**********************************************
+Starting test case: 1. Derive ShipToLocationId with provided name null
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: 1. Derive ShipToLocationId with provided name null
+**********************************************
+**********************************************
+Starting test case: 2. Derive ShipToLocationId with provided code null
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: 2. Derive ShipToLocationId with provided code null
+**********************************************
+**********************************************
+Starting test case: 1. Derive ShipToOrganizationId with provided name null
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: 1. Derive ShipToOrganizationId with provided name null
+**********************************************
+**********************************************
+Starting test case: 1. Derive Shipping method
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: 1. Derive Shipping method
+**********************************************
+**********************************************
+Starting test case: 1. Derive Parent LinelocationId
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: 1. Derive Parent LinelocationId
+**********************************************
+**********************************************
+Starting test case: 1. Validate Parent LinelocationId
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: 1. Validate Parent LinelocationId
+**********************************************
+**********************************************
+Starting test case: 1. Validate multiple schedule distributions
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: 1. Validate multiple schedule distributions
+**********************************************
+**********************************************
+Starting test case: 1. Get Distribution Id  for schedule split
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: 1. Get Distribution Id  for schedule split
+**********************************************
+**********************************************
+Starting test case: 1. Validate FinalDischarge LocationId
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: 1. Validate FinalDischarge LocationId
+**********************************************
+**********************************************
+Starting test case: 1. Validate FinalDischarge LocationCode
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: 1. Validate FinalDischarge LocationCode
+**********************************************
+]]></system-out>

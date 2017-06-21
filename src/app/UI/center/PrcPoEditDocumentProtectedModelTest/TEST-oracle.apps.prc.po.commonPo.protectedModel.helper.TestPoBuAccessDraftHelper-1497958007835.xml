@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoBuAccessDraftHelper" timestamp="2017-06-20T11:26:47" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="7" failures="0" errors="0" time="7.488" runId="0">
+  <properties />
+  <testcase name="testInitPurchasingSite[1. Defaulting Purchasing Site]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoBuAccessDraftHelper" id="0" time="2.527" />
+  <testcase name="testInitPurchasingSite_WithMulipleSupplierSites[1. Defaulting Purchasing Site with different order locally flag]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoBuAccessDraftHelper" id="0" time="1.474" />
+  <testcase name="testInitBillingInformation[1. Defaulting Billing Information]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoBuAccessDraftHelper" id="0" time="0.0090" />
+  <testcase name="testInitShipToLocation[1. Defaulting Ship to Location details]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoBuAccessDraftHelper" id="0" time="0.0050" />
+  <testcase name="testRedefaultBillToLocation[1. Defaulting Bill to Location details]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoBuAccessDraftHelper" id="0" time="0.35" />
+  <testcase name="testInitForCreate[1. Defaulting  the attributes on the BU Access.]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoBuAccessDraftHelper" id="0" time="0.013" />
+  <testcase name="testGetSupplierSiteAssignmentPVO[1. Get SupplierSite AssignmentPVO]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoBuAccessDraftHelper" id="0" time="0.0030" />
+</testsuite>

@@ -1,0 +1,74 @@
+<system-out><![CDATA[Delete: PO_HEADERS_DRAFT_ALL From XML File: TestLineNumberUtil_po_headers_draft_all.xml
+Delete: PO_LINES_DRAFT_ALL From XML File: TestLineNumberUtil_po_lines_draft_all.xml
+Insert: PO_HEADERS_DRAFT_ALL From XML File: TestLineNumberUtil_po_headers_draft_all.xml
+Insert: PO_LINES_DRAFT_ALL From XML File: TestLineNumberUtil_po_lines_draft_all.xml
+Test Class Owner is: PO_AUTOUT_NOTIFY_IN@ORACLE.COM
+**********************************************
+Starting test case: test Get Maximum LineNumber
+
+    Assert Passed! - HashMap: maxLineNum
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Get Maximum LineNumber
+**********************************************
+**********************************************
+Starting test case: test Get Minimum LineNumber
+
+    Assert Passed! - HashMap: minLineNum
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Get Minimum LineNumber
+**********************************************
+**********************************************
+Starting test case: test Get LineId
+
+ERROR: java.lang.ClassCastException: java.lang.Long cannot be cast to java.util.HashMap
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Get LineId
+**********************************************
+**********************************************
+Starting test case: test Find Max LineNumber
+
+    Assert Passed! - HashMap: maxLineNum
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Find Max LineNumber
+**********************************************
+**********************************************
+Starting test case: calculate Max LineNum For Modified
+
+    Assert Passed! - HashMap: maxLineNum
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: calculate Max LineNum For Modified
+**********************************************
+**********************************************
+Starting test case: test Calculate Max LineNum For All
+
+    Assert Passed! - HashMap: maxLineNum
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Calculate Max LineNum For All
+**********************************************
+**********************************************
+Starting test case: reset Max Line Parameters On LineNum Change
+End of test case: reset Max Line Parameters On LineNum Change
+**********************************************
+**********************************************
+Starting test case: reset Max Line Parameters On LineNum Change
+End of test case: reset Max Line Parameters On LineNum Change
+**********************************************
+]]></system-out>

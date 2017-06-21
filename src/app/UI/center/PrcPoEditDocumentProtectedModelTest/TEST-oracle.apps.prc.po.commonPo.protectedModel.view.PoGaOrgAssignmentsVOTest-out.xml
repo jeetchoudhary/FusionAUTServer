@@ -1,0 +1,33 @@
+<system-out><![CDATA[The TestClassOwner annotation for this test is missing.
+
+***** Validating connections.xml *****
+***** Context class is : oracle.adf.share.jndi.AdfInitialContext
+Naming provider :META-INF/connections.xml
+Naming provider resolved through URL : file:/scratch/jjikumar/view_storage/jjikumar_REL_13_Test/fusionapps/prc/components/procurement/.adf/META-INF/connections.xml
+Protocol is : file
+Test Owner: Unassigned. A test method named 'PoHeaderPrcBuReqBuCriteria' is required. 
+A test method named 'PoHeaderReqBuCriteria' is required. 
+
+Processing entity def: oracle.apps.prc.po.commonPo.protectedModel.entity.PurchasingAgreementBuAccessEO
+Test Owner: Unassigned. An entity validator test for validator '_InternalMandatoryValidator_' is required. 
+
+Test Owner: Unassigned. An attribute validator test for validator 'BillToLocationId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'EnabledFlag_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ShipToLocationId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PoHeaderId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'OrgAssignmentId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'OrderedLocallyFlag_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'VendorSiteId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PrcBuId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'BilltoBuId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ReqBuId_PrecisionScale_Val' is required. 
+
+getSimpleRow took milliseocnds:229
+getSimpleRow in seconds:0
+getSimpleRow took milliseocnds:3
+getSimpleRow in seconds:0
+getSimpleRow took milliseocnds:1
+getSimpleRow in seconds:0
+Storing created row for reuse.
+Data Driven Test block finished, clearing cached row for invokeVORowImplAttributeGetter
+]]></system-out>

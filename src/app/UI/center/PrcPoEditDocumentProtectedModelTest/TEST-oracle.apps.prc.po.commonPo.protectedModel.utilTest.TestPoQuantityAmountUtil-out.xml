@@ -1,0 +1,18 @@
+<system-out><![CDATA[Delete: PO_DISTRIBUTIONS_ALL From XML File: TestPoQuantityAmountUtil_po_distributions_all.xml
+Delete: PO_LINE_LOCATIONS_ALL From XML File: TestPoQuantityAmountUtil_po_line_locations_all.xml
+Delete: PO_LINES_ALL From XML File: TestPoQuantityAmountUtil_po_lines_all.xml
+Delete: PO_HEADERS_ALL From XML File: TestPoQuantityAmountUtil_po_headers_all.xml
+Insert: PO_HEADERS_ALL From XML File: TestPoQuantityAmountUtil_po_headers_all.xml
+Insert: PO_LINES_ALL From XML File: TestPoQuantityAmountUtil_po_lines_all.xml
+Insert: PO_LINE_LOCATIONS_ALL From XML File: TestPoQuantityAmountUtil_po_line_locations_all.xml
+Insert: PO_DISTRIBUTIONS_ALL From XML File: TestPoQuantityAmountUtil_po_distributions_all.xml
+Test Class Owner is: PO_AUTOUT_NOTIFY_IN@ORACLE.COM
+**********************************************
+Starting test case: Test Po Quantity Amount Util
+
+    Assert Passed! - HashMap: getAgreementReleasedAmount
+    Test Case Passed! 
+
+End of test case: Test Po Quantity Amount Util
+**********************************************
+]]></system-out>

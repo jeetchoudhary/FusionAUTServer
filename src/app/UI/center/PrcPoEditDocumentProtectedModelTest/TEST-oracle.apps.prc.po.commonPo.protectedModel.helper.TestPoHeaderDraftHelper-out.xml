@@ -1,0 +1,658 @@
+<system-out><![CDATA[Delete: PO_HEADERS_DRAFT_ALL From XML File: TestPoHeaderDraftHelper_PO_HEADERS_DRAFT_ALL.xml
+Delete: PO_LINES_DRAFT_ALL From XML File: TestPoHeaderDraftHelper_PO_LINES_DRAFT_ALL.xml
+Delete: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: TestPoHeaderDraftHelper_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Delete: PO_DISTRIBUTIONS_DRAFT_ALL From XML File: TestPoHeaderDraftHelper_PO_DISTRIBUTIONS_DRAFT_ALL.xml
+Insert: PO_HEADERS_DRAFT_ALL From XML File: TestPoHeaderDraftHelper_PO_HEADERS_DRAFT_ALL.xml
+Insert: PO_LINES_DRAFT_ALL From XML File: TestPoHeaderDraftHelper_PO_LINES_DRAFT_ALL.xml
+Insert: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: TestPoHeaderDraftHelper_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Insert: PO_DISTRIBUTIONS_DRAFT_ALL From XML File: TestPoHeaderDraftHelper_PO_DISTRIBUTIONS_DRAFT_ALL.xml
+The TestMethodOwner annotation for this test method is missing: testInitTaxAttrbs.
+The TestMethodOwner annotation for this test method is missing: testDefaultSupplierDependentFields.
+The TestMethodOwner annotation for this test method is missing: testResetRateDependentFields.
+The TestMethodOwner annotation for this test method is missing: testUpdateMaxLineNumForNew.
+The TestMethodOwner annotation for this test method is missing: testInitSupplierSite.
+The TestMethodOwner annotation for this test method is missing: testInitCreatedLanguage.
+The TestMethodOwner annotation for this test method is missing: testResetCurrencyDependentFields.
+The TestMethodOwner annotation for this test method is missing: testIsShippingMethodValid.
+The TestMethodOwner annotation for this test method is missing: testInitRateDate.
+The TestMethodOwner annotation for this test method is missing: testInitShipToLocationId.
+The TestMethodOwner annotation for this test method is missing: testDefaultAgingOnsetPointDependentFields.
+The TestMethodOwner annotation for this test method is missing: testInitSupplierNotificationMethod.
+The TestMethodOwner annotation for this test method is missing: testInitEmailAddress.
+The TestMethodOwner annotation for this test method is missing: testDefaultSoldToLegalEntity.
+The TestMethodOwner annotation for this test method is missing: testIsFreightTermsValid.
+The TestMethodOwner annotation for this test method is missing: testInitStyleAndType.
+The TestMethodOwner annotation for this test method is missing: testInitProcurementOptionsDependentFields.
+The TestMethodOwner annotation for this test method is missing: testInitPrcBu.
+The TestMethodOwner annotation for this test method is missing: testInitFreightTerms.
+The TestMethodOwner annotation for this test method is missing: testDefaultRateDependentFields.
+The TestMethodOwner annotation for this test method is missing: testDefaultDistRateDate.
+The TestMethodOwner annotation for this test method is missing: testLineRowExists.
+The TestMethodOwner annotation for this test method is missing: testDefaultShippingMethod.
+The TestMethodOwner annotation for this test method is missing: testIsCarrierIdValid.
+The TestMethodOwner annotation for this test method is missing: testDefaultAcceptanceRequiredFlagDependentFields.
+The TestMethodOwner annotation for this test method is missing: testIsShipToLocationIdValid.
+The TestMethodOwner annotation for this test method is missing: testInitPoNumber.
+The TestMethodOwner annotation for this test method is missing: testGetBillToBUCurrency.
+The TestMethodOwner annotation for this test method is missing: testInitPayOnReceipt.
+The TestMethodOwner annotation for this test method is missing: testIsBillToLocationIdValid.
+The TestMethodOwner annotation for this test method is missing: testInitFOB.
+The TestMethodOwner annotation for this test method is missing: testDefaultAcceptanceWithinDaysDependentFields.
+The TestMethodOwner annotation for this test method is missing: testInitPaymentTerms.
+The TestMethodOwner annotation for this test method is missing: testDefaultDistRateFields.
+The TestMethodOwner annotation for this test method is missing: testInitBillToLocationId.
+The TestMethodOwner annotation for this test method is missing: testInitBuyer.
+The TestMethodOwner annotation for this test method is missing: testResetSupplierContactIdDependentFields.
+The TestMethodOwner annotation for this test method is missing: testInitCurrencyCode.
+The TestMethodOwner annotation for this test method is missing: testInitRate.
+The TestMethodOwner annotation for this test method is missing: testDefaultDistRate.
+The TestMethodOwner annotation for this test method is missing: testInitDocumentCreationMethod.
+The TestMethodOwner annotation for this test method is missing: testDefaultSupplierSiteId.
+The TestMethodOwner annotation for this test method is missing: testDefaultConfiguredStyleDependentField.
+The TestMethodOwner annotation for this test method is missing: testDefaultSupplierContactDependentFields.
+The TestMethodOwner annotation for this test method is missing: testGetDefaultRateType.
+The TestMethodOwner annotation for this test method is missing: testInitRateType.
+The TestMethodOwner annotation for this test method is missing: testResetRateTypeDependentFields.
+The TestMethodOwner annotation for this test method is missing: testIsPaymentTermsValid.
+The TestMethodOwner annotation for this test method is missing: testInitBuyerManagedTransportFlag.
+The TestMethodOwner annotation for this test method is missing: testGetSoldToLeCurrency.
+The TestMethodOwner annotation for this test method is missing: testInitSupplierContactId.
+The TestMethodOwner annotation for this test method is missing: testResetPcardId.
+The TestMethodOwner annotation for this test method is missing: testResetSupplierContactDependentFields.
+The TestMethodOwner annotation for this test method is missing: testInitReqBu.
+The TestMethodOwner annotation for this test method is missing: testDefaultAgingPeriodDaysDependentFields.
+The TestMethodOwner annotation for this test method is missing: testDefaultRateDateDependentFields.
+The TestMethodOwner annotation for this test method is missing: testIsFOBValid.
+The TestMethodOwner annotation for this test method is missing: testDefaultBillingInformation.
+
+The TestClassOwner annotation for this test is missing.
+
+**********************************************
+Starting test case: 1. Defaulting Buyer
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Buyer
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Language
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Language
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Prc BU
+
+    Assert Passed! - HashMap: PoPrcBuId
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Prc BU
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Req BU
+[SEVERE] [handlerException] An error occurred while writing to the diagnostic log file because of this reason: Apps ODLHandler config setting not found! Check logging.xml and related config settings. (FND-10103)
+[SEVERE] [FeatureUtil] java.lang.NullPointerException
+	at oracle.apps.topologyManager.datasource.ConnectionProvider.getConnection(ConnectionProvider.java:259)
+	at oracle.topologyManager.client.deployedInfo.DeployedInfoProvider.isEnvironmentUpgraded(DeployedInfoProvider.java:3728)
+	at oracle.apps.setup.commonSetup.featurePublicModel.util.FeatureUtil.isEnvironmentUpgraded(FeatureUtil.java:124)
+	at oracle.apps.setup.commonSetup.features.publicModel.applicationModule.FeatureAMImpl.getFeatureChoice(FeatureAMImpl.java:1852)
+	at oracle.apps.setup.commonSetup.features.publicModel.applicationModule.FeatureAMImpl.getFeatureChoices(FeatureAMImpl.java:1754)
+	at oracle.apps.setup.commonSetup.features.Offerings.getFeatureChoicesFromAM(Offerings.java:1301)
+	at oracle.apps.setup.commonSetup.features.Offerings.getFeatureChoices(Offerings.java:1281)
+	at oracle.apps.prc.po.commonPo.protectedCoreModel.util.InstallationUtil.isFeatureEnabled(InstallationUtil.java:161)
+	at oracle.apps.prc.po.commonPo.protectedCoreModel.util.InstallationUtil.isSFOFeatureEnabledInProcurement(InstallationUtil.java:355)
+	at oracle.apps.prc.po.commonPo.protectedCoreModel.util.InstallationUtil.isProductInstalled(InstallationUtil.java:96)
+	at oracle.apps.prc.po.commonPo.protectedCoreModel.util.InstallationUtil.isProductInstalled(InstallationUtil.java:45)
+	at oracle.apps.prc.po.commonPo.protectedCoreModel.util.PoFinancialRoute.isSFOImplemented(PoFinancialRoute.java:217)
+	at oracle.apps.prc.po.commonPo.protectedCoreModel.validationView.SoldToLegalEntityVVOImpl.executeQueryForCollection(SoldToLegalEntityVVOImpl.java:163)
+	at oracle.jbo.server.ViewRowSetImpl.execute(ViewRowSetImpl.java:1318)
+	at oracle.jbo.server.ViewRowSetImpl.execute(ViewRowSetImpl.java:1112)
+	at oracle.jbo.server.ViewRowSetImpl.executeEmptyRowSet(ViewRowSetImpl.java:1597)
+	at oracle.jbo.server.ViewRowSetImpl.executeEmptyRowSet(ViewRowSetImpl.java:1592)
+	at oracle.apps.prc.po.commonPo.protectedModel.helper.PoHeaderDraftHelper.initReqBu(PoHeaderDraftHelper.java:363)
+	at oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper.testInitReqBu(TestPoHeaderDraftHelper.java:329)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:45)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:42)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:263)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:68)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:47)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:231)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:60)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:50)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:222)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:30)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:300)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:24)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:231)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:60)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:50)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:222)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:300)
+	at oracle.apps.fnd.appltest.unittest.junit.UTRunner$1.run(UTRunner.java:1267)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:136)
+	at oracle.apps.fnd.appltest.unittest.junit.UTRunner.runTest(UTRunner.java:1055)
+	at oracle.apps.fnd.appltest.unittest.junit.UTRunner.execute(UTRunner.java:1223)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at oracle.apps.fnd.appltest.unittest.junit.entry.UTRunnerMain.main(UTRunnerMain.java:153)
+
+
+    Assert Passed! - HashMap: PoPrcBuId
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Req BU
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Ship-To-Location Id
+
+    Assert Passed! - HashMap: PoShipToLocationId
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Ship-To-Location Id
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Currency Code
+
+    Assert Passed! - HashMap: PoCurrencyCode
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Currency Code
+**********************************************
+**********************************************
+Starting test case: 2. Defaulting Currency Code for STANDARD Documents
+
+    Assert Passed! - HashMap: PoCurrencyCode
+    Test Case Passed! 
+
+End of test case: 2. Defaulting Currency Code for STANDARD Documents
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Bill-To-Location Id
+
+    Assert Passed! - HashMap: PoBillToLocationId
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Bill-To-Location Id
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Buyer-Managed-Transport Flag
+
+    Assert Passed! - HashMap: PoBuyerManagedTransportFlag
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Buyer-Managed-Transport Flag
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Document Creation Method
+
+    Assert Passed! - HashMap: PoDocumentCreationMethod
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Document Creation Method
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Email Address
+
+    Assert Passed! - HashMap: PoInitEmailAddress
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Email Address
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting FOB
+
+    **Assert Failed** - PotInitFOB  [**Assert Failed!** HashMap - FOB=null Expected=Origin]
+    Test Case Failed! Asserts failed = 1
+
+**********************************************
+Starting test case: 1. Defaulting Style-Id and Lookup Code
+
+    Assert Passed! - HashMap: PoInitStyleAndType
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Style-Id and Lookup Code
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Tax Attributes
+
+    Assert Passed! - HashMap: PoInitTaxAttrbs
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Tax Attributes
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Payment Terms
+
+    Assert Passed! - HashMap: PoInitPaymentTerms
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Payment Terms
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Pay on Code
+
+    Assert Passed! - HashMap: PoInitPayOnReceipt
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Pay on Code
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Po Number-Segment1
+Asserts Passed for the testcase : 1. Defaulting Po Number-Segment1
+End of test case: 1. Defaulting Po Number-Segment1
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Procurement options
+
+    Assert Passed! - HashMap: PoInitProcurementOptionsDependentFields
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Procurement options
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Conversion Rate
+
+    Assert Passed! - HashMap: PoInitPayOnReceipt
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Conversion Rate
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Supplier Contact Id
+
+    Assert Passed! - HashMap: PoInitSupplierContactId
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Supplier Contact Id
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Supplier Notification Method
+
+    Assert Passed! - HashMap: PoInitSupplierNotificationMethod
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Supplier Notification Method
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Supplier Site
+Assert Failed for the testcase : 1. Defaulting Supplier Site
+End of test case: 1. Defaulting Supplier Site
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Acceptance Due Date
+Asserts Passed for the testcase : 1. Defaulting Acceptance Due Date
+End of test case: 1. Defaulting Acceptance Due Date
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting AcceptanceRequiredFlag Dependent Fields
+Asserts Passed for the testcase : 1. Defaulting AcceptanceRequiredFlag Dependent Fields
+End of test case: 1. Defaulting AcceptanceRequiredFlag Dependent Fields
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Billing Details
+
+    Assert Passed! - HashMap: PoDefaultBillingInformation
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Billing Details
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Conversion Rate type
+
+    Assert Passed! - HashMap: PoInitRateType
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Conversion Rate type
+**********************************************
+**********************************************
+Starting test case: 2. Defaulting Conversion Rate type with different currency codes
+
+    Assert Passed! - HashMap: PoInitRateType
+    Test Case Passed! 
+
+End of test case: 2. Defaulting Conversion Rate type with different currency codes
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Conversion Rate date
+Assert Passed for the testcase : 1. Defaulting Conversion Rate date
+End of test case: 1. Defaulting Conversion Rate date
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Configured Style Dependent Field
+
+    Assert Passed! - HashMap: PoDefaultConfiguredStyleDependentField
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Configured Style Dependent Field
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Supplier Site
+
+    Assert Passed! - HashMap: PoDefaultSoldToLegalEntity
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Supplier Site
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Supplier-Contact Dependent Fields with Email as the notification method.
+
+    Assert Passed! - HashMap: PoDefaultSupplierContactDependentFields
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Supplier-Contact Dependent Fields with Email as the notification method.
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Supplier-Site Id
+Assert Passed for the testcase : 1. Defaulting Supplier-Site Id
+End of test case: 1. Defaulting Supplier-Site Id
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Aging OnsetPoint Dependent Fields
+
+    Assert Passed! - HashMap: PoDefaultAgingOnsetPointDependentFields
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Aging OnsetPoint Dependent Fields
+**********************************************
+**********************************************
+Starting test case: 2. Defaulting Aging OnsetPoint Dependent Fields with No aging period days
+
+
+    Assert Passed! - HashMap: PoDefaultAgingOnsetPointDependentField
+    Assert Passed! - PoLinesDraftAllVO 
+    Test Case Passed! 
+
+End of test case: 2. Defaulting Aging OnsetPoint Dependent Fields with No aging period days
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Aging Period Days Dependent Fields 
+
+
+    Assert Passed! - PoLinesDraftAllVO 
+    Assert Passed! - HashMap: PoDefaultAgingOnsetPointDependentField
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Aging Period Days Dependent Fields 
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Distribution Rate Fields 
+
+    Assert Passed! - HashMap: PoDistRateFields
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Distribution Rate Fields 
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Distribution Rate Date 
+
+    Assert Passed! - HashMap: PoDistRateDate
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Distribution Rate Date 
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Distribution Rate with rate type as User
+
+    Assert Passed! - HashMap: PoDistRate
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Distribution Rate with rate type as User
+**********************************************
+**********************************************
+Starting test case: 2. Defaulting Distribution Rate with rate type as Corporate
+
+    Assert Passed! - HashMap: PoDistRate=
+    Test Case Passed! 
+
+End of test case: 2. Defaulting Distribution Rate with rate type as Corporate
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Rate Date dependent fields
+
+    Assert Passed! - HashMap: PoRateDate
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Rate Date dependent fields
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Rate Date dependent fields
+
+    Assert Passed! - HashMap: PoRate
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Rate Date dependent fields
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Shipping method
+
+    Assert Passed! - HashMap: PoDefaultShippingMethod
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Shipping method
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Supplier Dependent Fields
+Assert Passed for the testcase : 1. Defaulting Supplier Dependent Fields
+End of test case: 1. Defaulting Supplier Dependent Fields
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Freight terms
+
+    **Assert Failed** - PoInitFreightTerms  [**Assert Failed!** HashMap - FreightTermsLookupCode=null Expected=Due]
+    Test Case Failed! Asserts failed = 1
+
+**********************************************
+Starting test case: 1. Reset Currency Dependent Fields
+Assert Passed for the testcase : 1. Reset Currency Dependent Fields
+End of test case: 1. Reset Currency Dependent Fields
+**********************************************
+**********************************************
+Starting test case: 1. Reset Pcard Id
+Assert Passed for the testcase : 1. Reset Pcard Id
+End of test case: 1. Reset Pcard Id
+**********************************************
+**********************************************
+Starting test case: 1. Reset Rate Dependent Fields
+Assert Passed for the testcase : 1. Reset Rate Dependent Fields
+End of test case: 1. Reset Rate Dependent Fields
+**********************************************
+**********************************************
+Starting test case: 1. Reset Rate-Type Dependent Fields
+Assert Passed for the testcase : 1. Reset Rate-Type Dependent Fields
+End of test case: 1. Reset Rate-Type Dependent Fields
+**********************************************
+**********************************************
+Starting test case: 1. Reset Supplier Contact Dependent Fields
+Assert Passed for the testcase : 1. Reset Supplier Contact Dependent Fields
+End of test case: 1. Reset Supplier Contact Dependent Fields
+**********************************************
+**********************************************
+Starting test case: 1. Reset Supplier Contact Id Dependent Fields
+Assert Passed for the testcase : 1. Reset Supplier Contact Id Dependent Fields
+End of test case: 1. Reset Supplier Contact Id Dependent Fields
+**********************************************
+**********************************************
+Starting test case: 1. Validating Bill_To_Location_Id
+
+    Assert Passed! - HashMap: PoIsBillToLocationIdValid
+    Test Case Passed! 
+
+End of test case: 1. Validating Bill_To_Location_Id
+**********************************************
+**********************************************
+Starting test case: 2. Validating Bill_To_Location_Id
+
+    Assert Passed! - HashMap: PoIsBillToLocationIdValid
+    Test Case Passed! 
+
+End of test case: 2. Validating Bill_To_Location_Id
+**********************************************
+**********************************************
+Starting test case: 1. Validating Carrier Id
+
+    Assert Passed! - HashMap: PoIsCarrierValid
+    Test Case Passed! 
+
+End of test case: 1. Validating Carrier Id
+**********************************************
+**********************************************
+Starting test case: 2. Validating Bill_To_Location_Id
+
+    Assert Passed! - HashMap: PoIsCarrierValid
+    Test Case Passed! 
+
+End of test case: 2. Validating Bill_To_Location_Id
+**********************************************
+**********************************************
+Starting test case: 1. Validating FOB
+
+    **Assert Failed** - PoIsFOBValid  [**Assert Failed!** HashMap - FOBValidFlag=false Expected=true ]
+    Test Case Failed! Asserts failed = 1
+
+**********************************************
+Starting test case: 2. Validating Bill_To_Location_Id
+
+    Assert Passed! - HashMap: PoIsFOBValid
+    Test Case Passed! 
+
+End of test case: 2. Validating Bill_To_Location_Id
+**********************************************
+**********************************************
+Starting test case: 1. Validating Freight Terms
+
+    **Assert Failed** - PoIsFreightTermsValid  [**Assert Failed!** HashMap - FreightTermsValidFlag=false Expected=true ]
+    Test Case Failed! Asserts failed = 1
+
+**********************************************
+Starting test case: 2. Validating Freight Terms
+
+    Assert Passed! - HashMap: PoIsFreightTermsValid
+    Test Case Passed! 
+
+End of test case: 2. Validating Freight Terms
+**********************************************
+**********************************************
+Starting test case: 1. Validating Payment terms
+
+    Assert Passed! - HashMap: PoIsPaymentTermsValid
+    Test Case Passed! 
+
+End of test case: 1. Validating Payment terms
+**********************************************
+**********************************************
+Starting test case: 2. Validating Payment terms
+
+    Assert Passed! - HashMap: PoIsPaymentTermsValid
+    Test Case Passed! 
+
+End of test case: 2. Validating Payment terms
+**********************************************
+**********************************************
+Starting test case: 1. Validating Shipping Method
+
+    Assert Passed! - HashMap: PoIsShippingMethodValid
+    Test Case Passed! 
+
+End of test case: 1. Validating Shipping Method
+**********************************************
+**********************************************
+Starting test case: 2. Validating Shipping Method
+
+    Assert Passed! - HashMap: PoIsShippingMethodValid
+    Test Case Passed! 
+
+End of test case: 2. Validating Shipping Method
+**********************************************
+**********************************************
+Starting test case: 1. Validating Ship_To_Location_Id
+
+    Assert Passed! - HashMap: PoIsShipToLocationIdValid
+    Test Case Passed! 
+
+End of test case: 1. Validating Ship_To_Location_Id
+**********************************************
+**********************************************
+Starting test case: 2. Validating Ship_To_Location_Id
+
+    Assert Passed! - HashMap: PoIsShipToLocationIdValid
+    Test Case Passed! 
+
+End of test case: 2. Validating Ship_To_Location_Id
+**********************************************
+**********************************************
+Starting test case: 1. Validating Line Row Exists or not
+
+    Assert Passed! - HashMap: PoLineRowExists
+    Test Case Passed! 
+
+End of test case: 1. Validating Line Row Exists or not
+**********************************************
+**********************************************
+Starting test case: 2. Validating Line Row Exists or not
+
+    Assert Passed! - HashMap: PoLineRowExists
+    Test Case Passed! 
+
+End of test case: 2. Validating Line Row Exists or not
+**********************************************
+**********************************************
+Starting test case: 1. Get Currency Code from Bill Bu Id
+
+    Assert Passed! - HashMap: PoGetBillToBUCurrency
+    Test Case Passed! 
+
+End of test case: 1. Get Currency Code from Bill Bu Id
+**********************************************
+**********************************************
+Starting test case: 1. Get Default Rate Type
+
+    Assert Passed! - HashMap: PoGetDefaultRateType
+    Test Case Passed! 
+
+End of test case: 1. Get Default Rate Type
+**********************************************
+**********************************************
+Starting test case: 2. Get Default Rate Type with different currency cdes
+
+    Assert Passed! - HashMap: PoGetDefaultRateType
+    Test Case Passed! 
+
+End of test case: 2. Get Default Rate Type with different currency cdes
+**********************************************
+**********************************************
+Starting test case: 1. Get Currency Code from SoldToLeId
+
+    Assert Passed! - HashMap: PoGetDefaultRateType
+    Test Case Passed! 
+
+End of test case: 1. Get Currency Code from SoldToLeId
+**********************************************
+**********************************************
+Starting test case: 1. Update MaxLineNumForNew in header level
+
+    Assert Passed! - HashMap: PoUpdateMaxLineNumForNew
+    Test Case Passed! 
+
+End of test case: 1. Update MaxLineNumForNew in header level
+**********************************************
+]]></system-out>

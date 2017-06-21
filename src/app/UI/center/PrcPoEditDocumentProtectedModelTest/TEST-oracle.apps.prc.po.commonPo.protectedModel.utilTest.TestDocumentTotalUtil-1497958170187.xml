@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentTotalUtil" timestamp="2017-06-20T11:29:30" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="9" failures="0" errors="0" time="19.15" runId="0">
+  <properties />
+  <testcase name="testGetActualArchiveTotal[test Get Actual ArchiveTotal]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentTotalUtil" id="0" time="0.027" />
+  <testcase name="testGetActualArchiveTotalTax[test Get Actual ArchiveTotalTax]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentTotalUtil" id="0" time="0.0020" />
+  <testcase name="testGetActualArchiveAllTax[test Get Actual ArchiveAllTax]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentTotalUtil" id="0" time="0.0010" />
+  <testcase name="testGetActualArchiveExclusiveTax[test Get Actual ArchiveExclusiveTax]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentTotalUtil" id="0" time="0.0010" />
+  <testcase name="testGetProposedArchiveTotal[test Get Proposed ArchiveTotal]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentTotalUtil" id="0" time="0.022" />
+  <testcase name="testGetProposedArchiveTax[test Get Proposed ArchiveTax]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentTotalUtil" id="0" time="0.0020" />
+  <testcase name="testGetProposedArchiveExclusiveTax[test Get Proposed ArchiveTax]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentTotalUtil" id="0" time="0.0010" />
+  <testcase name="testGetActualArchiveLineTotal[test Get Actual ArchiveLineTotal]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentTotalUtil" id="0" time="0.0070" />
+  <testcase name="testGetArchiveAmountAgreed[test Get Archive AmountAgreed]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentTotalUtil" id="0" time="0.044" />
+</testsuite>

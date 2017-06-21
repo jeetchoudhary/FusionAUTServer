@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVOTest" timestamp="2017-06-20T11:33:42" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="20" failures="0" errors="0" time="2.389" runId="0">
+  <properties />
+  <testcase name="simpleCreateAndRemove" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVOTest" id="0" time="0.473">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="simpleUpdateAndRemove" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVOTest" id="0" time="0.091">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="voRowImplHasAttributeMetadata" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVOTest" id="0" time="0.0020">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="testVOAccess" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PoHeaderId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVOTest" id="0" time="0.0020">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PrcBuId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ReqBuId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ShipToLocationId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[BillToLocationId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[EnabledFlag]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[VendorSiteId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[LastUpdateDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[LastUpdatedBy]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CreationDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CreatedBy]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[LastUpdateLogin]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[OrgAssignmentId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ObjectVersionNumber]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[OrderedLocallyFlag]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[BilltoBuId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoGaOrgAssignmentsVO" type="ADFVO" />
+  </testcase>
+</testsuite>

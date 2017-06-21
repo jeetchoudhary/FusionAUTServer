@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.view.SupplierForReqBUVVO.SupplierForReqBUVVOTest" timestamp="2017-06-20T11:34:18" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="8" failures="0" errors="0" time="6.223" runId="0">
+  <properties />
+  <testcase name="entitiesNonUpdateable" classname="oracle.apps.prc.po.commonPo.protectedModel.view.SupplierForReqBUVVO.SupplierForReqBUVVOTest" id="0" time="0.098">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.SupplierForReqBUVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="testVOAccess" classname="oracle.apps.prc.po.commonPo.protectedModel.view.SupplierForReqBUVVO.SupplierForReqBUVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.SupplierForReqBUVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[VendorId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.SupplierForReqBUVVO.SupplierForReqBUVVOTest" id="0" time="4.202">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.SupplierForReqBUVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[VendorName]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.SupplierForReqBUVVO.SupplierForReqBUVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.SupplierForReqBUVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Segment1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.SupplierForReqBUVVO.SupplierForReqBUVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.SupplierForReqBUVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[DunsNumberC]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.SupplierForReqBUVVO.SupplierForReqBUVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.SupplierForReqBUVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PartyNameId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.SupplierForReqBUVVO.SupplierForReqBUVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.SupplierForReqBUVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AlternateName]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.SupplierForReqBUVVO.SupplierForReqBUVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.SupplierForReqBUVVO" type="ADFVO" />
+  </testcase>
+</testsuite>

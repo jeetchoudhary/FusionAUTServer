@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.view.ProductFiscClassificationsVVO.ProductFiscClassificationsVVOTest" timestamp="2017-06-20T11:34:02" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="16" failures="0" errors="0" time="2.711" runId="0">
+  <properties />
+  <testcase name="entitiesNonUpdateable" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProductFiscClassificationsVVO.ProductFiscClassificationsVVOTest" id="0" time="0.127">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProductFiscClassificationsVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="testVOAccess" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProductFiscClassificationsVVO.ProductFiscClassificationsVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProductFiscClassificationsVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CategoryId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProductFiscClassificationsVVO.ProductFiscClassificationsVVOTest" id="0" time="0.656">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProductFiscClassificationsVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[StructureId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProductFiscClassificationsVVO.ProductFiscClassificationsVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProductFiscClassificationsVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CategorySetId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProductFiscClassificationsVVO.ProductFiscClassificationsVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProductFiscClassificationsVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ClassificationName]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProductFiscClassificationsVVO.ProductFiscClassificationsVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProductFiscClassificationsVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Description]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProductFiscClassificationsVVO.ProductFiscClassificationsVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProductFiscClassificationsVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ClassificationCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProductFiscClassificationsVVO.ProductFiscClassificationsVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProductFiscClassificationsVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[StructureName]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProductFiscClassificationsVVO.ProductFiscClassificationsVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProductFiscClassificationsVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[StructureCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProductFiscClassificationsVVO.ProductFiscClassificationsVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProductFiscClassificationsVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CountryCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProductFiscClassificationsVVO.ProductFiscClassificationsVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProductFiscClassificationsVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[EffectiveTo]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProductFiscClassificationsVVO.ProductFiscClassificationsVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProductFiscClassificationsVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ClassificationTypeName]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProductFiscClassificationsVVO.ProductFiscClassificationsVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProductFiscClassificationsVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CountryName]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProductFiscClassificationsVVO.ProductFiscClassificationsVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProductFiscClassificationsVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ClassificationCodeInMemory]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProductFiscClassificationsVVO.ProductFiscClassificationsVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProductFiscClassificationsVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CatgeoryFlexfieldVO]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProductFiscClassificationsVVO.ProductFiscClassificationsVVOTest" id="0" time="0.056">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProductFiscClassificationsVVO" type="ADFVO" />
+  </testcase>
+</testsuite>

@@ -1,5 +1,9 @@
-export class AUTService {
+import { Injectable } from '@angular/core';
+import { Http } from '@angular/http';
 
+
+@Injectable()
+export class AUTService {
      projectList = [
         {
             'projectList': 'PrcPoEditDocumentProtectedModelTest',
@@ -19,12 +23,13 @@ export class AUTService {
             'databasePass': 'fusion',
             'requestorEmail': 'jitender.k.kumar@oracle.com'
         }
-
     ];
+
+    constructor(private http: Http) {}
+
     getListOfAllRequests() {
         return this.projectList;
     }
-
 
     getListOfRunningRequests() {
     }

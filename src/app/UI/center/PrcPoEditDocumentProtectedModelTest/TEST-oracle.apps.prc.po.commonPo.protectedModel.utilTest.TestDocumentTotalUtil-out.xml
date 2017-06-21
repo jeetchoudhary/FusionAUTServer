@@ -1,0 +1,217 @@
+<system-out><![CDATA[Deleting setup data..
+Delete: PO_HEADERS_ALL From XML File: CreateSPO_PO_HEADERS_ALL.xml
+Delete: PO_HEADERS_DRAFT_ALL From XML File: CreateSPO_PO_HEADERS_DRAFT_ALL.xml
+Delete: PO_LINES_ALL From XML File: CreateSPO_PO_LINES_ALL.xml
+Delete: PO_LINES_DRAFT_ALL From XML File: CreateSPO_PO_LINES_DRAFT_ALL.xml
+Delete: PO_LINE_LOCATIONS_ALL From XML File: CreateSPO_PO_LINE_LOCATIONS_ALL.xml
+Delete: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: CreateSPO_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Delete: PO_DISTRIBUTIONS_ALL From XML File: CreateSPO_PO_DISTRIBUTIONS_ALL.xml
+Delete: PO_DISTRIBUTIONS_DRAFT_ALL From XML File: CreateSPO_PO_DISTRIBUTIONS_DRAFT_ALL.xml
+Insert: PO_HEADERS_ALL From XML File: CreateSPO_PO_HEADERS_ALL.xml
+Insert: PO_HEADERS_DRAFT_ALL From XML File: CreateSPO_PO_HEADERS_DRAFT_ALL.xml
+Insert: PO_LINES_ALL From XML File: CreateSPO_PO_LINES_ALL.xml
+Insert: PO_LINES_DRAFT_ALL From XML File: CreateSPO_PO_LINES_DRAFT_ALL.xml
+Insert: PO_LINE_LOCATIONS_ALL From XML File: CreateSPO_PO_LINE_LOCATIONS_ALL.xml
+Insert: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: CreateSPO_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Insert: PO_DISTRIBUTIONS_ALL From XML File: CreateSPO_PO_DISTRIBUTIONS_ALL.xml
+Insert: PO_DISTRIBUTIONS_DRAFT_ALL From XML File: CreateSPO_PO_DISTRIBUTIONS_DRAFT_ALL.xml
+[SEVERE] [handlerException] An error occurred while writing to the diagnostic log file because of this reason: Apps ODLHandler config setting not found! Check logging.xml and related config settings. (FND-10103)
+[SEVERE] [DcmProcessHelper] callBpelApprovalProcess: EXCEPTION Failed to publish Event
+[SEVERE] [DcmProcessHelper] callBpelApprovalProcess: eventName PurchaseOrder
+[SEVERE] [DcmProcessHelper] callBpelApprovalProcess: eventNamespace http://xmlns.oracle.com/apps/prc/po/approval/PrcPoApprovalComposite/PurchaseOrder
+[SEVERE] [DcmProcessHelper] java.lang.NullPointerException
+[SEVERE] [DcmProcessHelper] oracle.apps.prc.po.commonPo.protectedModel.helper.DcmProcessHelper.publishEvent(DcmProcessHelper.java:305)
+[SEVERE] [DcmProcessHelper] oracle.apps.prc.po.editDocument.protectedModel.dcm.DcmProcess.publishEvent(DcmProcess.java:6265)
+[SEVERE] [DcmProcessHelper] oracle.apps.prc.po.editDocument.protectedModel.dcm.DcmProcess.publishPurchaseOrderEvent(DcmProcess.java:9409)
+[SEVERE] [DcmProcessHelper] oracle.apps.prc.po.editDocument.protectedModel.dcm.DcmProcess.processInitialDocVersion(DcmProcess.java:3558)
+[SEVERE] [DcmProcessHelper] oracle.apps.prc.po.editDocument.protectedModel.dcm.DcmProcess.implementChanges(DcmProcess.java:6002)
+[SEVERE] [DcmProcessHelper] oracle.apps.prc.po.editDocument.protectedModel.dcm.DcmProcess.callDummyApproval(DcmProcess.java:7646)
+[SEVERE] [DcmProcessHelper] oracle.apps.prc.po.commonPo.protectedModel.util.CreatePO.createPO(CreatePO.java:158)
+[SEVERE] [DcmProcessHelper] oracle.apps.prc.po.commonPo.protectedModel.util.CreatePO.duplicatePO(CreatePO.java:410)
+[SEVERE] [DcmProcessHelper] oracle.apps.prc.po.commonPo.protectedModel.util.CreatePO.createOpenPO(CreatePO.java:452)
+[SEVERE] [DcmProcessHelper] oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentTotalUtil.setUp(TestDocumentTotalUtil.java:82)
+[SEVERE] [DcmProcessHelper] sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[SEVERE] [DcmProcessHelper] sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+[SEVERE] [DcmProcessHelper] sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+[SEVERE] [DcmProcessHelper] java.lang.reflect.Method.invoke(Method.java:597)
+[SEVERE] [DcmProcessHelper] org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:45)
+[SEVERE] [DcmProcessHelper] org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+[SEVERE] [DcmProcessHelper] org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:42)
+[SEVERE] [DcmProcessHelper] org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:27)
+[SEVERE] [DcmProcessHelper] org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:30)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner.run(ParentRunner.java:300)
+[SEVERE] [DcmProcessHelper] org.junit.runners.Suite.runChild(Suite.java:128)
+[SEVERE] [DcmProcessHelper] org.junit.runners.Suite.runChild(Suite.java:24)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner$3.run(ParentRunner.java:231)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:60)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner.runChildren(ParentRunner.java:229)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner.access$000(ParentRunner.java:50)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:222)
+[SEVERE] [DcmProcessHelper] org.junit.runners.ParentRunner.run(ParentRunner.java:300)
+[SEVERE] [DcmProcessHelper] oracle.apps.fnd.appltest.unittest.junit.UTRunner$1.run(UTRunner.java:1267)
+[SEVERE] [DcmProcessHelper] org.junit.runner.JUnitCore.run(JUnitCore.java:136)
+[SEVERE] [DcmProcessHelper] oracle.apps.fnd.appltest.unittest.junit.UTRunner.runTest(UTRunner.java:1055)
+[SEVERE] [DcmProcessHelper] oracle.apps.fnd.appltest.unittest.junit.UTRunner.execute(UTRunner.java:1223)
+[SEVERE] [DcmProcessHelper] sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[SEVERE] [DcmProcessHelper] sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+[SEVERE] [DcmProcessHelper] sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+[SEVERE] [DcmProcessHelper] java.lang.reflect.Method.invoke(Method.java:597)
+[SEVERE] [DcmProcessHelper] oracle.apps.fnd.appltest.unittest.junit.entry.UTRunnerMain.main(UTRunnerMain.java:153)
+    Created New Document...
+    PoHeaderId ............: 440337
+    Segment1 ..............: 1004181
+    Status ................: PROCESSED
+Deleting setup data..
+Delete: PO_HEADERS_ALL From XML File: CreateSPO_PO_HEADERS_ALL.xml
+Delete: PO_HEADERS_DRAFT_ALL From XML File: CreateSPO_PO_HEADERS_DRAFT_ALL.xml
+Delete: PO_LINES_ALL From XML File: CreateSPO_PO_LINES_ALL.xml
+Delete: PO_LINES_DRAFT_ALL From XML File: CreateSPO_PO_LINES_DRAFT_ALL.xml
+Delete: PO_LINE_LOCATIONS_ALL From XML File: CreateSPO_PO_LINE_LOCATIONS_ALL.xml
+Delete: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: CreateSPO_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Delete: PO_DISTRIBUTIONS_ALL From XML File: CreateSPO_PO_DISTRIBUTIONS_ALL.xml
+Delete: PO_DISTRIBUTIONS_DRAFT_ALL From XML File: CreateSPO_PO_DISTRIBUTIONS_DRAFT_ALL.xml
+Returning created PO, poHeaderId: 440337
+Deleting setup data..
+Delete: PO_HEADERS_ALL From XML File: CreateBPA_PO_HEADERS_ALL.xml
+Delete: PO_HEADERS_DRAFT_ALL From XML File: CreateBPA_PO_HEADERS_DRAFT_ALL.xml
+Delete: PO_LINES_ALL From XML File: CreateBPA_PO_LINES_ALL.xml
+Delete: PO_LINES_DRAFT_ALL From XML File: CreateBPA_PO_LINES_DRAFT_ALL.xml
+Delete: PO_LINE_LOCATIONS_ALL From XML File: CreateBPA_PO_LINE_LOCATIONS_ALL.xml
+Delete: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: CreateBPA_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Delete: PO_GA_ORG_ASSIGNMENTS From XML File: CreateBPA_PO_ORG_ASSIGN.xml
+Delete: PO_GA_ORG_ASSIGN_DRAFT From XML File: CreateBPA_PO_ORG_ASSIGN_DRAFT.xml
+Delete: PO_NOTIFICATION_CONTROLS From XML File: CreateBPA_PO_NOTIFICATIONS_ALL.xml
+Delete: PO_NOTIFICATION_CTRL_DRAFT From XML File: CreateBPA_PO_NOTIFICATIONS_DRAFT_ALL.xml
+Delete: PO_ATTRIBUTE_VALUES From XML File: CreateBPA_PO_ATTRIBUTE_VALUES.xml
+Delete: PO_ATTRIBUTE_VALUES_DRAFT From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_DRAFT.xml
+Delete: PO_ATTRIBUTE_VALUES_TLP From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_TLP.xml
+Delete: PO_ATTRIBUTE_VALUES_TLP_DRAFT From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_TLP_DRAFT.xml
+Delete: PO_VERSIONS From XML File: CreateBPA_PO_VERSIONS.xml
+Insert: PO_HEADERS_ALL From XML File: CreateBPA_PO_HEADERS_ALL.xml
+Insert: PO_HEADERS_DRAFT_ALL From XML File: CreateBPA_PO_HEADERS_DRAFT_ALL.xml
+Insert: PO_LINES_ALL From XML File: CreateBPA_PO_LINES_ALL.xml
+Insert: PO_LINES_DRAFT_ALL From XML File: CreateBPA_PO_LINES_DRAFT_ALL.xml
+Insert: PO_LINE_LOCATIONS_ALL From XML File: CreateBPA_PO_LINE_LOCATIONS_ALL.xml
+Insert: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: CreateBPA_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Insert: PO_GA_ORG_ASSIGNMENTS From XML File: CreateBPA_PO_ORG_ASSIGN.xml
+Insert: PO_GA_ORG_ASSIGN_DRAFT From XML File: CreateBPA_PO_ORG_ASSIGN_DRAFT.xml
+Insert: PO_NOTIFICATION_CONTROLS From XML File: CreateBPA_PO_NOTIFICATIONS_ALL.xml
+Insert: PO_NOTIFICATION_CTRL_DRAFT From XML File: CreateBPA_PO_NOTIFICATIONS_DRAFT_ALL.xml
+Insert: PO_ATTRIBUTE_VALUES From XML File: CreateBPA_PO_ATTRIBUTE_VALUES.xml
+Insert: PO_ATTRIBUTE_VALUES_DRAFT From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_DRAFT.xml
+Insert: PO_ATTRIBUTE_VALUES_TLP From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_TLP.xml
+Insert: PO_ATTRIBUTE_VALUES_TLP_DRAFT From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_TLP_DRAFT.xml
+Insert: PO_VERSIONS From XML File: CreateBPA_PO_VERSIONS.xml
+    Created New Document...
+    PoHeaderId ............: 440338
+    Segment1 ..............: 1002603
+    Status ................: PROCESSED
+Deleting setup data..
+Delete: PO_HEADERS_ALL From XML File: CreateBPA_PO_HEADERS_ALL.xml
+Delete: PO_HEADERS_DRAFT_ALL From XML File: CreateBPA_PO_HEADERS_DRAFT_ALL.xml
+Delete: PO_LINES_ALL From XML File: CreateBPA_PO_LINES_ALL.xml
+Delete: PO_LINES_DRAFT_ALL From XML File: CreateBPA_PO_LINES_DRAFT_ALL.xml
+Delete: PO_LINE_LOCATIONS_ALL From XML File: CreateBPA_PO_LINE_LOCATIONS_ALL.xml
+Delete: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: CreateBPA_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Delete: PO_GA_ORG_ASSIGNMENTS From XML File: CreateBPA_PO_ORG_ASSIGN.xml
+Delete: PO_GA_ORG_ASSIGN_DRAFT From XML File: CreateBPA_PO_ORG_ASSIGN_DRAFT.xml
+Delete: PO_NOTIFICATION_CONTROLS From XML File: CreateBPA_PO_NOTIFICATIONS_ALL.xml
+Delete: PO_NOTIFICATION_CTRL_DRAFT From XML File: CreateBPA_PO_NOTIFICATIONS_DRAFT_ALL.xml
+Delete: PO_ATTRIBUTE_VALUES From XML File: CreateBPA_PO_ATTRIBUTE_VALUES.xml
+Delete: PO_ATTRIBUTE_VALUES_DRAFT From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_DRAFT.xml
+Delete: PO_ATTRIBUTE_VALUES_TLP From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_TLP.xml
+Delete: PO_ATTRIBUTE_VALUES_TLP_DRAFT From XML File: CreateBPA_PO_ATTRIBUTE_VALUES_TLP_DRAFT.xml
+Delete: PO_VERSIONS From XML File: CreateBPA_PO_VERSIONS.xml
+Returning newly created BPA, poHeaderId: 440338
+Test Class Owner is: PO_AUTOUT_NOTIFY_IN@ORACLE.COM
+**********************************************
+Starting test case: test Get Actual ArchiveTotal
+
+    Assert Passed! - HashMap: actualArchivetotal
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Get Actual ArchiveTotal
+**********************************************
+**********************************************
+Starting test case: test Get Actual ArchiveTotalTax
+
+    Assert Passed! - HashMap: actualArchivetotalTax
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Get Actual ArchiveTotalTax
+**********************************************
+**********************************************
+Starting test case: test Get Actual ArchiveAllTax
+
+    Assert Passed! - HashMap: actualArchiveAllTax
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Get Actual ArchiveAllTax
+**********************************************
+**********************************************
+Starting test case: test Get Actual ArchiveExclusiveTax
+
+    Assert Passed! - HashMap: actualArchiveExclusiveTax
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Get Actual ArchiveExclusiveTax
+**********************************************
+**********************************************
+Starting test case: test Get Proposed ArchiveTotal
+
+    Assert Passed! - HashMap: proposedArchiveTotal
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Get Proposed ArchiveTotal
+**********************************************
+**********************************************
+Starting test case: test Get Proposed ArchiveTax
+
+    Assert Passed! - HashMap: proposedArchiveTax
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Get Proposed ArchiveTax
+**********************************************
+**********************************************
+Starting test case: test Get Proposed ArchiveTax
+
+    Assert Passed! - HashMap: proposedArchiveExclusiveTax
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Get Proposed ArchiveTax
+**********************************************
+**********************************************
+Starting test case: test Get Actual ArchiveLineTotal
+
+    Assert Passed! - HashMap: actualArchiveLineTotal
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Get Actual ArchiveLineTotal
+**********************************************
+**********************************************
+Starting test case: test Get Archive AmountAgreed
+
+    Assert Passed! - HashMap: archiveAmountAgreed
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Get Archive AmountAgreed
+**********************************************
+]]></system-out>

@@ -1,0 +1,68 @@
+<system-out><![CDATA[Delete: PO_HEADERS_DRAFT_ALL From XML File: TestPoBuAccessDraftHelper_PO_HEADERS_DRAFT_ALL.xml
+Delete: PO_GA_ORG_ASSIGN_DRAFT From XML File: TestPoBuAccessDraftHelper_PO_GA_ORG_ASSIGN_DRAFT.xml
+Insert: PO_HEADERS_DRAFT_ALL From XML File: TestPoBuAccessDraftHelper_PO_HEADERS_DRAFT_ALL.xml
+Insert: PO_GA_ORG_ASSIGN_DRAFT From XML File: TestPoBuAccessDraftHelper_PO_GA_ORG_ASSIGN_DRAFT.xml
+The TestMethodOwner annotation for this test method is missing: testRedefaultBillToLocation.
+The TestMethodOwner annotation for this test method is missing: testInitBillingInformation.
+The TestMethodOwner annotation for this test method is missing: testGetSupplierSiteAssignmentPVO.
+The TestMethodOwner annotation for this test method is missing: testInitShipToLocation.
+The TestMethodOwner annotation for this test method is missing: testInitPurchasingSite.
+The TestMethodOwner annotation for this test method is missing: testInitPurchasingSite_WithMulipleSupplierSites.
+The TestMethodOwner annotation for this test method is missing: testInitForCreate.
+
+The TestClassOwner annotation for this test is missing.
+
+**********************************************
+Starting test case: 1. Defaulting Purchasing Site
+
+    Assert Passed! - HashMap: PoInitPurchasingSite
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Purchasing Site
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Purchasing Site with different order locally flag
+Asserts Passed for the testcase : 1. Defaulting Purchasing Site with different order locally flag
+End of test case: 1. Defaulting Purchasing Site with different order locally flag
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Billing Information
+
+    Assert Passed! - HashMap: PoInitBillingInformation
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Billing Information
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Ship to Location details
+
+    Assert Passed! - HashMap: PoInitShipToLocation
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Ship to Location details
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting Bill to Location details
+
+    Assert Passed! - HashMap: PoRedefaultBillToLocation
+    Test Case Passed! 
+
+End of test case: 1. Defaulting Bill to Location details
+**********************************************
+**********************************************
+Starting test case: 1. Defaulting  the attributes on the BU Access.
+
+    Assert Passed! - HashMap: PoInitForCreate
+    Test Case Passed! 
+
+End of test case: 1. Defaulting  the attributes on the BU Access.
+**********************************************
+**********************************************
+Starting test case: 1. Get SupplierSite AssignmentPVO
+
+    Assert Passed! - HashMap: PoGetSupplierSiteAssignmentPVO
+    Test Case Passed! 
+
+End of test case: 1. Get SupplierSite AssignmentPVO
+**********************************************
+]]></system-out>

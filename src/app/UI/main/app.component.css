@@ -1,12 +1,12 @@
-  body,
+  /*body,
     html {
       height: 100%;
-    }
-
+    }*/
+/*
     body {
       padding-top: 70px;
     }
-    /* workaround modal-open padding issue */
+    
 
     body.modal-open {
       padding-right: 0 !important;
@@ -15,13 +15,13 @@
 
     #sidebar {
       padding-left: 0;
-    }
+    }*/
     /*
  * Off Canvas at medium breakpoint
  * --------------------------------------------------
  */
 
-    @media screen and (max-width: 48em) {
+    /*@media screen and (max-width: 48em) {
 
       .row-offcanvas {
         position: relative;
@@ -45,13 +45,13 @@
         width: 33%;
         height: 100%;
       }
-    }
+    }*/
     /*
  * Off Canvas wider at sm breakpoint
  * --------------------------------------------------
  */
 
-    @media screen and (max-width: 34em) {
+    /*@media screen and (max-width: 34em) {
       .row-offcanvas-left .sidebar-offcanvas {
         left: -45%;
       }
@@ -64,9 +64,9 @@
       .sidebar-offcanvas {
         width: 45%;
       }
-    }
+    }*/
 
-    .card {
+    /*.card {
       overflow: hidden;
     }
 
@@ -89,4 +89,4 @@
       -o-transform: rotate(-44deg);
       -ms-transform: rotate(-44deg);
       transform: rotate(-44deg);
-    }
+    }*/

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModelTest.bdd.TestAckControlsCreatePo" timestamp="2017-06-20T11:35:42" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="2" failures="0" errors="0" time="0.0" runId="0">
+  <properties />
+  <testcase name="values_for_Required_Acknowledgment_and_Acknowledge_Within_Days_should_be_defaulted_from_supplier_site - Scenario: Values for Required Acknowledgment and Acknowledge Within Days should be defaulted from supplier site\." classname="oracle.apps.prc.po.commonPo.protectedModelTest.bdd.TestAckControlsCreatePo" id="0" time="3.258" />
+  <testcase name="values_for_Required_Acknowledgment_and_Acknowledge_Within_Days_should_be_empty_if_supplier_site_defaults_are_not_defined - Scenario: Values for Required Acknowledgment and Acknowledge Within Days should be empty if supplier site defaults are not defined\." classname="oracle.apps.prc.po.commonPo.protectedModelTest.bdd.TestAckControlsCreatePo" id="0" time="0.0050" />
+</testsuite>

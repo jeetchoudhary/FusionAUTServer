@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" timestamp="2017-06-20T11:34:15" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="31" failures="0" errors="0" time="3.287" runId="0">
+  <properties />
+  <testcase name="entitiesNonUpdateable" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.16">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="testVOAccess" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Segment1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="1.226">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ObjectVersionNumber]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PoHeaderId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Name]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0020">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[TypeLookupCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[DisplayName]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[StyleId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[OrganizationId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[EffectiveStartDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[EffectiveEndDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ClassificationCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ObjectVersionNumber1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[VendorId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PartyName]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[VendorSiteCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[VendorSiteSpkId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[VendorSiteId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ObjectVersionNumber2]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CurrencyCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Comments]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[DocumentSubtype]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[TypeName]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[DocumentSubtype1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[DocumentTypeCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PrcBuId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PartyId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ConfiguredItemFlag]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[StyleId1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[RetroPriceApplyUpdatesFlag]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.RetroPriceAgreementVVO.RetroPriceAgreementVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.ess.uiModel.retroactivePricing.validationView.RetroPriceAgreementVVO" type="ADFVO" />
+  </testcase>
+</testsuite>

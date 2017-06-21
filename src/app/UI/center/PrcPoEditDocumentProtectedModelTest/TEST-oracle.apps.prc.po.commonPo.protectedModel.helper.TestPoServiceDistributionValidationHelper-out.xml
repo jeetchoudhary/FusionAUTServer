@@ -1,0 +1,45 @@
+<system-out><![CDATA[Delete: PO_HEADERS_DRAFT_ALL From XML File: TestPoServiceDistributionValidationHelper_PO_HEADERS_DRAFT_ALL.xml
+Delete: PO_LINES_DRAFT_ALL From XML File: TestPoServiceDistributionValidationHelper_PO_LINES_DRAFT_ALL.xml
+Delete: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: TestPoServiceDistributionValidationHelper_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Delete: PO_DISTRIBUTIONS_DRAFT_ALL From XML File: TestPoServiceDistributionValidationHelper_PO_DISTRIBUTIONS_DRAFT_ALL.xml
+Insert: PO_HEADERS_DRAFT_ALL From XML File: TestPoServiceDistributionValidationHelper_PO_HEADERS_DRAFT_ALL.xml
+Insert: PO_LINES_DRAFT_ALL From XML File: TestPoServiceDistributionValidationHelper_PO_LINES_DRAFT_ALL.xml
+Insert: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: TestPoServiceDistributionValidationHelper_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Insert: PO_DISTRIBUTIONS_DRAFT_ALL From XML File: TestPoServiceDistributionValidationHelper_PO_DISTRIBUTIONS_DRAFT_ALL.xml
+The TestMethodOwner annotation for this test method is missing: deriveDeliverToCustomerLocationId.
+The TestMethodOwner annotation for this test method is missing: deriveDeliverToCustomerContactId.
+The TestMethodOwner annotation for this test method is missing: deriveDeliverToCustomerId.
+
+The TestClassOwner annotation for this test is missing.
+
+**********************************************
+Starting test case: Id Validation
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Id Validation
+**********************************************
+**********************************************
+Starting test case: Id Validation
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Id Validation
+**********************************************
+**********************************************
+Starting test case: Id Validation
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Id Validation
+**********************************************
+]]></system-out>

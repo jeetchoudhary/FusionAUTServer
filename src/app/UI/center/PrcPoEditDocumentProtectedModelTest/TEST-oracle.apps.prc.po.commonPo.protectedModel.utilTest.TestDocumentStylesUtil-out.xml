@@ -1,0 +1,90 @@
+<system-out><![CDATA[Delete: pon_auction_headers_all From XML File: TestDocumentStylesUtil_ponAuctionHeadersAll.xml
+Insert: pon_auction_headers_all From XML File: TestDocumentStylesUtil_ponAuctionHeadersAll.xml
+Test Class Owner is: PO_AUTOUT_NOTIFY_IN@ORACLE.COM
+**********************************************
+Starting test case: test Style Allows OSP 1
+true
+
+    Assert Passed! - HashMap: retValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Style Allows OSP 1
+**********************************************
+**********************************************
+Starting test case: test Style Allows OSP 2
+false
+
+    Assert Passed! - HashMap: retValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Style Allows OSP 2
+**********************************************
+**********************************************
+Starting test case: test Style Allows CTO 1
+true
+
+    Assert Passed! - HashMap: retValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Style Allows CTO 1
+**********************************************
+**********************************************
+Starting test case: test Style Allows CTO 2
+false
+
+    Assert Passed! - HashMap: retValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Style Allows CTO 2
+**********************************************
+**********************************************
+Starting test case: test Style Allows Consignment 1
+true
+
+    Assert Passed! - HashMap: retValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Style Allows Consignment 1
+**********************************************
+**********************************************
+Starting test case: test Style Allows Consignment 2
+false
+
+    Assert Passed! - HashMap: retValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Style Allows Consignment 2
+**********************************************
+**********************************************
+Starting test case: test Get LineTypes Enabled By Style
+
+    Assert Passed! - HashMap: retValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Get LineTypes Enabled By Style
+**********************************************
+**********************************************
+Starting test case: test Get Negotiation StyleName
+
+ERROR: java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Get Negotiation StyleName
+**********************************************
+]]></system-out>

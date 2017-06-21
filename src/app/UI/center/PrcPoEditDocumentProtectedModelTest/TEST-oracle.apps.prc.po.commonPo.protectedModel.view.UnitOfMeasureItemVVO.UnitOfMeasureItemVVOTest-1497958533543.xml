@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.view.UnitOfMeasureItemVVO.UnitOfMeasureItemVVOTest" timestamp="2017-06-20T11:35:33" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="14" failures="0" errors="0" time="5.378" runId="0">
+  <properties />
+  <testcase name="entitiesNonUpdateable" classname="oracle.apps.prc.po.commonPo.protectedModel.view.UnitOfMeasureItemVVO.UnitOfMeasureItemVVOTest" id="0" time="1.965">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.UnitOfMeasureItemVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="testVOAccess" classname="oracle.apps.prc.po.commonPo.protectedModel.view.UnitOfMeasureItemVVO.UnitOfMeasureItemVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.UnitOfMeasureItemVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[InventoryItemId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.UnitOfMeasureItemVVO.UnitOfMeasureItemVVOTest" id="0" time="0.693">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.UnitOfMeasureItemVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[OrganizationId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.UnitOfMeasureItemVVO.UnitOfMeasureItemVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.UnitOfMeasureItemVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[UomCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.UnitOfMeasureItemVVO.UnitOfMeasureItemVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.UnitOfMeasureItemVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[UomType]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.UnitOfMeasureItemVVO.UnitOfMeasureItemVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.UnitOfMeasureItemVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[UnitOfMeasure]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.UnitOfMeasureItemVVO.UnitOfMeasureItemVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.UnitOfMeasureItemVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[UomClass]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.UnitOfMeasureItemVVO.UnitOfMeasureItemVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.UnitOfMeasureItemVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Description]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.UnitOfMeasureItemVVO.UnitOfMeasureItemVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.UnitOfMeasureItemVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[UomClass1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.UnitOfMeasureItemVVO.UnitOfMeasureItemVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.UnitOfMeasureItemVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ObjectVersionNumber]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.UnitOfMeasureItemVVO.UnitOfMeasureItemVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.UnitOfMeasureItemVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[UomClassTl]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.UnitOfMeasureItemVVO.UnitOfMeasureItemVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.UnitOfMeasureItemVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[UomReciprocalDesc]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.UnitOfMeasureItemVVO.UnitOfMeasureItemVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.UnitOfMeasureItemVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[UomPluralDesc]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.UnitOfMeasureItemVVO.UnitOfMeasureItemVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.UnitOfMeasureItemVVO" type="ADFVO" />
+  </testcase>
+</testsuite>

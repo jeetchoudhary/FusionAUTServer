@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoMassUpdateRequester" timestamp="2017-06-20T11:27:37" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="4" failures="0" errors="0" time="25.462" runId="0">
+  <properties />
+  <testcase name="massUpdateRequester[1. Update Requester from 9999 to 8888 in incomplete Doc - 120000000009999]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoMassUpdateRequester" id="0" time="7.885" />
+  <testcase name="massUpdateRequester[2. Change initiator for Pending Change Order from 7777 to 6666 for Doc - 120000000009998]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoMassUpdateRequester" id="0" time="3.306" />
+  <testcase name="massUpdateRequester[3. Update Requester from 5555 to 4444 on Approved Documents without Pending Change Order]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoMassUpdateRequester" id="0" time="2.997" />
+  <testcase name="massUpdateRequester[4. Update Requester from 3333 to 2222 on Approved Documents with Pending Change Order]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoMassUpdateRequester" id="0" time="0.161" />
+</testsuite>

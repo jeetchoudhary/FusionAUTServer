@@ -1,0 +1,13 @@
+<system-out><![CDATA[The TestMethodOwner annotation for this test method is missing: testPopulateEventAuditTable.
+
+The TestClassOwner annotation for this test is missing.
+
+**********************************************
+Starting test case: 1. Populate Event Audit Table
+
+    Assert Passed! - PurchasingEventAuditVO 
+    Test Case Passed! 
+
+End of test case: 1. Populate Event Audit Table
+**********************************************
+]]></system-out>

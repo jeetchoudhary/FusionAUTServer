@@ -1,0 +1,195 @@
+<system-out><![CDATA[Test Class Owner is: PO_AUTOUT_NOTIFY_IN@ORACLE.COM
+**********************************************
+Starting test case: Test Document Foreign Key Util
+Deleting setup data..
+Delete: PO_HEADERS_ALL From XML File: CreateSPO_PO_HEADERS_ALL.xml
+Delete: PO_HEADERS_DRAFT_ALL From XML File: CreateSPO_PO_HEADERS_DRAFT_ALL.xml
+Delete: PO_LINES_ALL From XML File: CreateSPO_PO_LINES_ALL.xml
+Delete: PO_LINES_DRAFT_ALL From XML File: CreateSPO_PO_LINES_DRAFT_ALL.xml
+Delete: PO_LINE_LOCATIONS_ALL From XML File: CreateSPO_PO_LINE_LOCATIONS_ALL.xml
+Delete: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: CreateSPO_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Delete: PO_DISTRIBUTIONS_ALL From XML File: CreateSPO_PO_DISTRIBUTIONS_ALL.xml
+Delete: PO_DISTRIBUTIONS_DRAFT_ALL From XML File: CreateSPO_PO_DISTRIBUTIONS_DRAFT_ALL.xml
+Insert: PO_HEADERS_ALL From XML File: CreateSPO_PO_HEADERS_ALL.xml
+Insert: PO_HEADERS_DRAFT_ALL From XML File: CreateSPO_PO_HEADERS_DRAFT_ALL.xml
+Insert: PO_LINES_ALL From XML File: CreateSPO_PO_LINES_ALL.xml
+Insert: PO_LINES_DRAFT_ALL From XML File: CreateSPO_PO_LINES_DRAFT_ALL.xml
+Insert: PO_LINE_LOCATIONS_ALL From XML File: CreateSPO_PO_LINE_LOCATIONS_ALL.xml
+Insert: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: CreateSPO_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Insert: PO_DISTRIBUTIONS_ALL From XML File: CreateSPO_PO_DISTRIBUTIONS_ALL.xml
+Insert: PO_DISTRIBUTIONS_DRAFT_ALL From XML File: CreateSPO_PO_DISTRIBUTIONS_DRAFT_ALL.xml
+[SEVERE] [handlerException] An error occurred while writing to the diagnostic log file because of this reason: Apps ODLHandler config setting not found! Check logging.xml and related config settings. (FND-10103)
+[SEVERE] [FeatureUtil] java.lang.NullPointerException
+	at oracle.apps.topologyManager.datasource.ConnectionProvider.getConnection(ConnectionProvider.java:259)
+	at oracle.topologyManager.client.deployedInfo.DeployedInfoProvider.isEnvironmentUpgraded(DeployedInfoProvider.java:3728)
+	at oracle.apps.setup.commonSetup.featurePublicModel.util.FeatureUtil.isEnvironmentUpgraded(FeatureUtil.java:124)
+	at oracle.apps.setup.commonSetup.features.publicModel.applicationModule.FeatureAMImpl.getFeatureChoice(FeatureAMImpl.java:1852)
+	at oracle.apps.setup.commonSetup.features.publicModel.applicationModule.FeatureAMImpl.getFeatureChoices(FeatureAMImpl.java:1754)
+	at oracle.apps.setup.commonSetup.features.publicModel.applicationModule.FeatureAMImpl.isFeatureEnabledForImplementation(FeatureAMImpl.java:3897)
+	at oracle.apps.setup.commonSetup.features.Offerings.isFeatureEnabledForImplementationAM(Offerings.java:326)
+	at oracle.apps.setup.commonSetup.features.Offerings.isFeatureEnabledForImplementation(Offerings.java:306)
+	at oracle.apps.prc.po.commonPo.protectedCoreModel.util.InstallationUtil.isFeatureEnabled(InstallationUtil.java:70)
+	at oracle.apps.prc.po.commonPo.protectedCoreModel.util.InstallationUtil.isFeatureEnabled(InstallationUtil.java:57)
+	at oracle.apps.prc.po.commonPo.protectedCoreModel.util.InstallationUtil.isProductInstalled(InstallationUtil.java:110)
+	at oracle.apps.prc.po.editDocument.protectedModel.copyDocument.PoCopyDocument.doDuplicateDoc(PoCopyDocument.java:208)
+	at oracle.apps.prc.po.editDocument.protectedModel.copyDocument.PoCopyDocument.copyDocument(PoCopyDocument.java:117)
+	at oracle.apps.prc.po.commonPo.protectedModel.util.CreatePO.createPO(CreatePO.java:151)
+	at oracle.apps.prc.po.commonPo.protectedModel.util.CreatePO.duplicatePO(CreatePO.java:410)
+	at oracle.apps.prc.po.commonPo.protectedModel.util.CreatePO.createIncompletePO(CreatePO.java:426)
+	at oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentForeignKeyUtil.testDocumentForeignKeyUtil(TestDocumentForeignKeyUtil.java:111)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:45)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:42)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:263)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:68)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:47)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:231)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:60)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:50)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:222)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:30)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:300)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:24)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:231)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:60)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:50)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:222)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:300)
+	at oracle.apps.fnd.appltest.unittest.junit.UTRunner$1.run(UTRunner.java:1267)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:136)
+	at oracle.apps.fnd.appltest.unittest.junit.UTRunner.runTest(UTRunner.java:1055)
+	at oracle.apps.fnd.appltest.unittest.junit.UTRunner.execute(UTRunner.java:1223)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at oracle.apps.fnd.appltest.unittest.junit.entry.UTRunnerMain.main(UTRunnerMain.java:153)
+
+[SEVERE] [FeatureUtil] java.lang.NullPointerException
+	at oracle.apps.topologyManager.datasource.ConnectionProvider.getConnection(ConnectionProvider.java:259)
+	at oracle.topologyManager.client.deployedInfo.DeployedInfoProvider.isEnvironmentUpgraded(DeployedInfoProvider.java:3728)
+	at oracle.apps.setup.commonSetup.featurePublicModel.util.FeatureUtil.isEnvironmentUpgraded(FeatureUtil.java:124)
+	at oracle.apps.setup.commonSetup.features.publicModel.applicationModule.FeatureAMImpl.getFeatureChoice(FeatureAMImpl.java:1852)
+	at oracle.apps.setup.commonSetup.features.publicModel.applicationModule.FeatureAMImpl.getFeatureChoices(FeatureAMImpl.java:1754)
+	at oracle.apps.setup.commonSetup.features.Offerings.getFeatureChoicesFromAM(Offerings.java:1301)
+	at oracle.apps.setup.commonSetup.features.Offerings.getFeatureChoices(Offerings.java:1281)
+	at oracle.apps.prc.po.commonPo.protectedCoreModel.util.InstallationUtil.isFeatureEnabled(InstallationUtil.java:161)
+	at oracle.apps.prc.po.commonPo.protectedCoreModel.util.InstallationUtil.isCustSalesOrderFulfillmentFeatureEnabled(InstallationUtil.java:201)
+	at oracle.apps.prc.po.commonPo.protectedCoreModel.util.InstallationUtil.isProductInstalled(InstallationUtil.java:101)
+	at oracle.apps.prc.po.commonPo.protectedCoreModel.util.InstallationUtil.isProductInstalled(InstallationUtil.java:45)
+	at oracle.apps.prc.po.commonPo.protectedCoreModel.util.InstallationUtil.updateFeatureAvailableInRelease(InstallationUtil.java:233)
+	at oracle.apps.prc.po.editDocument.protectedModel.copyDocument.PoCopyDocument.doDuplicateDoc(PoCopyDocument.java:217)
+	at oracle.apps.prc.po.editDocument.protectedModel.copyDocument.PoCopyDocument.copyDocument(PoCopyDocument.java:117)
+	at oracle.apps.prc.po.commonPo.protectedModel.util.CreatePO.createPO(CreatePO.java:151)
+	at oracle.apps.prc.po.commonPo.protectedModel.util.CreatePO.duplicatePO(CreatePO.java:410)
+	at oracle.apps.prc.po.commonPo.protectedModel.util.CreatePO.createIncompletePO(CreatePO.java:426)
+	at oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestDocumentForeignKeyUtil.testDocumentForeignKeyUtil(TestDocumentForeignKeyUtil.java:111)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:45)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:42)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:263)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:68)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:47)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:231)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:60)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:50)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:222)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:30)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:300)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:24)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:231)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:60)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:50)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:222)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:300)
+	at oracle.apps.fnd.appltest.unittest.junit.UTRunner$1.run(UTRunner.java:1267)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:136)
+	at oracle.apps.fnd.appltest.unittest.junit.UTRunner.runTest(UTRunner.java:1055)
+	at oracle.apps.fnd.appltest.unittest.junit.UTRunner.execute(UTRunner.java:1223)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at oracle.apps.fnd.appltest.unittest.junit.entry.UTRunnerMain.main(UTRunnerMain.java:153)
+
+    Created New Document...
+    PoHeaderId ............: 440336
+    Segment1 ..............: 1004180
+    Status ................: INCOMPLETE
+Deleting setup data..
+Delete: PO_HEADERS_ALL From XML File: CreateSPO_PO_HEADERS_ALL.xml
+Delete: PO_HEADERS_DRAFT_ALL From XML File: CreateSPO_PO_HEADERS_DRAFT_ALL.xml
+Delete: PO_LINES_ALL From XML File: CreateSPO_PO_LINES_ALL.xml
+Delete: PO_LINES_DRAFT_ALL From XML File: CreateSPO_PO_LINES_DRAFT_ALL.xml
+Delete: PO_LINE_LOCATIONS_ALL From XML File: CreateSPO_PO_LINE_LOCATIONS_ALL.xml
+Delete: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: CreateSPO_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Delete: PO_DISTRIBUTIONS_ALL From XML File: CreateSPO_PO_DISTRIBUTIONS_ALL.xml
+Delete: PO_DISTRIBUTIONS_DRAFT_ALL From XML File: CreateSPO_PO_DISTRIBUTIONS_DRAFT_ALL.xml
+Returning created PO, poHeaderId: 440336
+
+    Assert Passed! - HashMap: testDocumentForeignKeyUtil
+    Test Case Passed! 
+
+End of test case: Test Document Foreign Key Util
+**********************************************
+**********************************************
+Starting test case: Test Get Schedule MatchApprovalLevelCode 1
+
+    Assert Passed! - HashMap: scheduleMatchApprovalLevelCode
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Test Get Schedule MatchApprovalLevelCode 1
+**********************************************
+**********************************************
+Starting test case: Test Get Schedule MatchApprovalLevelCode 2
+
+    Assert Passed! - HashMap: scheduleMatchApprovalLevelCode
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Test Get Schedule MatchApprovalLevelCode 2
+**********************************************
+**********************************************
+Starting test case: Test Get Schedule MatchApprovalLevelCode 3
+
+    Assert Passed! - HashMap: scheduleMatchApprovalLevelCode
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Test Get Schedule MatchApprovalLevelCode 3
+**********************************************
+**********************************************
+Starting test case: Test Get Schedule MatchApprovalLevelCode 4
+
+    Assert Passed! - HashMap: scheduleMatchApprovalLevelCode
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Test Get Schedule MatchApprovalLevelCode 4
+**********************************************
+]]></system-out>

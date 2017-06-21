@@ -1,0 +1,42 @@
+<system-out><![CDATA[Test Class Owner is: PO_AUTOUT_NOTIFY_IN@ORACLE.COM
+**********************************************
+Starting test case: TestPriceDiscount1
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: TestPriceDiscount1
+**********************************************
+**********************************************
+Starting test case: TestPriceDiscount2
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: TestPriceDiscount2
+**********************************************
+**********************************************
+Starting test case: TestPriceOverride1
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: TestPriceOverride1
+**********************************************
+**********************************************
+Starting test case: TestPriceOverride2
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: TestPriceOverride2
+**********************************************
+]]></system-out>

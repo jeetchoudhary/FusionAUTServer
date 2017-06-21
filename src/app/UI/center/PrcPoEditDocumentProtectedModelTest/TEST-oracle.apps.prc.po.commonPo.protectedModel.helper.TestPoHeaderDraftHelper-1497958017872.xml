@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" timestamp="2017-06-20T11:26:57" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="71" failures="4" errors="0" time="39.097" runId="0">
+  <properties />
+  <testcase name="testInitBuyer[1. Defaulting Buyer]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.151" />
+  <testcase name="testInitCreatedLanguage[1. Defaulting Language]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0020" />
+  <testcase name="testInitPrcBu[1. Defaulting Prc BU]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="2.593" />
+  <testcase name="testInitReqBu[1. Defaulting Req BU]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="12.038" />
+  <testcase name="testInitShipToLocationId[1. Defaulting Ship-To-Location Id]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="6.517" />
+  <testcase name="testInitCurrencyCode[1. Defaulting Currency Code]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.688" />
+  <testcase name="testInitCurrencyCode[2. Defaulting Currency Code for STANDARD Documents]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.876" />
+  <testcase name="testInitBillToLocationId[1. Defaulting Bill-To-Location Id]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.672" />
+  <testcase name="testInitBuyerManagedTransportFlag[1. Defaulting Buyer-Managed-Transport Flag]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.012" />
+  <testcase name="testInitDocumentCreationMethod[1. Defaulting Document Creation Method]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0020" />
+  <testcase name="testInitEmailAddress[1. Defaulting Email Address]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="3.906" />
+  <testcase name="testInitFOB[1. Defaulting FOB]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.117">
+    <failure type="failure" message="    Test Case Failed! Asserts failed = 1
+ ">java.lang.AssertionError:     Test Case Failed! Asserts failed = 1
+
+	at oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper.testInitFOB(TestPoHeaderDraftHelper.java:787)
+	at oracle.apps.fnd.appltest.unittest.junit.UTRunner$1.run(UTRunner.java:1267)
+	at oracle.apps.fnd.appltest.unittest.junit.UTRunner.runTest(UTRunner.java:1055)
+	at oracle.apps.fnd.appltest.unittest.junit.UTRunner.execute(UTRunner.java:1223)
+	at oracle.apps.fnd.appltest.unittest.junit.entry.UTRunnerMain.main(UTRunnerMain.java:153)
+ </failure>
+  </testcase>
+  <testcase name="testInitStyleAndType[1. Defaulting Style-Id and Lookup Code]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0030" />
+  <testcase name="testInitTaxAttrbs[1. Defaulting Tax Attributes]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="2.375" />
+  <testcase name="testInitPaymentTerms[1. Defaulting Payment Terms]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0040" />
+  <testcase name="testInitPayOnReceipt[1. Defaulting Pay on Code]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0020" />
+  <testcase name="testInitPoNumber[1. Defaulting Po Number-Segment1]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.959" />
+  <testcase name="testInitProcurementOptionsDependentFields[1. Defaulting Procurement options]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.087" />
+  <testcase name="testInitRate[1. Defaulting Conversion Rate]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.876" />
+  <testcase name="testInitSupplierContactId[1. Defaulting Supplier Contact Id]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.716" />
+  <testcase name="testInitSupplierNotificationMethod[1. Defaulting Supplier Notification Method]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0020" />
+  <testcase name="testInitSupplierSite[1. Defaulting Supplier Site]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.276" />
+  <testcase name="testDefaultAcceptanceWithinDaysDependentFields[1. Defaulting Acceptance Due Date]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.016" />
+  <testcase name="testDefaultAcceptanceRequiredFlagDependentFields[1. Defaulting AcceptanceRequiredFlag Dependent Fields]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0010" />
+  <testcase name="testDefaultBillingInformation[1. Defaulting Billing Details]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.158" />
+  <testcase name="testInitRateType[1. Defaulting Conversion Rate type]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.336" />
+  <testcase name="testInitRateType[2. Defaulting Conversion Rate type with different currency codes]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.094" />
+  <testcase name="testInitRateDate[1. Defaulting Conversion Rate date]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.014" />
+  <testcase name="testDefaultConfiguredStyleDependentField[1. Defaulting Configured Style Dependent Field]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.039" />
+  <testcase name="testDefaultSoldToLegalEntity[1. Defaulting Supplier Site]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.041" />
+  <testcase name="testDefaultSupplierContactDependentFields[1. Defaulting Supplier-Contact Dependent Fields with Email as the notification method.]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.014" />
+  <testcase name="testDefaultSupplierSiteId[1. Defaulting Supplier-Site Id]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.02" />
+  <testcase name="testDefaultAgingOnsetPointDependentFields[1. Defaulting Aging OnsetPoint Dependent Fields]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.261" />
+  <testcase name="testDefaultAgingOnsetPointDependentFields[2. Defaulting Aging OnsetPoint Dependent Fields with No aging period days]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.112" />
+  <testcase name="testDefaultAgingPeriodDaysDependentFields[1. Defaulting Aging Period Days Dependent Fields ]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0060" />
+  <testcase name="testDefaultDistRateFields[1. Defaulting Distribution Rate Fields ]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0080" />
+  <testcase name="testDefaultDistRateDate[1. Defaulting Distribution Rate Date ]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0010" />
+  <testcase name="testDefaultDistRate[1. Defaulting Distribution Rate with rate type as User]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0070" />
+  <testcase name="testDefaultDistRate[2. Defaulting Distribution Rate with rate type as Corporate]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0070" />
+  <testcase name="testDefaultRateDateDependentFields[1. Defaulting Rate Date dependent fields]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.011" />
+  <testcase name="testDefaultRateDependentFields[1. Defaulting Rate Date dependent fields]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0080" />
+  <testcase name="testDefaultShippingMethod[1. Defaulting Shipping method]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.052" />
+  <testcase name="testDefaultSupplierDependentFields[1. Defaulting Supplier Dependent Fields]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.012" />
+  <testcase name="testInitFreightTerms[1. Defaulting Freight terms]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.078">
+    <failure type="failure" message="    Test Case Failed! Asserts failed = 1
+ ">java.lang.AssertionError:     Test Case Failed! Asserts failed = 1
+
+	at oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper.testInitFreightTerms(TestPoHeaderDraftHelper.java:2424)
+	at oracle.apps.fnd.appltest.unittest.junit.UTRunner$1.run(UTRunner.java:1267)
+	at oracle.apps.fnd.appltest.unittest.junit.UTRunner.runTest(UTRunner.java:1055)
+	at oracle.apps.fnd.appltest.unittest.junit.UTRunner.execute(UTRunner.java:1223)
+	at oracle.apps.fnd.appltest.unittest.junit.entry.UTRunnerMain.main(UTRunnerMain.java:153)
+ </failure>
+  </testcase>
+  <testcase name="testResetCurrencyDependentFields[1. Reset Currency Dependent Fields]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0010" />
+  <testcase name="testResetPcardId[1. Reset Pcard Id]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0" />
+  <testcase name="testResetRateDependentFields[1. Reset Rate Dependent Fields]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.049" />
+  <testcase name="testResetRateTypeDependentFields[1. Reset Rate-Type Dependent Fields]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0010" />
+  <testcase name="testResetSupplierContactDependentFields[1. Reset Supplier Contact Dependent Fields]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0" />
+  <testcase name="testResetSupplierContactIdDependentFields[1. Reset Supplier Contact Id Dependent Fields]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0" />
+  <testcase name="testIsBillToLocationIdValid[1. Validating Bill_To_Location_Id]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0070" />
+  <testcase name="testIsBillToLocationIdValid[2. Validating Bill_To_Location_Id]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.018" />
+  <testcase name="testIsCarrierIdValid[1. Validating Carrier Id]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.138" />
+  <testcase name="testIsCarrierIdValid[2. Validating Bill_To_Location_Id]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0020" />
+  <testcase name="testIsFOBValid[1. Validating FOB]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0040">
+    <failure type="failure" message="    Test Case Failed! Asserts failed = 1
+ ">java.lang.AssertionError:     Test Case Failed! Asserts failed = 1
+
+	at oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper.testIsFOBValid(TestPoHeaderDraftHelper.java:2799)
+	at oracle.apps.fnd.appltest.unittest.junit.UTRunner$1.run(UTRunner.java:1267)
+	at oracle.apps.fnd.appltest.unittest.junit.UTRunner.runTest(UTRunner.java:1055)
+	at oracle.apps.fnd.appltest.unittest.junit.UTRunner.execute(UTRunner.java:1223)
+	at oracle.apps.fnd.appltest.unittest.junit.entry.UTRunnerMain.main(UTRunnerMain.java:153)
+ </failure>
+  </testcase>
+  <testcase name="testIsFOBValid[2. Validating Bill_To_Location_Id]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0040" />
+  <testcase name="testIsFreightTermsValid[1. Validating Freight Terms]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0040">
+    <failure type="failure" message="    Test Case Failed! Asserts failed = 1
+ ">java.lang.AssertionError:     Test Case Failed! Asserts failed = 1
+
+	at oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper.testIsFreightTermsValid(TestPoHeaderDraftHelper.java:2863)
+	at oracle.apps.fnd.appltest.unittest.junit.UTRunner$1.run(UTRunner.java:1267)
+	at oracle.apps.fnd.appltest.unittest.junit.UTRunner.runTest(UTRunner.java:1055)
+	at oracle.apps.fnd.appltest.unittest.junit.UTRunner.execute(UTRunner.java:1223)
+	at oracle.apps.fnd.appltest.unittest.junit.entry.UTRunnerMain.main(UTRunnerMain.java:153)
+ </failure>
+  </testcase>
+  <testcase name="testIsFreightTermsValid[2. Validating Freight Terms]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0040" />
+  <testcase name="testIsPaymentTermsValid[1. Validating Payment terms]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0030" />
+  <testcase name="testIsPaymentTermsValid[2. Validating Payment terms]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.012" />
+  <testcase name="testIsShippingMethodValid[1. Validating Shipping Method]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0040" />
+  <testcase name="testIsShippingMethodValid[2. Validating Shipping Method]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.059" />
+  <testcase name="testIsShipToLocationIdValid[1. Validating Ship_To_Location_Id]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0030" />
+  <testcase name="testIsShipToLocationIdValid[2. Validating Ship_To_Location_Id]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0030" />
+  <testcase name="testLineRowExists[1. Validating Line Row Exists or not]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0020" />
+  <testcase name="testLineRowExists[2. Validating Line Row Exists or not]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0010" />
+  <testcase name="testGetBillToBUCurrency[1. Get Currency Code from Bill Bu Id]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.959" />
+  <testcase name="testGetDefaultRateType[1. Get Default Rate Type]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0030" />
+  <testcase name="testGetDefaultRateType[2. Get Default Rate Type with different currency cdes]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0030" />
+  <testcase name="testGetSoldToLeCurrency[1. Get Currency Code from SoldToLeId]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0050" />
+  <testcase name="testUpdateMaxLineNumForNew[1. Update MaxLineNumForNew in header level]" classname="oracle.apps.prc.po.commonPo.protectedModel.helper.TestPoHeaderDraftHelper" id="0" time="0.0060" />
+</testsuite>

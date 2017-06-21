@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.view.ProductTypesVVO.ProductTypesVVOTest" timestamp="2017-06-20T11:34:05" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="4" failures="0" errors="0" time="1.984" runId="0">
+  <properties />
+  <testcase name="entitiesNonUpdateable" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProductTypesVVO.ProductTypesVVOTest" id="0" time="0.151">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProductTypesVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="testVOAccess" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProductTypesVVO.ProductTypesVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProductTypesVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ClassificationName]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProductTypesVVO.ProductTypesVVOTest" id="0" time="0.0060">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProductTypesVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ClassificationCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ProductTypesVVO.ProductTypesVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ProductTypesVVO" type="ADFVO" />
+  </testcase>
+</testsuite>

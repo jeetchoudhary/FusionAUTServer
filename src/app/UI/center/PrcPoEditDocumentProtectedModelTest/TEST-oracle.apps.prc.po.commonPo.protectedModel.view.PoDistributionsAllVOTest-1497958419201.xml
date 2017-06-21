@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" timestamp="2017-06-20T11:33:39" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="176" failures="0" errors="0" time="3.086" runId="0">
+  <properties />
+  <testcase name="simpleCreateAndRemove" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.659">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="simpleUpdateAndRemove" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0090">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="voRowImplHasAttributeMetadata" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0050">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="testVOAccess" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PoDistributionId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0020">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[LastUpdateDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[DistIntendedUse]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PrcBuId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ReqBuId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[LastUpdatedBy]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PoHeaderId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PoLineId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[LineLocationId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[SetOfBooksId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CodeCombinationId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[QuantityOrdered]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[LastUpdateLogin]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CreationDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CreatedBy]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[QuantityDelivered]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[QuantityBilled]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[QuantityCancelled]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ReqHeaderReferenceNum]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ReqLineReferenceNum]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ReqDistributionId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[DeliverToLocationId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[DeliverToPersonId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[RateDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Rate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AmountBilled]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AccruedFlag]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[DestinationTypeCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[DestinationOrganizationId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[DestinationSubinventory]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeCategory]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute2]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute3]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute4]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute5]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute6]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute7]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute8]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute9]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute10]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute11]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute12]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute13]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute14]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute15]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[WipEntityId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[WipOperationSeqNum]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[WipResourceSeqNum]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[WipRepetitiveScheduleId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[WipLineId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[BomResourceId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AccrualAccountId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[VarianceAccountId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[GovernmentContext]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[DestinationContext]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[DistributionNum]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[SourceDistributionId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[RequestId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ProgramName]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ProgramAppName]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AccrueOnReceiptFlag]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[KanbanCardId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AwardId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[EndItemUnitNumber]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[TaxRecoveryOverrideFlag]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[RecoverableTax]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[NonrecoverableTax]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0020">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[RecoverableInclusiveTax]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[NonrecoverableInclusiveTax]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[TaxExclusiveAmount]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[RecoveryRate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[OkeContractLineId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[OkeContractDeliverableId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AmountOrdered]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AmountDelivered]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AmountCancelled]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[DistributionType]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[InvoiceAdjustmentFlag]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[DestChargeAccountId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[DestVarianceAccountId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[QuantityFinanced]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AmountFinanced]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[QuantityRecouped]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AmountRecouped]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[RetainageWithheldAmount]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[RetainageReleasedAmount]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[InvoicedValInNtfn]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[TaxAttributeUpdateCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[InterfaceDistributionRef]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ObjectVersionNumber]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcExpenditureTypeId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcBillableFlag]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcUserDefAttribute1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcUserDefAttribute2]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcUserDefAttribute3]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcUserDefAttribute4]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcUserDefAttribute5]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcUserDefAttribute6]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcUserDefAttribute7]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcUserDefAttribute8]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcUserDefAttribute9]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcUserDefAttribute10]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcContractId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcWorkTypeId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcCapitalizableFlag]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcReservedAttribute3]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcReservedAttribute4]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcReservedAttribute5]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcReservedAttribute6]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcReservedAttribute7]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcReservedAttribute9]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcReservedAttribute10]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcFundingAllocationId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcReservedAttribute1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcReservedAttribute2]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcContextCategory]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcReservedAttribute8]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcContractLineId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcProjectId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcTaskId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcExpenditureItemDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcOrganizationId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[JobDefinitionName]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[JobDefinitionPackage]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute20]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute19]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute16]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute17]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute18]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate10]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate2]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate3]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate4]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate5]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate6]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate7]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate8]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0020">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate9]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber10]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber2]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber3]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber4]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber5]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber6]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0020">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber7]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber8]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0020">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber9]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp10]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp2]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp3]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp4]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp5]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0040">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp6]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp7]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp8]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp9]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[OriginalDistributionId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[UnitPrice]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PoLineId1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ObjectVersionNumber1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[BudgetDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[FundsStatus]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[DeliverToCustContactId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[DeliverToCustId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[DeliverToCustLocationId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PreventEncumbranceFlag]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AmountToEncumber]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AmountForBc]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoDistributionsAllVO" type="ADFVO" />
+  </testcase>
+</testsuite>

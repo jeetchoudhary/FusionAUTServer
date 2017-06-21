@@ -1,0 +1,44 @@
+<system-out><![CDATA[The TestClassOwner annotation for this test is missing.
+
+***** Validating connections.xml *****
+***** Context class is : oracle.adf.share.jndi.AdfInitialContext
+Naming provider :META-INF/connections.xml
+Naming provider resolved through URL : file:/scratch/jjikumar/view_storage/jjikumar_REL_13_Test/fusionapps/prc/components/procurement/.adf/META-INF/connections.xml
+Protocol is : file
+Processing entity def: oracle.apps.prc.po.commonPo.protectedModel.entity.PurchasingAgreementNotificationControlEO
+Test Owner: Unassigned. An entity validator test for validator '_InternalMandatoryValidator_' is required. 
+
+Test Owner: Unassigned. An attribute validator test for validator 'NotificationConditionCode_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PoHeaderId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute5_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute14_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute2_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute7_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute10_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute20_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute6_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'NotificationId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute11_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute4_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute13_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute16_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute18_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute8_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'AttributeCategory_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute17_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute3_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute15_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute19_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute9_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute1_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute12_PrecisionScale_Val' is required. 
+
+getSimpleRow took milliseocnds:289
+getSimpleRow in seconds:0
+getSimpleRow took milliseocnds:1
+getSimpleRow in seconds:0
+getSimpleRow took milliseocnds:1
+getSimpleRow in seconds:0
+Storing created row for reuse.
+Data Driven Test block finished, clearing cached row for invokeVORowImplAttributeGetter
+]]></system-out>

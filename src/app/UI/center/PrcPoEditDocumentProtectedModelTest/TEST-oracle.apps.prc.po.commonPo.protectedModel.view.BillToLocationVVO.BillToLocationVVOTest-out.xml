@@ -1,0 +1,32 @@
+<system-out><![CDATA[The TestClassOwner annotation for this test is missing.
+
+***** Validating connections.xml *****
+***** Context class is : oracle.adf.share.jndi.AdfInitialContext
+Naming provider :META-INF/connections.xml
+Naming provider resolved through URL : file:/scratch/jjikumar/view_storage/jjikumar_REL_13_Test/fusionapps/prc/components/procurement/.adf/META-INF/connections.xml
+Protocol is : file
+Test Owner: Unassigned. A test method named 'ByLocationId' is required. 
+A test method named 'ActiveLocations' is required. 
+A test method named 'BillToSiteLocations' is required. 
+A test method named 'ByLocationCodeAndName' is required. 
+A test method named 'ByNameAndLocale' is required. 
+A test method named 'ByShipToLocationId' is required. 
+A test method named 'FNDDS__PER_CHOOSE_LOCATION_DATA__PER_LOCATIONS__LocationDPEO' is required. 
+A test method named 'InitFetchNoRowsVC' is required. 
+A test method named 'InventoryLocations' is required. 
+A test method named 'LocationLOVCriteriaForBUContextFlows' is required. 
+A test method named 'LocationLOVSearchDisplayCriteria' is required. 
+A test method named 'LocationNameVC' is required. 
+A test method named 'LocationSetNameVC' is required. 
+A test method named 'NonInventoryLocations' is required. 
+A test method named 'ReceivingLocations' is required. 
+A test method named 'ShippingLocations' is required. 
+A test method named 'findByInventoryOrgId' is required. 
+A test method named 'findByLocationCode' is required. 
+
+Resetting bind: SysEffectiveDateBindVar to: null
+Resetting bind: Bind_BillToBuId to: null
+Querying for row to use for createSimpleRowForFrameworkTests
+Resetting bind: SysEffectiveDateBindVar to: null
+Resetting bind: Bind_BillToBuId to: null
+]]></system-out>

@@ -1,0 +1,167 @@
+<system-out><![CDATA[The TestClassOwner annotation for this test is missing.
+
+***** Validating connections.xml *****
+***** Context class is : oracle.adf.share.jndi.AdfInitialContext
+Naming provider :META-INF/connections.xml
+Naming provider resolved through URL : file:/scratch/jjikumar/view_storage/jjikumar_REL_13_Test/fusionapps/prc/components/procurement/.adf/META-INF/connections.xml
+Protocol is : file
+Test Owner: Unassigned. A test method named 'SearchByLineLocationId' is required. 
+A test method named 'SearchByPoLineId' is required. 
+A test method named 'SearchByShipmentNum' is required. 
+
+SCHEDULE_STATUS null
+Processing entity def: oracle.apps.prc.po.commonPo.protectedModel.entity.PurchasingDocumentLineLocationEO
+Test Owner: Unassigned. An entity validator test for validator '_InternalMandatoryValidator_' is required. 
+
+Test Owner: Unassigned. An attribute validator test for validator 'PoTradingOrganizationId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ProgramAppName_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'LineIntendedUse_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ShipToCustContactId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'SalesOrderScheduleNumber_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'JobDefinitionPackage_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'FromLineId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'CustomerPoScheduleNumber_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PaymentType_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ProductCategory_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'GlobalAttribute13_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'GlobalAttribute17_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'TermsId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ReceivingRoutingId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'UserDefinedFiscClass_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'SalesOrderNumber_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ProductFiscClassification_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ClosedBy_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute16_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute9_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ReqBuId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ManualPriceChangeFlag_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'FundsStatus_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PoHeaderId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'TaxName_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'GlobalAttribute4_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'GlobalAttribute1_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute10_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute6_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'GlobalAttribute8_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute11_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ShipToOrganizationId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'GlobalAttribute2_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'GlobalAttributeCategory_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute13_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'LineLocationId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'CountryOfOriginCode_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'InputTaxClassificationCode_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'InspectionRequiredFlag_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute17_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'GlobalAttribute15_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'OriginalShipmentId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute1_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute5_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ChangePromisedDateReason_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'CancelBudgetDateOption_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ConsignedFlag_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ShipToCustId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PoLineId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'LeadTimeUnit_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'TaxUserOverrideFlag_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PjcContextCategory_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'FreightTermsLookupCode_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'UomCode_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute4_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'MatchingBasis_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'SfoAgreementLineNumber_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'GlobalAttribute18_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute12_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'JobDefinitionName_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'GroupName_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ScheduleStatus_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'AllowSubstituteReceiptsFlag_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'TransactionFlowHeaderId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'NoteToReceiver_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'FinalMatchFlag_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'CustomerPoLineNumber_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'LineIntendedUseId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'GlobalAttribute20_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ValueBasis_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ShipToLocationId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'SfoPtrId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'GlobalAttribute10_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute8_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute19_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'SourceShipmentId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'CancelFlag_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ReceiptDaysExceptionCode_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ReceiptRequiredFlag_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'GlobalAttribute14_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ShipToCustLocationId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'CustomerItemDesc_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'GlobalAttribute5_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Description_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute20_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'SfoAgreementNumber_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'FirmFlag_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'GlobalAttribute7_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'TrxBusinessCategory_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'GlobalAttribute11_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PrcBuId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'FinalDischargeLocationId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute3_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'GovernmentContext_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'TaxAttributeUpdateCode_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'GlobalAttribute19_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'VmiFlag_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ProgramName_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'PreferredGrade_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ProductType_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'CustomerItem_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'BidPaymentId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'GlobalAttribute16_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute18_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute15_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'FobLookupCode_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'RequestId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'AccrueOnReceiptFlag_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'GlobalAttribute3_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'SecondaryUomCode_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute2_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ModeOfTransport_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute7_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'CancelledBy_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'GlobalAttribute6_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'QtyRcvExceptionCode_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'AttributeCategory_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ProductFiscClassId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ServiceLevel_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'CustomerPoNumber_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'FirmStatusLookupCode_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'TaxableFlag_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'CancelReason_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'MatchOption_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'CarrierId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'FromLineLocationId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'BackToBackFlag_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'WorkApproverId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'Attribute14_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'TaxCodeId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ShipmentType_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'GlobalAttribute9_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'DestinationTypeCode_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'FromHeaderId_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'ClosedReason_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'SupplierOrderLineNumber_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'SalesOrderLineNumber_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'GlobalAttribute12_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'CalculateTaxFlag_PrecisionScale_Val' is required. 
+An attribute validator test for validator 'EnforceShipToLocationCode_PrecisionScale_Val' is required. 
+
+getSimpleRow took milliseocnds:307
+getSimpleRow in seconds:0
+getSimpleRow took milliseocnds:2
+getSimpleRow in seconds:0
+getSimpleRow took milliseocnds:4
+getSimpleRow in seconds:0
+Storing created row for reuse.
+JTestCase Test block finished, clearing cached row for attributeDefaults
+Storing created row for reuse.
+Data Driven Test block finished, clearing cached row for invokeVORowImplAttributeGetter
+]]></system-out>

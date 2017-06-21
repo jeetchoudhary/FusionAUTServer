@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" timestamp="2017-06-20T11:33:48" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="235" failures="0" errors="0" time="3.478" runId="0">
+  <properties />
+  <testcase name="simpleCreateAndRemove" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.711">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="simpleUpdateAndRemove" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.115">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="voRowImplHasAttributeMetadata" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.01">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="testVOAccess" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="attributeDefaults[ScheduleStatus]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0020">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[LineLocationId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[TrxBusinessCategory]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ProductCategory]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ProductFiscClassification]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[LineIntendedUse]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PrcBuId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ReqBuId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ProductType]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[UserDefinedFiscClass]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AssessableValue]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[InputTaxClassificationCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[LastUpdateDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[LastUpdatedBy]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PoHeaderId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PoLineId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[LastUpdateLogin]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CreationDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CreatedBy]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Quantity]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[QuantityReceived]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[QuantityAccepted]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[QuantityRejected]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[QuantityBilled]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[QuantityCancelled]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ShipToLocationId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[NeedByDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PromisedDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PriceOverride]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[FobLookupCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[FreightTermsLookupCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[TaxableFlag]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[TaxName]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[EstimatedTaxAmount]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[FromHeaderId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[FromLineId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[FromLineLocationId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[StartDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[EndDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[LeadTime]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[LeadTimeUnit]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PriceDiscount]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[TermsId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CancelFlag]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CancelledBy]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CancelDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CancelReason]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[FirmStatusLookupCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[FirmDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeCategory]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute2]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute3]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute4]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute5]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute6]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute7]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute8]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute9]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute10]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute11]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute12]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute13]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute14]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute15]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[InspectionRequiredFlag]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ReceiptRequiredFlag]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[QtyRcvTolerance]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[QtyRcvExceptionCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[EnforceShipToLocationCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AllowSubstituteReceiptsFlag]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[DaysEarlyReceiptAllowed]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[DaysLateReceiptAllowed]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ReceiptDaysExceptionCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[InvoiceCloseTolerance]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ReceiveCloseTolerance]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ShipToOrganizationId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ShipmentNum]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[SourceShipmentId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ShipmentType]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[RequestId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ProgramName]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ProgramAppName]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[GovernmentContext]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ReceivingRoutingId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AccrueOnReceiptFlag]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ClosedReason]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ClosedDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ClosedBy]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[QuantityShipped]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[GlobalAttributeCategory]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[GlobalAttribute1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[GlobalAttribute2]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[GlobalAttribute3]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[GlobalAttribute4]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[GlobalAttribute5]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[GlobalAttribute6]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[GlobalAttribute7]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[GlobalAttribute8]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[GlobalAttribute9]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[GlobalAttribute10]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[GlobalAttribute11]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[GlobalAttribute12]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[GlobalAttribute13]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[GlobalAttribute14]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[GlobalAttribute15]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[GlobalAttribute16]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[GlobalAttribute17]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[GlobalAttribute18]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[GlobalAttribute19]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[GlobalAttribute20]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CountryOfOriginCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[TaxUserOverrideFlag]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[MatchOption]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[TaxCodeId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CalculateTaxFlag]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ChangePromisedDateReason]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[NoteToReceiver]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[SecondaryQuantity]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PreferredGrade]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[SecondaryQuantityReceived]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[SecondaryQuantityAccepted]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[SecondaryQuantityRejected]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[SecondaryQuantityCancelled]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[VmiFlag]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ConsignedFlag]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[RetroactiveDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[SupplierOrderLineNumber]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Amount]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AmountReceived]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AmountBilled]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AmountCancelled]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AmountRejected]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AmountAccepted]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[SalesOrderUpdateDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[TransactionFlowHeaderId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[SecondaryQuantityShipped]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[FinalMatchFlag]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ManualPriceChangeFlag]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ShipmentClosedDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ClosedForReceivingDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ClosedForInvoiceDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ValueBasis]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[MatchingBasis]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PaymentType]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[GroupName]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Description]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[WorkApproverId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[BidPaymentId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[QuantityFinanced]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AmountFinanced]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[QuantityRecouped]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AmountRecouped]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[RetainageWithheldAmount]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[RetainageReleasedAmount]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AmountShipped]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[OutsourcedAssembly]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[TaxAttributeUpdateCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[OriginalShipmentId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ObjectVersionNumber]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CarrierId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[JobDefinitionName]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[JobDefinitionPackage]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ScheduleStatus]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[UomCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[SecondaryUomCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[DestinationTypeCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PjcContextCategory]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[LastAcceptDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ProductFiscClassId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[LineIntendedUseId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute20]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute17]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute18]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute19]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Attribute16]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate10]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate2]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate3]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate4]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate5]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate6]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate7]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate8]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeDate9]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp10]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp2]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp3]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp4]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp5]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp6]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp7]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp8]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeTimestamp9]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber10]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber2]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber3]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber4]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber5]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber6]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber7]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber8]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[AttributeNumber9]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[SfoAgreementLineNumber]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[SfoAgreementNumber]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[SfoPtrId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PoTradingOrganizationId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[BackToBackFlag]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CustomerItem]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CustomerItemDesc]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CustomerPoLineNumber]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CustomerPoNumber]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CustomerPoScheduleNumber]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[SalesOrderLineNumber]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[SalesOrderNumber]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[SalesOrderScheduleNumber]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ShipToCustContactId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ShipToCustId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ShipToCustLocationId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[FundsStatus]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ModeOfTransport]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ServiceLevel]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[RequestedShipDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PromisedShipDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CancelBudgetDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CancelBudgetDateOption]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[FinalDischargeLocationId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[FirmFlag]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.view.PoLineLocationsAllVO" type="ADFVO" />
+  </testcase>
+</testsuite>

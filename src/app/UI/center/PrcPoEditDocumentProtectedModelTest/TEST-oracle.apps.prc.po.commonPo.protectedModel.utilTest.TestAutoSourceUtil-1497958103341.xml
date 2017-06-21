@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestAutoSourceUtil" timestamp="2017-06-20T11:28:23" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="15" failures="0" errors="0" time="7.112" runId="0">
+  <properties />
+  <testcase name="testAutoSource[Identify Local Item Asl Bpa]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestAutoSourceUtil" id="0" time="2.0" />
+  <testcase name="testAutoSource[Identify Local Item Asl Cpa]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestAutoSourceUtil" id="0" time="0.019" />
+  <testcase name="testAutoSource[Identify Global Item Asl Bpa]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestAutoSourceUtil" id="0" time="0.085" />
+  <testcase name="testAutoSource[Identify Global Item Asl Cpa]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestAutoSourceUtil" id="0" time="0.037" />
+  <testcase name="testAutoSource[Identify Local Category Asl Cpa]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestAutoSourceUtil" id="0" time="0.141" />
+  <testcase name="testAutoSource[Identify Global Category Asl Cpa]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestAutoSourceUtil" id="0" time="0.045" />
+  <testcase name="testAutoSource[Identify Non Asl Bpa]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestAutoSourceUtil" id="0" time="0.097" />
+  <testcase name="testAutoSource[Identify Non Asl Cpa]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestAutoSourceUtil" id="0" time="0.19" />
+  <testcase name="testAutoSource[Destination Type Test]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestAutoSourceUtil" id="0" time="0.032" />
+  <testcase name="testAutoSource[Destination Type Test For Consignment Lines]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestAutoSourceUtil" id="0" time="0.0040" />
+  <testcase name="testAutoSource[Agreement Precedence Rules Test]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestAutoSourceUtil" id="0" time="0.035" />
+  <testcase name="testAutoSource[Bpa Line Expiry Test]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestAutoSourceUtil" id="0" time="0.0040" />
+  <testcase name="testAutoSource[Autosourcing For ConfiguredItems Test]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestAutoSourceUtil" id="0" time="0.0050" />
+  <testcase name="testAutoSource[Cpa Exclusion Rules Test]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestAutoSourceUtil" id="0" time="0.0040" />
+  <testcase name="testAutoSource[Asl Supplier Debarred Test]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestAutoSourceUtil" id="0" time="0.0050" />
+</testsuite>

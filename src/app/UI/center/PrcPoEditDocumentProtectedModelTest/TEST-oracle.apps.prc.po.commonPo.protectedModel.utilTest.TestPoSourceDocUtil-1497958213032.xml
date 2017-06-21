@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoSourceDocUtil" timestamp="2017-06-20T11:30:13" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="3" failures="0" errors="0" time="8.784" runId="0">
+  <properties />
+  <testcase name="testPoSourceDocUtil[Test Po Source Document Util]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoSourceDocUtil" id="0" time="0.111" />
+  <testcase name="testGetMatchingSrcDocLine[Test Get Matching Source Doc Line]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoSourceDocUtil" id="0" time="0.991" />
+  <testcase name="testGetMatchingSrcDocLineAdditional[Test Get Matching Source Doc Line Additional]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoSourceDocUtil" id="0" time="0.021" />
+</testsuite>

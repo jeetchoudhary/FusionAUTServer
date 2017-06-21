@@ -1,0 +1,171 @@
+<system-out><![CDATA[Insert: PO_BUYER_ASSIGNMENT_RULES From XML File: TestPoDetermineBuyerUtil_PO_BUYER_ASSIGNMENT_RULES.xml
+The TestMethodOwner annotation for this test method is missing: determineBuyerWithNullAsserts.
+The TestMethodOwner annotation for this test method is missing: determineBuyer.
+
+The TestClassOwner annotation for this test is missing.
+
+Starting test case: Requisitioning BU, Procurement BU
+Starting test case: Requisitioning BU
+Starting test case: Requisitioning BU, Deliver To Organization, Procurement BU
+Starting test case: Requisitioning BU, Deliver To Organization
+Starting test case: Requisitioning BU, Deliver To Organization, Procurement BU - Negative
+Starting test case: Requisitioning BU, Deliver To Organization - Negative
+Starting test case: Requisitioning BU, Project, Procurement BU
+Starting test case: Requisitioning BU, Project
+Starting test case: Requisitioning BU, Project, Procurement BU - Negative
+Starting test case: Requisitioning BU, Project - Negative
+Starting test case: Requisitioning BU, Supplier, Procurement BU
+Starting test case: Requisitioning BU, Supplier
+Starting test case: Requisitioning BU, Supplier, Procurement BU - Negative
+Starting test case: Requisitioning BU, Supplier - Negative
+Starting test case: Requisitioning BU, Non-Catalog Request, Procurement BU
+Starting test case: Requisitioning BU, Non-Catalog Request
+Starting test case: Requisitioning BU, Non-Catalog Request, Procurement BU - Negative
+Starting test case: Requisitioning BU, Non-Catalog Request - Negative
+Starting test case: Requisitioning BU, Deliverver To Organization, Project, Procurement BU
+Starting test case: Requisitioning BU, Deliverver To Organization, Project
+Starting test case: Requisitioning BU, Deliverver To Organization, Project, Procurement BU - Negative 1
+Starting test case: Requisitioning BU, Deliverver To Organization, Project - Negative 1
+Starting test case: Requisitioning BU, Deliverver To Organization, Project, Procurement BU - Negative 2
+Starting test case: Requisitioning BU, Deliverver To Organization, Project - Negative 2
+Starting test case: Requisitioning BU, Deliverver To Organization, Project, Procurement BU - Negative 3
+Starting test case: Requisitioning BU, Deliverver To Organization, Project - Negative 3
+Starting test case: Requisitioning BU, Deliverver To Organization, Supplier, Procurement BU
+Starting test case: Requisitioning BU, Deliverver To Organization, Supplier
+Starting test case: Requisitioning BU, Deliverver To Organization, Supplier, Procurement BU - Negative 1
+Starting test case: Requisitioning BU, Deliverver To Organization, Supplier - Negative 1
+Starting test case: Requisitioning BU, Deliverver To Organization, Supplier, Procurement BU - Negative 2
+Starting test case: Requisitioning BU, Deliverver To Organization, Supplier - Negative 2
+Starting test case: Requisitioning BU, Deliverver To Organization, Supplier, Procurement BU - Negative 3
+Starting test case: Requisitioning BU, Deliverver To Organization, Supplier - Negative 3
+Starting test case: Requisitioning BU, Deliverver To Organization, Non-Catalog Request, Procurement BU
+Starting test case: Requisitioning BU, Deliverver To Organization, Non-Catalog Request
+Starting test case: Requisitioning BU, Deliverver To Organization, Non-Catalog Request, Procurement BU - Negative 1
+Starting test case: Requisitioning BU, Deliverver To Organization, Non-Catalog Request - Negative 1
+Starting test case: Requisitioning BU, Deliverver To Organization, Non-Catalog Request, Procurement BU - Negative 2
+Starting test case: Requisitioning BU, Deliverver To Organization, Non-Catalog Request - Negative 2
+Starting test case: Requisitioning BU, Deliverver To Organization, Non-Catalog Request, Procurement BU - Negative 3
+Starting test case: Requisitioning BU, Deliverver To Organization, Non-Catalog Request - Negative 3
+Starting test case: Requisitioning BU, Project, Supplier, Procurement BU
+Starting test case: Requisitioning BU, Project, Supplier
+Starting test case: Requisitioning BU, Project, Supplier, Procurement BU - Negative 1
+Starting test case: Requisitioning BU, Project, Supplier - Negative 1
+Starting test case: Requisitioning BU, Project, Supplier, Procurement BU - Negative 2
+Starting test case: Requisitioning BU, Project, Supplier - Negative 2
+Starting test case: Requisitioning BU, Project, Supplier, Procurement BU - Negative 3
+Starting test case: Requisitioning BU, Project, Supplier - Negative 3
+Starting test case: Requisitioning BU, Project, Non-Catalog Request, Procurement BU
+Starting test case: Requisitioning BU, Project, Non-Catalog Request
+Starting test case: Requisitioning BU, Project, Non-Catalog Request, Procurement BU - Negative 1
+Starting test case: Requisitioning BU, Project, Non-Catalog Request - Negative 1
+Starting test case: Requisitioning BU, Project, Non-Catalog Request, Procurement BU - Negative 2
+Starting test case: Requisitioning BU, Project, Non-Catalog Request - Negative 2
+Starting test case: Requisitioning BU, Project, Non-Catalog Request, Procurement BU - Negative 3
+Starting test case: Requisitioning BU, Project, Non-Catalog Request - Negative 3
+Starting test case: Requisitioning BU, Supplier, Non-Catalog Request, Procurement BU
+Starting test case: Requisitioning BU, Supplier, Non-Catalog Request
+Starting test case: Requisitioning BU, Supplier, Non-Catalog Request, Procurement BU - Negative 1
+Starting test case: Requisitioning BU, Supplier, Non-Catalog Request - Negative 1
+Starting test case: Requisitioning BU, Supplier, Non-Catalog Request, Procurement BU - Negative 2
+Starting test case: Requisitioning BU, Supplier, Non-Catalog Request - Negative 2
+Starting test case: Requisitioning BU, Supplier, Non-Catalog Request, Procurement BU - Negative 3
+Starting test case: Requisitioning BU, Supplier, Non-Catalog Request - Negative 3
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Procurement BU
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Procurement BU - Negative 1
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier - Negative 1
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Procurement BU - Negative 2
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier - Negative 2
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Procurement BU - Negative 3
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier - Negative 3
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Procurement BU - Negative 4
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier - Negative 4
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Procurement BU - Negative 5
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier - Negative 5
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Procurement BU - Negative 6
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier - Negative 6
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Procurement BU - Negative 7
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier - Negative 7
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Non-Catalog Request, Procurement BU
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Non-Catalog Request
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Non-Catalog Request, Procurement BU - Negative 1
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Non-Catalog Request - Negative 1
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Non-Catalog Request, Procurement BU - Negative 2
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Non-Catalog Request - Negative 2
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Non-Catalog Request, Procurement BU - Negative 3
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Non-Catalog Request - Negative 3
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Non-Catalog Request, Procurement BU - Negative 4
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Non-Catalog Request - Negative 4
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Non-Catalog Request, Procurement BU - Negative 5
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Non-Catalog Request - Negative 5
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Non-Catalog Request, Procurement BU - Negative 6
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Non-Catalog Request - Negative 6
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Non-Catalog Request, Procurement BU - Negative 7
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Non-Catalog Request - Negative 7
+Starting test case: Requisitioning BU, Deliver To Organization, Supplier, Non-Catalog Request, Procurement BU
+Starting test case: Requisitioning BU, Deliver To Organization, Supplier, Non-Catalog Request
+Starting test case: Requisitioning BU, Deliver To Organization, Supplier, Non-Catalog Request, Procurement BU - Negative 1
+Starting test case: Requisitioning BU, Deliver To Organization, Supplier, Non-Catalog Request - Negative 1
+Starting test case: Requisitioning BU, Deliver To Organization, Supplier, Non-Catalog Request, Procurement BU - Negative 2
+Starting test case: Requisitioning BU, Deliver To Organization, Supplier, Non-Catalog Request - Negative 2
+Starting test case: Requisitioning BU, Deliver To Organization, Supplier, Non-Catalog Request, Procurement BU - Negative 3
+Starting test case: Requisitioning BU, Deliver To Organization, Supplier, Non-Catalog Request - Negative 3
+Starting test case: Requisitioning BU, Deliver To Organization, Supplier, Non-Catalog Request, Procurement BU - Negative 4
+Starting test case: Requisitioning BU, Deliver To Organization, Supplier, Non-Catalog Request - Negative 4
+Starting test case: Requisitioning BU, Deliver To Organization, Supplier, Non-Catalog Request, Procurement BU - Negative 5
+Starting test case: Requisitioning BU, Deliver To Organization, Supplier, Non-Catalog Request - Negative 5
+Starting test case: Requisitioning BU, Deliver To Organization, Supplier, Non-Catalog Request, Procurement BU - Negative 6
+Starting test case: Requisitioning BU, Deliver To Organization, Supplier, Non-Catalog Request - Negative 6
+Starting test case: Requisitioning BU, Deliver To Organization, Supplier, Non-Catalog Request, Procurement BU - Negative 7
+Starting test case: Requisitioning BU, Deliver To Organization, Supplier, Non-Catalog Request - Negative 7
+Starting test case: Requisitioning BU, Project, Supplier, Non-Catalog Request, Procurement BU
+Starting test case: Requisitioning BU, Project, Supplier, Non-Catalog Request
+Starting test case: Requisitioning BU, Project, Supplier, Non-Catalog Request, Procurement BU - Negative 1
+Starting test case: Requisitioning BU, Project, Supplier, Non-Catalog Request - Negative 1
+Starting test case: Requisitioning BU, Project, Supplier, Non-Catalog Request, Procurement BU - Negative 2
+Starting test case: Requisitioning BU, Project, Supplier, Non-Catalog Request - Negative 2
+Starting test case: Requisitioning BU, Project, Supplier, Non-Catalog Request, Procurement BU - Negative 3
+Starting test case: Requisitioning BU, Project, Supplier, Non-Catalog Request - Negative 3
+Starting test case: Requisitioning BU, Project, Supplier, Non-Catalog Request, Procurement BU - Negative 4
+Starting test case: Requisitioning BU, Project, Supplier, Non-Catalog Request - Negative 4
+Starting test case: Requisitioning BU, Project, Supplier, Non-Catalog Request, Procurement BU - Negative 5
+Starting test case: Requisitioning BU, Project, Supplier, Non-Catalog Request - Negative 5
+Starting test case: Requisitioning BU, Project, Supplier, Non-Catalog Request, Procurement BU - Negative 6
+Starting test case: Requisitioning BU, Project, Supplier, Non-Catalog Request - Negative 6
+Starting test case: Requisitioning BU, Project, Supplier, Non-Catalog Request, Procurement BU - Negative 7
+Starting test case: Requisitioning BU, Project, Supplier, Non-Catalog Request - Negative 7
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request, Procurement BU
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request, Procurement BU - Negative 1
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request - Negative 1
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request, Procurement BU - Negative 2
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request - Negative 2
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request, Procurement BU - Negative 3
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request - Negative 3
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request, Procurement BU - Negative 4
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request - Negative 4
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request, Procurement BU - Negative 5
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request - Negative 5
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request, Procurement BU - Negative 6
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request - Negative 6
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request, Procurement BU - Negative 7
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request - Negative 7
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request, Procurement BU - Negative 8
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request - Negative 8
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request, Procurement BU - Negative 9
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request - Negative 9
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request, Procurement BU - Negative 10
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request - Negative 10
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request, Procurement BU - Negative 11
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request - Negative 11
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request, Procurement BU - Negative 12
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request - Negative 12
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request, Procurement BU - Negative 13
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request - Negative 13
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request, Procurement BU - Negative 14
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request - Negative 14
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request, Procurement BU - Negative 15
+Starting test case: Requisitioning BU, Deliver To Organization, Project, Supplier, Non-Catalog Request - Negative 15
+Starting test case: Requisitioning BU returning Invalid Buyer
+Starting test case: Requisitioning BU, Procurement BU returning Invalid Buyer
+]]></system-out>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.view.ReqBUOptionsAllVVO.ReqBUOptionsAllVVOTest" timestamp="2017-06-20T11:34:13" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="5" failures="0" errors="0" time="2.183" runId="0">
+  <properties />
+  <testcase name="entitiesNonUpdateable" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ReqBUOptionsAllVVO.ReqBUOptionsAllVVOTest" id="0" time="0.156">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ReqBUOptionsAllVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="testVOAccess" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ReqBUOptionsAllVVO.ReqBUOptionsAllVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ReqBUOptionsAllVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ReqBuOptionsId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ReqBUOptionsAllVVO.ReqBUOptionsAllVVOTest" id="0" time="0.0030">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ReqBUOptionsAllVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ReqBuId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ReqBUOptionsAllVVO.ReqBUOptionsAllVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ReqBUOptionsAllVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PrcBuId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.ReqBUOptionsAllVVO.ReqBUOptionsAllVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.ReqBUOptionsAllVVO" type="ADFVO" />
+  </testcase>
+</testsuite>

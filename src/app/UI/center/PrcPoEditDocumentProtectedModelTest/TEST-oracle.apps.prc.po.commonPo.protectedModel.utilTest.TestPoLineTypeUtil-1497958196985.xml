@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoLineTypeUtil" timestamp="2017-06-20T11:29:56" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="3" failures="0" errors="0" time="1.354" runId="0">
+  <properties />
+  <testcase name="testGetLineTypePurchaseBasis[Test Get Line Type Purchase Basis Goods]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoLineTypeUtil" id="0" time="0.281" />
+  <testcase name="testGetLineTypePurchaseBasis[Test Get Line Type Purchase Basis Services]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoLineTypeUtil" id="0" time="0.0020" />
+  <testcase name="testDoTransactionsExist[Test Do Transactions Exist]" classname="oracle.apps.prc.po.commonPo.protectedModel.utilTest.TestPoLineTypeUtil" id="0" time="0.066" />
+</testsuite>

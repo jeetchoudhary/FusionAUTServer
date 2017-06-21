@@ -1,0 +1,66 @@
+<system-out><![CDATA[Test Class Owner is: PO_AUTOUT_NOTIFY_IN@ORACLE.COM
+**********************************************
+Starting test case: test Return Requisition Lines
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Return Requisition Lines
+**********************************************
+**********************************************
+Starting test case: test Reassign Requisition Lines
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Reassign Requisition Lines
+**********************************************
+**********************************************
+Starting test case: test Check And Lock ReqLines
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Check And Lock ReqLines
+**********************************************
+**********************************************
+Starting test case: test Get DB ReqLineObject VerNum
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Get DB ReqLineObject VerNum
+**********************************************
+**********************************************
+Starting test case: test Check If Requisitions Are Modified
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Check If Requisitions Are Modified
+**********************************************
+**********************************************
+Starting test case: test Check If Requisitions Are Locked Or Already Processed
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Check If Requisitions Are Locked Or Already Processed
+**********************************************
+**********************************************
+Starting test case: test Check If Requisitions Are Locked
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Check If Requisitions Are Locked
+**********************************************
+**********************************************
+Starting test case: test Edit Allowed For Consolidated Po
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test Edit Allowed For Consolidated Po
+**********************************************
+]]></system-out>

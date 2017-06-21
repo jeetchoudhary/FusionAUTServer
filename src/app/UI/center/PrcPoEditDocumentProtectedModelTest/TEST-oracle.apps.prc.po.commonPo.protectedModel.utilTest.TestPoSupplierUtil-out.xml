@@ -1,0 +1,41 @@
+<system-out><![CDATA[Deleting setup data..
+Delete: PO_HEADERS_ALL From XML File: CreateSPO_PO_HEADERS_ALL.xml
+Delete: PO_HEADERS_DRAFT_ALL From XML File: CreateSPO_PO_HEADERS_DRAFT_ALL.xml
+Delete: PO_LINES_ALL From XML File: CreateSPO_PO_LINES_ALL.xml
+Delete: PO_LINES_DRAFT_ALL From XML File: CreateSPO_PO_LINES_DRAFT_ALL.xml
+Delete: PO_LINE_LOCATIONS_ALL From XML File: CreateSPO_PO_LINE_LOCATIONS_ALL.xml
+Delete: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: CreateSPO_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Delete: PO_DISTRIBUTIONS_ALL From XML File: CreateSPO_PO_DISTRIBUTIONS_ALL.xml
+Delete: PO_DISTRIBUTIONS_DRAFT_ALL From XML File: CreateSPO_PO_DISTRIBUTIONS_DRAFT_ALL.xml
+Insert: PO_HEADERS_ALL From XML File: CreateSPO_PO_HEADERS_ALL.xml
+Insert: PO_HEADERS_DRAFT_ALL From XML File: CreateSPO_PO_HEADERS_DRAFT_ALL.xml
+Insert: PO_LINES_ALL From XML File: CreateSPO_PO_LINES_ALL.xml
+Insert: PO_LINES_DRAFT_ALL From XML File: CreateSPO_PO_LINES_DRAFT_ALL.xml
+Insert: PO_LINE_LOCATIONS_ALL From XML File: CreateSPO_PO_LINE_LOCATIONS_ALL.xml
+Insert: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: CreateSPO_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Insert: PO_DISTRIBUTIONS_ALL From XML File: CreateSPO_PO_DISTRIBUTIONS_ALL.xml
+Insert: PO_DISTRIBUTIONS_DRAFT_ALL From XML File: CreateSPO_PO_DISTRIBUTIONS_DRAFT_ALL.xml
+    Created New Document...
+    PoHeaderId ............: 440343
+    Segment1 ..............: 1004182
+    Status ................: INCOMPLETE
+Deleting setup data..
+Delete: PO_HEADERS_ALL From XML File: CreateSPO_PO_HEADERS_ALL.xml
+Delete: PO_HEADERS_DRAFT_ALL From XML File: CreateSPO_PO_HEADERS_DRAFT_ALL.xml
+Delete: PO_LINES_ALL From XML File: CreateSPO_PO_LINES_ALL.xml
+Delete: PO_LINES_DRAFT_ALL From XML File: CreateSPO_PO_LINES_DRAFT_ALL.xml
+Delete: PO_LINE_LOCATIONS_ALL From XML File: CreateSPO_PO_LINE_LOCATIONS_ALL.xml
+Delete: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: CreateSPO_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Delete: PO_DISTRIBUTIONS_ALL From XML File: CreateSPO_PO_DISTRIBUTIONS_ALL.xml
+Delete: PO_DISTRIBUTIONS_DRAFT_ALL From XML File: CreateSPO_PO_DISTRIBUTIONS_DRAFT_ALL.xml
+Returning created PO, poHeaderId: 440343
+Test Class Owner is: PO_AUTOUT_NOTIFY_IN@ORACLE.COM
+**********************************************
+Starting test case: Test Supplier Util Methods
+
+    Assert Passed! - HashMap: testposupplierutil
+    Test Case Passed! 
+
+End of test case: Test Supplier Util Methods
+**********************************************
+]]></system-out>

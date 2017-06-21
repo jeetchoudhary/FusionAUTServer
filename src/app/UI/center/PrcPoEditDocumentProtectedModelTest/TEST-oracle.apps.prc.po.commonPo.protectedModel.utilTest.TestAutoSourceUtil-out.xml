@@ -1,0 +1,170 @@
+<system-out><![CDATA[Delete: PO_GA_ORG_ASSIGNMENTS From XML File: TestAutoSourceUtil_po_ga_org_assignments.xml
+Delete: PO_VERSIONS From XML File: TestAutoSourceUtil_po_versions.xml
+Delete: PO_ATTRIBUTE_VALUES From XML File: TestAutoSourceUtil_po_attribute_values.xml
+Delete: PO_LINES_ARCHIVE_ALL From XML File: TestAutoSourceUtil_po_lines_archive_all.xml
+Delete: PO_LINES_ALL From XML File: TestAutoSourceUtil_po_lines_all.xml
+Delete: PO_HEADERS_ALL From XML File: TestAutoSourceUtil_po_headers_all.xml
+Delete: PO_APPROVED_SUPPLIER_LIST From XML File: TestAutoSourceUtil_po_approved_supplier_list.xml
+Delete: PO_ASL_ATTRIBUTES From XML File: TestAutoSourceUtil_po_asl_attributes.xml
+Delete: PO_ASL_DOCUMENTS From XML File: TestAutoSourceUtil_po_asl_documents.xml
+Insert: PO_HEADERS_ALL From XML File: TestAutoSourceUtil_po_headers_all.xml
+Insert: PO_LINES_ALL From XML File: TestAutoSourceUtil_po_lines_all.xml
+Insert: PO_LINES_ARCHIVE_ALL From XML File: TestAutoSourceUtil_po_lines_archive_all.xml
+Insert: PO_ATTRIBUTE_VALUES From XML File: TestAutoSourceUtil_po_attribute_values.xml
+Insert: PO_VERSIONS From XML File: TestAutoSourceUtil_po_versions.xml
+Insert: PO_GA_ORG_ASSIGNMENTS From XML File: TestAutoSourceUtil_po_ga_org_assignments.xml
+Insert: PO_APPROVED_SUPPLIER_LIST From XML File: TestAutoSourceUtil_po_approved_supplier_list.xml
+Insert: PO_ASL_ATTRIBUTES From XML File: TestAutoSourceUtil_po_asl_attributes.xml
+Insert: PO_ASL_DOCUMENTS From XML File: TestAutoSourceUtil_po_asl_documents.xml
+Test Class Owner is: PO_AUTOUT_NOTIFY_IN@ORACLE.COM
+**********************************************
+Starting test case: Identify Local Item Asl Bpa
+
+    Assert Passed! - HashMap: poHeaderId
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Identify Local Item Asl Bpa
+**********************************************
+**********************************************
+Starting test case: Identify Local Item Asl Cpa
+
+    Assert Passed! - HashMap: poHeaderId
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Identify Local Item Asl Cpa
+**********************************************
+**********************************************
+Starting test case: Identify Global Item Asl Bpa
+
+    Assert Passed! - HashMap: poHeaderId
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Identify Global Item Asl Bpa
+**********************************************
+**********************************************
+Starting test case: Identify Global Item Asl Cpa
+
+    Assert Passed! - HashMap: poHeaderId
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Identify Global Item Asl Cpa
+**********************************************
+**********************************************
+Starting test case: Identify Local Category Asl Cpa
+
+    Assert Passed! - HashMap: poHeaderId
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Identify Local Category Asl Cpa
+**********************************************
+**********************************************
+Starting test case: Identify Global Category Asl Cpa
+
+    Assert Passed! - HashMap: poHeaderId
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Identify Global Category Asl Cpa
+**********************************************
+**********************************************
+Starting test case: Identify Non Asl Bpa
+
+    Assert Passed! - HashMap: poHeaderId
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Identify Non Asl Bpa
+**********************************************
+**********************************************
+Starting test case: Identify Non Asl Cpa
+
+    Assert Passed! - HashMap: poHeaderId
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Identify Non Asl Cpa
+**********************************************
+**********************************************
+Starting test case: Destination Type Test
+
+    Assert Passed! - HashMap: poHeaderId
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Destination Type Test
+**********************************************
+**********************************************
+Starting test case: Destination Type Test For Consignment Lines
+
+    Assert Passed! - HashMap: poHeaderId
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Destination Type Test For Consignment Lines
+**********************************************
+**********************************************
+Starting test case: Agreement Precedence Rules Test
+
+    Assert Passed! - HashMap: poHeaderId
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Agreement Precedence Rules Test
+**********************************************
+**********************************************
+Starting test case: Bpa Line Expiry Test
+
+    Assert Passed! - HashMap: poHeaderId
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Bpa Line Expiry Test
+**********************************************
+**********************************************
+Starting test case: Autosourcing For ConfiguredItems Test
+
+    Assert Passed! - HashMap: poHeaderId
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Autosourcing For ConfiguredItems Test
+**********************************************
+**********************************************
+Starting test case: Cpa Exclusion Rules Test
+
+    Assert Passed! - HashMap: poHeaderId
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Cpa Exclusion Rules Test
+**********************************************
+**********************************************
+Starting test case: Asl Supplier Debarred Test
+
+    Assert Passed! - HashMap: poHeaderId
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Asl Supplier Debarred Test
+**********************************************
+]]></system-out>

@@ -1,0 +1,59 @@
+<system-out><![CDATA[Delete: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: TestPoShipToUtil_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Delete: PO_LINES_DRAFT_ALL From XML File: TestPoShipToUtil_PO_LINES_DRAFT_ALL.xml
+Delete: PO_HEADERS_DRAFT_ALL From XML File: TestPoShipToUtil_PO_HEADERS_DRAFT_ALL.xml
+Insert: PO_HEADERS_DRAFT_ALL From XML File: TestPoShipToUtil_PO_HEADERS_DRAFT_ALL.xml
+Insert: PO_LINES_DRAFT_ALL From XML File: TestPoShipToUtil_PO_LINES_DRAFT_ALL.xml
+Insert: PO_LINE_LOCATIONS_DRAFT_ALL From XML File: TestPoShipToUtil_PO_LINE_LOCATIONS_DRAFT_ALL.xml
+Test Class Owner is: PO_AUTOUT_NOTIFY_IN@ORACLE.COM
+**********************************************
+Starting test case: test default ship to org 1
+Return value is 207
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test default ship to org 1
+**********************************************
+**********************************************
+Starting test case: test valid organization1
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test valid organization1
+**********************************************
+**********************************************
+Starting test case: test valid organization2
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test valid organization2
+**********************************************
+**********************************************
+Starting test case: test valid Location1
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test valid Location1
+**********************************************
+**********************************************
+Starting test case: test valid Location2
+
+    Assert Passed! - HashMap: ReturnValue
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: test valid Location2
+**********************************************
+]]></system-out>

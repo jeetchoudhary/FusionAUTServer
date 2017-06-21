@@ -1,0 +1,32 @@
+<system-out><![CDATA[Test Class Owner is: PO_AUTOUT_NOTIFY_IN@ORACLE.COM
+**********************************************
+Starting test case: Test Get Line Type Purchase Basis Goods
+
+    Assert Passed! - HashMap: purchaseBasis
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Test Get Line Type Purchase Basis Goods
+**********************************************
+**********************************************
+Starting test case: Test Get Line Type Purchase Basis Services
+
+    Assert Passed! - HashMap: purchaseBasis
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Test Get Line Type Purchase Basis Services
+**********************************************
+**********************************************
+Starting test case: Test Do Transactions Exist
+
+    Assert Passed! - HashMap: doTransactionsExist
+    Test Case Passed! 
+
+    Test Case Passed! 
+
+End of test case: Test Do Transactions Exist
+**********************************************
+]]></system-out>

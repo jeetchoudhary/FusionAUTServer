@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.view.TransactionBizCategoriesVVO.TransactionBizCategoriesVVOTest" timestamp="2017-06-20T11:35:30" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="13" failures="0" errors="0" time="2.755" runId="0">
+  <properties />
+  <testcase name="entitiesNonUpdateable" classname="oracle.apps.prc.po.commonPo.protectedModel.view.TransactionBizCategoriesVVO.TransactionBizCategoriesVVOTest" id="0" time="0.142">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.TransactionBizCategoriesVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="testVOAccess" classname="oracle.apps.prc.po.commonPo.protectedModel.view.TransactionBizCategoriesVVO.TransactionBizCategoriesVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.TransactionBizCategoriesVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ClassificationName]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.TransactionBizCategoriesVVO.TransactionBizCategoriesVVOTest" id="0" time="0.087">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.TransactionBizCategoriesVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ClassificationCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.TransactionBizCategoriesVVO.TransactionBizCategoriesVVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.TransactionBizCategoriesVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CountryCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.TransactionBizCategoriesVVO.TransactionBizCategoriesVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.TransactionBizCategoriesVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[EffectiveFrom]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.TransactionBizCategoriesVVO.TransactionBizCategoriesVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.TransactionBizCategoriesVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[EffectiveTo]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.TransactionBizCategoriesVVO.TransactionBizCategoriesVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.TransactionBizCategoriesVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ApplicationId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.TransactionBizCategoriesVVO.TransactionBizCategoriesVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.TransactionBizCategoriesVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[EventClassCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.TransactionBizCategoriesVVO.TransactionBizCategoriesVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.TransactionBizCategoriesVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[TaxEvntClsCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.TransactionBizCategoriesVVO.TransactionBizCategoriesVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.TransactionBizCategoriesVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[EntityCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.TransactionBizCategoriesVVO.TransactionBizCategoriesVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.TransactionBizCategoriesVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ConcatClassifCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.TransactionBizCategoriesVVO.TransactionBizCategoriesVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.TransactionBizCategoriesVVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ConcatClassifName]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.TransactionBizCategoriesVVO.TransactionBizCategoriesVVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.validationView.TransactionBizCategoriesVVO" type="ADFVO" />
+  </testcase>
+</testsuite>

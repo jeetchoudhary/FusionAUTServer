@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" timestamp="2017-06-20T11:34:10" hostname="indl76040" family="NO_REGISTERED_LBA_FOR_JPR_NAME" initiative="prc_po_lrg" jpr="PrcPoCommonPoProtectedModelTest" label="" product="NO_REGISTERED_LBA_FOR_JPR_NAME" lba="NO_REGISTERED_LBA_FOR_JPR_NAME" tests="41" failures="0" errors="0" time="2.945" runId="0">
+  <properties />
+  <testcase name="testVOAccess" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.118">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[SupplierSiteCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.567">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[SupplierNameTransient]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Buyer]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[SoldtoLeName]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Total]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Description]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PoHeaderId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ObjectVersionNumber]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[CurrencyCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Segment1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[VendorSiteId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ObjectVersionNumber1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PartyId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PersonNameId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[EffectiveStartDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[EffectiveEndDate]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ObjectVersionNumber2]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[StyleName]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0020">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[StyleId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[DocumentSubtype]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[TotalTax]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.072">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Ordered]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.165">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Title]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[OsnKey]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[TypeLookupCode]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[SupplierName]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[LegalEntityId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[BlanketTotalAmount]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[ObjectVersionNumber3]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PrcBuName]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[OrganizationId]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[EffectiveStartDate1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[EffectiveEndDate1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Language]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[SoldtoBuName]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[OrganizationId1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[EffectiveStartDate2]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0010">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[EffectiveEndDate2]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[Language1]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+  <testcase name="invokeVORowImplAttributeGetter[PoHeaderTaxUi]" classname="oracle.apps.prc.po.commonPo.protectedModel.view.PurchasingDocumentTrxOsnVOTest" id="0" time="0.0">
+    <artifact_tested name="oracle.apps.prc.po.commonPo.protectedModel.osn.view.PurchasingDocumentTrxOsnVO" type="ADFVO" />
+  </testcase>
+</testsuite>

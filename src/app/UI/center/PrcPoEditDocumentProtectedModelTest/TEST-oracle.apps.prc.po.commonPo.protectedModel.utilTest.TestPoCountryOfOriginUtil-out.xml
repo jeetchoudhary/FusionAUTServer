@@ -1,0 +1,14 @@
+<system-out><![CDATA[Delete: PO_APPROVED_SUPPLIER_LIST From XML File: TestPoCountryOfOriginUtil_po_approved_supplier_list.xml
+Delete: PO_ASL_ATTRIBUTES From XML File: TestPoCountryOfOriginUtil_po_asl_attributes.xml
+Insert: PO_APPROVED_SUPPLIER_LIST From XML File: TestPoCountryOfOriginUtil_po_approved_supplier_list.xml
+Insert: PO_ASL_ATTRIBUTES From XML File: TestPoCountryOfOriginUtil_po_asl_attributes.xml
+Test Class Owner is: PO_AUTOUT_NOTIFY_IN@ORACLE.COM
+**********************************************
+Starting test case: Test Get Country Of Origin
+
+    Assert Passed! - HashMap: testpocountryoforiginutil
+    Test Case Passed! 
+
+End of test case: Test Get Country Of Origin
+**********************************************
+]]></system-out>
